@@ -25,7 +25,7 @@ You can find an example config in `examples/base16-onedark.theme`.
 Add in [btop.conf](https://github.com/aristocratos/btop?tab=readme-ov-file#configurability) path to file `base16-onedark.theme`:
 
 ```conf
-color_theme = "/path/to/.config/btop/themes/base16-onedark.theme"`
+color_theme = "/path/to/.config/btop/themes/base16-onedark.theme"
 ```
 
 or select theme in `btop`:

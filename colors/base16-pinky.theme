@@ -1,0 +1,90 @@
+#
+#
+# name: pinky
+# author: Benjamin (https://github.com/b3nj5m1n)
+# slug: pinky
+# slug-underscored: pinky
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#171517"
+
+# Main text color
+theme[main_fg]="#f5f5f5"
+
+# Title color for boxes
+theme[title]="#f5f5f5"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#00ffff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1b181b"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f5f5f5"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#e7dbdb"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#00ffff"
+
+# Cpu box outline color
+theme[cpu_box]="#e7dbdb"
+
+# Memory/disks box outline color
+theme[mem_box]="#e7dbdb"
+
+# Net up/down box outline color
+theme[net_box]="#e7dbdb"
+
+# Processes box outline color
+theme[proc_box]="#e7dbdb"
+
+# Box divider line and small boxes line color
+theme[div_line]="#e7dbdb"
+
+# Temperature graph colors
+theme[temp_start]="#ff0066"
+theme[temp_mid]="#20df6c"
+theme[temp_end]="#ffa600"
+
+# CPU graph colors
+theme[cpu_start]="#ff0066"
+theme[cpu_mid]="#20df6c"
+theme[cpu_end]="#ffa600"
+
+# Mem/Disk free meter
+theme[free_start]="#ff0066"
+theme[free_mid]="#20df6c"
+theme[free_end]="#ffa600"
+
+# Mem/Disk cached meter
+theme[cached_start]="#ff0066"
+theme[cached_mid]="#20df6c"
+theme[cached_end]="#ffa600"
+
+# Mem/Disk available meter
+theme[available_start]="#ff0066"
+theme[available_mid]="#20df6c"
+theme[available_end]="#ffa600"
+
+# Mem/Disk used meter
+theme[used_start]="#ff0066"
+theme[used_mid]="#20df6c"
+theme[used_end]="#ffa600"
+
+# Download graph colors
+theme[download_start]="#ff0066"
+theme[download_mid]="#20df6c"
+theme[download_end]="#ffa600"
+
+# Upload graph colors
+theme[upload_start]="#ff0066"
+theme[upload_mid]="#20df6c"
+theme[upload_end]="#ffa600"

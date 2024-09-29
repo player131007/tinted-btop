@@ -1,0 +1,90 @@
+#
+#
+# name: Snazzy
+# author: Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# slug: snazzy
+# slug-underscored: snazzy
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#282a36"
+
+# Main text color
+theme[main_fg]="#e2e4e5"
+
+# Title color for boxes
+theme[title]="#e2e4e5"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#57c7ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#34353e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#e2e4e5"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a5a5a9"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#57c7ff"
+
+# Cpu box outline color
+theme[cpu_box]="#a5a5a9"
+
+# Memory/disks box outline color
+theme[mem_box]="#a5a5a9"
+
+# Net up/down box outline color
+theme[net_box]="#a5a5a9"
+
+# Processes box outline color
+theme[proc_box]="#a5a5a9"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a5a5a9"
+
+# Temperature graph colors
+theme[temp_start]="#5af78e"
+theme[temp_mid]="#f3f99d"
+theme[temp_end]="#ff5c57"
+
+# CPU graph colors
+theme[cpu_start]="#5af78e"
+theme[cpu_mid]="#f3f99d"
+theme[cpu_end]="#ff5c57"
+
+# Mem/Disk free meter
+theme[free_start]="#5af78e"
+theme[free_mid]="#f3f99d"
+theme[free_end]="#ff5c57"
+
+# Mem/Disk cached meter
+theme[cached_start]="#5af78e"
+theme[cached_mid]="#f3f99d"
+theme[cached_end]="#ff5c57"
+
+# Mem/Disk available meter
+theme[available_start]="#5af78e"
+theme[available_mid]="#f3f99d"
+theme[available_end]="#ff5c57"
+
+# Mem/Disk used meter
+theme[used_start]="#5af78e"
+theme[used_mid]="#f3f99d"
+theme[used_end]="#ff5c57"
+
+# Download graph colors
+theme[download_start]="#5af78e"
+theme[download_mid]="#f3f99d"
+theme[download_end]="#ff5c57"
+
+# Upload graph colors
+theme[upload_start]="#5af78e"
+theme[upload_mid]="#f3f99d"
+theme[upload_end]="#ff5c57"

@@ -1,0 +1,90 @@
+#
+#
+# name: Humanoid light
+# author: Thomas (tasmo) Friese
+# slug: humanoid-light
+# slug-underscored: humanoid_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f8f8f2"
+
+# Main text color
+theme[main_fg]="#232629"
+
+# Title color for boxes
+theme[title]="#232629"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0082c9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#efefe9"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#232629"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#60615d"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0082c9"
+
+# Cpu box outline color
+theme[cpu_box]="#60615d"
+
+# Memory/disks box outline color
+theme[mem_box]="#60615d"
+
+# Net up/down box outline color
+theme[net_box]="#60615d"
+
+# Processes box outline color
+theme[proc_box]="#60615d"
+
+# Box divider line and small boxes line color
+theme[div_line]="#60615d"
+
+# Temperature graph colors
+theme[temp_start]="#388e3c"
+theme[temp_mid]="#ffb627"
+theme[temp_end]="#b0151a"
+
+# CPU graph colors
+theme[cpu_start]="#388e3c"
+theme[cpu_mid]="#ffb627"
+theme[cpu_end]="#b0151a"
+
+# Mem/Disk free meter
+theme[free_start]="#388e3c"
+theme[free_mid]="#ffb627"
+theme[free_end]="#b0151a"
+
+# Mem/Disk cached meter
+theme[cached_start]="#388e3c"
+theme[cached_mid]="#ffb627"
+theme[cached_end]="#b0151a"
+
+# Mem/Disk available meter
+theme[available_start]="#388e3c"
+theme[available_mid]="#ffb627"
+theme[available_end]="#b0151a"
+
+# Mem/Disk used meter
+theme[used_start]="#388e3c"
+theme[used_mid]="#ffb627"
+theme[used_end]="#b0151a"
+
+# Download graph colors
+theme[download_start]="#388e3c"
+theme[download_mid]="#ffb627"
+theme[download_end]="#b0151a"
+
+# Upload graph colors
+theme[upload_start]="#388e3c"
+theme[upload_mid]="#ffb627"
+theme[upload_end]="#b0151a"

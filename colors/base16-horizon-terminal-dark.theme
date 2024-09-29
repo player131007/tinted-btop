@@ -1,0 +1,90 @@
+#
+#
+# name: Horizon Terminal Dark
+# author: Michaël Ball (http://github.com/michael-ball/)
+# slug: horizon-terminal-dark
+# slug-underscored: horizon_terminal_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1C1E26"
+
+# Main text color
+theme[main_fg]="#CBCED0"
+
+# Title color for boxes
+theme[title]="#CBCED0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#26BBD9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#232530"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#CBCED0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9DA0A2"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#26BBD9"
+
+# Cpu box outline color
+theme[cpu_box]="#9DA0A2"
+
+# Memory/disks box outline color
+theme[mem_box]="#9DA0A2"
+
+# Net up/down box outline color
+theme[net_box]="#9DA0A2"
+
+# Processes box outline color
+theme[proc_box]="#9DA0A2"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9DA0A2"
+
+# Temperature graph colors
+theme[temp_start]="#29D398"
+theme[temp_mid]="#FAC29A"
+theme[temp_end]="#E95678"
+
+# CPU graph colors
+theme[cpu_start]="#29D398"
+theme[cpu_mid]="#FAC29A"
+theme[cpu_end]="#E95678"
+
+# Mem/Disk free meter
+theme[free_start]="#29D398"
+theme[free_mid]="#FAC29A"
+theme[free_end]="#E95678"
+
+# Mem/Disk cached meter
+theme[cached_start]="#29D398"
+theme[cached_mid]="#FAC29A"
+theme[cached_end]="#E95678"
+
+# Mem/Disk available meter
+theme[available_start]="#29D398"
+theme[available_mid]="#FAC29A"
+theme[available_end]="#E95678"
+
+# Mem/Disk used meter
+theme[used_start]="#29D398"
+theme[used_mid]="#FAC29A"
+theme[used_end]="#E95678"
+
+# Download graph colors
+theme[download_start]="#29D398"
+theme[download_mid]="#FAC29A"
+theme[download_end]="#E95678"
+
+# Upload graph colors
+theme[upload_start]="#29D398"
+theme[upload_mid]="#FAC29A"
+theme[upload_end]="#E95678"

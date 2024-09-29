@@ -1,0 +1,90 @@
+#
+#
+# name: Brewer
+# author: Timothée Poisot (http://github.com/tpoisot)
+# slug: brewer
+# slug-underscored: brewer
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#0c0d0e"
+
+# Main text color
+theme[main_fg]="#b7b8b9"
+
+# Title color for boxes
+theme[title]="#b7b8b9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3182bd"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2e2f30"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b7b8b9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#959697"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3182bd"
+
+# Cpu box outline color
+theme[cpu_box]="#959697"
+
+# Memory/disks box outline color
+theme[mem_box]="#959697"
+
+# Net up/down box outline color
+theme[net_box]="#959697"
+
+# Processes box outline color
+theme[proc_box]="#959697"
+
+# Box divider line and small boxes line color
+theme[div_line]="#959697"
+
+# Temperature graph colors
+theme[temp_start]="#31a354"
+theme[temp_mid]="#dca060"
+theme[temp_end]="#e31a1c"
+
+# CPU graph colors
+theme[cpu_start]="#31a354"
+theme[cpu_mid]="#dca060"
+theme[cpu_end]="#e31a1c"
+
+# Mem/Disk free meter
+theme[free_start]="#31a354"
+theme[free_mid]="#dca060"
+theme[free_end]="#e31a1c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#31a354"
+theme[cached_mid]="#dca060"
+theme[cached_end]="#e31a1c"
+
+# Mem/Disk available meter
+theme[available_start]="#31a354"
+theme[available_mid]="#dca060"
+theme[available_end]="#e31a1c"
+
+# Mem/Disk used meter
+theme[used_start]="#31a354"
+theme[used_mid]="#dca060"
+theme[used_end]="#e31a1c"
+
+# Download graph colors
+theme[download_start]="#31a354"
+theme[download_mid]="#dca060"
+theme[download_end]="#e31a1c"
+
+# Upload graph colors
+theme[upload_start]="#31a354"
+theme[upload_mid]="#dca060"
+theme[upload_end]="#e31a1c"

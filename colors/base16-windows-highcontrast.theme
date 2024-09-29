@@ -1,0 +1,90 @@
+#
+#
+# name: Windows High Contrast
+# author: Fergus Collins (https://github.com/C-Fergus)
+# slug: windows-highcontrast
+# slug-underscored: windows_highcontrast
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#c0c0c0"
+
+# Title color for boxes
+theme[title]="#c0c0c0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5454fc"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1C1C1C"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c0c0c0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a2a2a2"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5454fc"
+
+# Cpu box outline color
+theme[cpu_box]="#a2a2a2"
+
+# Memory/disks box outline color
+theme[mem_box]="#a2a2a2"
+
+# Net up/down box outline color
+theme[net_box]="#a2a2a2"
+
+# Processes box outline color
+theme[proc_box]="#a2a2a2"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a2a2a2"
+
+# Temperature graph colors
+theme[temp_start]="#54fc54"
+theme[temp_mid]="#fcfc54"
+theme[temp_end]="#fc5454"
+
+# CPU graph colors
+theme[cpu_start]="#54fc54"
+theme[cpu_mid]="#fcfc54"
+theme[cpu_end]="#fc5454"
+
+# Mem/Disk free meter
+theme[free_start]="#54fc54"
+theme[free_mid]="#fcfc54"
+theme[free_end]="#fc5454"
+
+# Mem/Disk cached meter
+theme[cached_start]="#54fc54"
+theme[cached_mid]="#fcfc54"
+theme[cached_end]="#fc5454"
+
+# Mem/Disk available meter
+theme[available_start]="#54fc54"
+theme[available_mid]="#fcfc54"
+theme[available_end]="#fc5454"
+
+# Mem/Disk used meter
+theme[used_start]="#54fc54"
+theme[used_mid]="#fcfc54"
+theme[used_end]="#fc5454"
+
+# Download graph colors
+theme[download_start]="#54fc54"
+theme[download_mid]="#fcfc54"
+theme[download_end]="#fc5454"
+
+# Upload graph colors
+theme[upload_start]="#54fc54"
+theme[upload_mid]="#fcfc54"
+theme[upload_end]="#fc5454"

@@ -1,0 +1,90 @@
+#
+#
+# name: selenized-white
+# author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# slug: selenized-white
+# slug-underscored: selenized_white
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#ffffff"
+
+# Main text color
+theme[main_fg]="#474747"
+
+# Title color for boxes
+theme[title]="#474747"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0054cf"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#ebebeb"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#474747"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#878787"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0054cf"
+
+# Cpu box outline color
+theme[cpu_box]="#878787"
+
+# Memory/disks box outline color
+theme[mem_box]="#878787"
+
+# Net up/down box outline color
+theme[net_box]="#878787"
+
+# Processes box outline color
+theme[proc_box]="#878787"
+
+# Box divider line and small boxes line color
+theme[div_line]="#878787"
+
+# Temperature graph colors
+theme[temp_start]="#008400"
+theme[temp_mid]="#af8500"
+theme[temp_end]="#bf0000"
+
+# CPU graph colors
+theme[cpu_start]="#008400"
+theme[cpu_mid]="#af8500"
+theme[cpu_end]="#bf0000"
+
+# Mem/Disk free meter
+theme[free_start]="#008400"
+theme[free_mid]="#af8500"
+theme[free_end]="#bf0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#008400"
+theme[cached_mid]="#af8500"
+theme[cached_end]="#bf0000"
+
+# Mem/Disk available meter
+theme[available_start]="#008400"
+theme[available_mid]="#af8500"
+theme[available_end]="#bf0000"
+
+# Mem/Disk used meter
+theme[used_start]="#008400"
+theme[used_mid]="#af8500"
+theme[used_end]="#bf0000"
+
+# Download graph colors
+theme[download_start]="#008400"
+theme[download_mid]="#af8500"
+theme[download_end]="#bf0000"
+
+# Upload graph colors
+theme[upload_start]="#008400"
+theme[upload_mid]="#af8500"
+theme[upload_end]="#bf0000"

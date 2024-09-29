@@ -1,0 +1,90 @@
+#
+#
+# name: vulcan
+# author: Andrey Varfolomeev
+# slug: vulcan
+# slug-underscored: vulcan
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#041523"
+
+# Main text color
+theme[main_fg]="#5b778c"
+
+# Title color for boxes
+theme[title]="#5b778c"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#977d7c"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#122339"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#5b778c"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#6b6977"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#977d7c"
+
+# Cpu box outline color
+theme[cpu_box]="#6b6977"
+
+# Memory/disks box outline color
+theme[mem_box]="#6b6977"
+
+# Net up/down box outline color
+theme[net_box]="#6b6977"
+
+# Processes box outline color
+theme[proc_box]="#6b6977"
+
+# Box divider line and small boxes line color
+theme[div_line]="#6b6977"
+
+# Temperature graph colors
+theme[temp_start]="#977d7c"
+theme[temp_mid]="#adb4b9"
+theme[temp_end]="#818591"
+
+# CPU graph colors
+theme[cpu_start]="#977d7c"
+theme[cpu_mid]="#adb4b9"
+theme[cpu_end]="#818591"
+
+# Mem/Disk free meter
+theme[free_start]="#977d7c"
+theme[free_mid]="#adb4b9"
+theme[free_end]="#818591"
+
+# Mem/Disk cached meter
+theme[cached_start]="#977d7c"
+theme[cached_mid]="#adb4b9"
+theme[cached_end]="#818591"
+
+# Mem/Disk available meter
+theme[available_start]="#977d7c"
+theme[available_mid]="#adb4b9"
+theme[available_end]="#818591"
+
+# Mem/Disk used meter
+theme[used_start]="#977d7c"
+theme[used_mid]="#adb4b9"
+theme[used_end]="#818591"
+
+# Download graph colors
+theme[download_start]="#977d7c"
+theme[download_mid]="#adb4b9"
+theme[download_end]="#818591"
+
+# Upload graph colors
+theme[upload_start]="#977d7c"
+theme[upload_mid]="#adb4b9"
+theme[upload_end]="#818591"

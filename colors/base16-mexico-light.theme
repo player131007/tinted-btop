@@ -1,0 +1,90 @@
+#
+#
+# name: Mexico Light
+# author: Sheldon Johnson
+# slug: mexico-light
+# slug-underscored: mexico_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f8f8f8"
+
+# Main text color
+theme[main_fg]="#383838"
+
+# Title color for boxes
+theme[title]="#383838"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7cafc2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e8e8e8"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#383838"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#585858"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7cafc2"
+
+# Cpu box outline color
+theme[cpu_box]="#585858"
+
+# Memory/disks box outline color
+theme[mem_box]="#585858"
+
+# Net up/down box outline color
+theme[net_box]="#585858"
+
+# Processes box outline color
+theme[proc_box]="#585858"
+
+# Box divider line and small boxes line color
+theme[div_line]="#585858"
+
+# Temperature graph colors
+theme[temp_start]="#538947"
+theme[temp_mid]="#f79a0e"
+theme[temp_end]="#ab4642"
+
+# CPU graph colors
+theme[cpu_start]="#538947"
+theme[cpu_mid]="#f79a0e"
+theme[cpu_end]="#ab4642"
+
+# Mem/Disk free meter
+theme[free_start]="#538947"
+theme[free_mid]="#f79a0e"
+theme[free_end]="#ab4642"
+
+# Mem/Disk cached meter
+theme[cached_start]="#538947"
+theme[cached_mid]="#f79a0e"
+theme[cached_end]="#ab4642"
+
+# Mem/Disk available meter
+theme[available_start]="#538947"
+theme[available_mid]="#f79a0e"
+theme[available_end]="#ab4642"
+
+# Mem/Disk used meter
+theme[used_start]="#538947"
+theme[used_mid]="#f79a0e"
+theme[used_end]="#ab4642"
+
+# Download graph colors
+theme[download_start]="#538947"
+theme[download_mid]="#f79a0e"
+theme[download_end]="#ab4642"
+
+# Upload graph colors
+theme[upload_start]="#538947"
+theme[upload_mid]="#f79a0e"
+theme[upload_end]="#ab4642"

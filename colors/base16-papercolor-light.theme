@@ -1,0 +1,90 @@
+#
+#
+# name: PaperColor Light
+# author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# slug: papercolor-light
+# slug-underscored: papercolor_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#eeeeee"
+
+# Main text color
+theme[main_fg]="#444444"
+
+# Title color for boxes
+theme[title]="#444444"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#d75f00"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#af0000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#444444"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#0087af"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#d75f00"
+
+# Cpu box outline color
+theme[cpu_box]="#0087af"
+
+# Memory/disks box outline color
+theme[mem_box]="#0087af"
+
+# Net up/down box outline color
+theme[net_box]="#0087af"
+
+# Processes box outline color
+theme[proc_box]="#0087af"
+
+# Box divider line and small boxes line color
+theme[div_line]="#0087af"
+
+# Temperature graph colors
+theme[temp_start]="#8700af"
+theme[temp_mid]="#d70087"
+theme[temp_end]="#bcbcbc"
+
+# CPU graph colors
+theme[cpu_start]="#8700af"
+theme[cpu_mid]="#d70087"
+theme[cpu_end]="#bcbcbc"
+
+# Mem/Disk free meter
+theme[free_start]="#8700af"
+theme[free_mid]="#d70087"
+theme[free_end]="#bcbcbc"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8700af"
+theme[cached_mid]="#d70087"
+theme[cached_end]="#bcbcbc"
+
+# Mem/Disk available meter
+theme[available_start]="#8700af"
+theme[available_mid]="#d70087"
+theme[available_end]="#bcbcbc"
+
+# Mem/Disk used meter
+theme[used_start]="#8700af"
+theme[used_mid]="#d70087"
+theme[used_end]="#bcbcbc"
+
+# Download graph colors
+theme[download_start]="#8700af"
+theme[download_mid]="#d70087"
+theme[download_end]="#bcbcbc"
+
+# Upload graph colors
+theme[upload_start]="#8700af"
+theme[upload_mid]="#d70087"
+theme[upload_end]="#bcbcbc"

@@ -1,0 +1,90 @@
+#
+#
+# name: Tomorrow
+# author: Chris Kempson (http://chriskempson.com)
+# slug: tomorrow
+# slug-underscored: tomorrow
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#ffffff"
+
+# Main text color
+theme[main_fg]="#4d4d4c"
+
+# Title color for boxes
+theme[title]="#4d4d4c"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4271ae"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e0e0e0"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#4d4d4c"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#969896"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4271ae"
+
+# Cpu box outline color
+theme[cpu_box]="#969896"
+
+# Memory/disks box outline color
+theme[mem_box]="#969896"
+
+# Net up/down box outline color
+theme[net_box]="#969896"
+
+# Processes box outline color
+theme[proc_box]="#969896"
+
+# Box divider line and small boxes line color
+theme[div_line]="#969896"
+
+# Temperature graph colors
+theme[temp_start]="#718c00"
+theme[temp_mid]="#eab700"
+theme[temp_end]="#c82829"
+
+# CPU graph colors
+theme[cpu_start]="#718c00"
+theme[cpu_mid]="#eab700"
+theme[cpu_end]="#c82829"
+
+# Mem/Disk free meter
+theme[free_start]="#718c00"
+theme[free_mid]="#eab700"
+theme[free_end]="#c82829"
+
+# Mem/Disk cached meter
+theme[cached_start]="#718c00"
+theme[cached_mid]="#eab700"
+theme[cached_end]="#c82829"
+
+# Mem/Disk available meter
+theme[available_start]="#718c00"
+theme[available_mid]="#eab700"
+theme[available_end]="#c82829"
+
+# Mem/Disk used meter
+theme[used_start]="#718c00"
+theme[used_mid]="#eab700"
+theme[used_end]="#c82829"
+
+# Download graph colors
+theme[download_start]="#718c00"
+theme[download_mid]="#eab700"
+theme[download_end]="#c82829"
+
+# Upload graph colors
+theme[upload_start]="#718c00"
+theme[upload_mid]="#eab700"
+theme[upload_end]="#c82829"

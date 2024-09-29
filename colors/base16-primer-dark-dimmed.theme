@@ -1,0 +1,90 @@
+#
+#
+# name: Primer Dark Dimmed
+# author: Jimmy Lin
+# slug: primer-dark-dimmed
+# slug-underscored: primer_dark_dimmed
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1c2128"
+
+# Main text color
+theme[main_fg]="#909dab"
+
+# Title color for boxes
+theme[title]="#909dab"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#539bf5"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#373e47"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#909dab"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#768390"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#539bf5"
+
+# Cpu box outline color
+theme[cpu_box]="#768390"
+
+# Memory/disks box outline color
+theme[mem_box]="#768390"
+
+# Net up/down box outline color
+theme[net_box]="#768390"
+
+# Processes box outline color
+theme[proc_box]="#768390"
+
+# Box divider line and small boxes line color
+theme[div_line]="#768390"
+
+# Temperature graph colors
+theme[temp_start]="#57ab5a"
+theme[temp_mid]="#c69026"
+theme[temp_end]="#f47067"
+
+# CPU graph colors
+theme[cpu_start]="#57ab5a"
+theme[cpu_mid]="#c69026"
+theme[cpu_end]="#f47067"
+
+# Mem/Disk free meter
+theme[free_start]="#57ab5a"
+theme[free_mid]="#c69026"
+theme[free_end]="#f47067"
+
+# Mem/Disk cached meter
+theme[cached_start]="#57ab5a"
+theme[cached_mid]="#c69026"
+theme[cached_end]="#f47067"
+
+# Mem/Disk available meter
+theme[available_start]="#57ab5a"
+theme[available_mid]="#c69026"
+theme[available_end]="#f47067"
+
+# Mem/Disk used meter
+theme[used_start]="#57ab5a"
+theme[used_mid]="#c69026"
+theme[used_end]="#f47067"
+
+# Download graph colors
+theme[download_start]="#57ab5a"
+theme[download_mid]="#c69026"
+theme[download_end]="#f47067"
+
+# Upload graph colors
+theme[upload_start]="#57ab5a"
+theme[upload_mid]="#c69026"
+theme[upload_end]="#f47067"

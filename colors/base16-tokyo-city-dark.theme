@@ -1,0 +1,90 @@
+#
+#
+# name: Tokyo City Dark
+# author: Michaël Ball
+# slug: tokyo-city-dark
+# slug-underscored: tokyo_city_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#171D23"
+
+# Main text color
+theme[main_fg]="#D8E2EC"
+
+# Title color for boxes
+theme[title]="#D8E2EC"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7AA2F7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1D252C"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#D8E2EC"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#B7C5D3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7AA2F7"
+
+# Cpu box outline color
+theme[cpu_box]="#B7C5D3"
+
+# Memory/disks box outline color
+theme[mem_box]="#B7C5D3"
+
+# Net up/down box outline color
+theme[net_box]="#B7C5D3"
+
+# Processes box outline color
+theme[proc_box]="#B7C5D3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#B7C5D3"
+
+# Temperature graph colors
+theme[temp_start]="#9ECE6A"
+theme[temp_mid]="#B7C5D3"
+theme[temp_end]="#F7768E"
+
+# CPU graph colors
+theme[cpu_start]="#9ECE6A"
+theme[cpu_mid]="#B7C5D3"
+theme[cpu_end]="#F7768E"
+
+# Mem/Disk free meter
+theme[free_start]="#9ECE6A"
+theme[free_mid]="#B7C5D3"
+theme[free_end]="#F7768E"
+
+# Mem/Disk cached meter
+theme[cached_start]="#9ECE6A"
+theme[cached_mid]="#B7C5D3"
+theme[cached_end]="#F7768E"
+
+# Mem/Disk available meter
+theme[available_start]="#9ECE6A"
+theme[available_mid]="#B7C5D3"
+theme[available_end]="#F7768E"
+
+# Mem/Disk used meter
+theme[used_start]="#9ECE6A"
+theme[used_mid]="#B7C5D3"
+theme[used_end]="#F7768E"
+
+# Download graph colors
+theme[download_start]="#9ECE6A"
+theme[download_mid]="#B7C5D3"
+theme[download_end]="#F7768E"
+
+# Upload graph colors
+theme[upload_start]="#9ECE6A"
+theme[upload_mid]="#B7C5D3"
+theme[upload_end]="#F7768E"

@@ -1,0 +1,90 @@
+#
+#
+# name: Materia
+# author: Defman21
+# slug: materia
+# slug-underscored: materia
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#263238"
+
+# Main text color
+theme[main_fg]="#CDD3DE"
+
+# Title color for boxes
+theme[title]="#CDD3DE"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#89DDFF"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2C393F"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#CDD3DE"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#C9CCD3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#89DDFF"
+
+# Cpu box outline color
+theme[cpu_box]="#C9CCD3"
+
+# Memory/disks box outline color
+theme[mem_box]="#C9CCD3"
+
+# Net up/down box outline color
+theme[net_box]="#C9CCD3"
+
+# Processes box outline color
+theme[proc_box]="#C9CCD3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#C9CCD3"
+
+# Temperature graph colors
+theme[temp_start]="#8BD649"
+theme[temp_mid]="#FFCC00"
+theme[temp_end]="#EC5F67"
+
+# CPU graph colors
+theme[cpu_start]="#8BD649"
+theme[cpu_mid]="#FFCC00"
+theme[cpu_end]="#EC5F67"
+
+# Mem/Disk free meter
+theme[free_start]="#8BD649"
+theme[free_mid]="#FFCC00"
+theme[free_end]="#EC5F67"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8BD649"
+theme[cached_mid]="#FFCC00"
+theme[cached_end]="#EC5F67"
+
+# Mem/Disk available meter
+theme[available_start]="#8BD649"
+theme[available_mid]="#FFCC00"
+theme[available_end]="#EC5F67"
+
+# Mem/Disk used meter
+theme[used_start]="#8BD649"
+theme[used_mid]="#FFCC00"
+theme[used_end]="#EC5F67"
+
+# Download graph colors
+theme[download_start]="#8BD649"
+theme[download_mid]="#FFCC00"
+theme[download_end]="#EC5F67"
+
+# Upload graph colors
+theme[upload_start]="#8BD649"
+theme[upload_mid]="#FFCC00"
+theme[upload_end]="#EC5F67"

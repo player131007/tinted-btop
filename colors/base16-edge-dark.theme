@@ -1,0 +1,90 @@
+#
+#
+# name: Edge Dark
+# author: cjayross (https://github.com/cjayross)
+# slug: edge-dark
+# slug-underscored: edge_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#262729"
+
+# Main text color
+theme[main_fg]="#b7bec9"
+
+# Title color for boxes
+theme[title]="#b7bec9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#73b3e7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#88909f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b7bec9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#73b3e7"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#73b3e7"
+
+# Cpu box outline color
+theme[cpu_box]="#73b3e7"
+
+# Memory/disks box outline color
+theme[mem_box]="#73b3e7"
+
+# Net up/down box outline color
+theme[net_box]="#73b3e7"
+
+# Processes box outline color
+theme[proc_box]="#73b3e7"
+
+# Box divider line and small boxes line color
+theme[div_line]="#73b3e7"
+
+# Temperature graph colors
+theme[temp_start]="#a1bf78"
+theme[temp_mid]="#dbb774"
+theme[temp_end]="#e77171"
+
+# CPU graph colors
+theme[cpu_start]="#a1bf78"
+theme[cpu_mid]="#dbb774"
+theme[cpu_end]="#e77171"
+
+# Mem/Disk free meter
+theme[free_start]="#a1bf78"
+theme[free_mid]="#dbb774"
+theme[free_end]="#e77171"
+
+# Mem/Disk cached meter
+theme[cached_start]="#a1bf78"
+theme[cached_mid]="#dbb774"
+theme[cached_end]="#e77171"
+
+# Mem/Disk available meter
+theme[available_start]="#a1bf78"
+theme[available_mid]="#dbb774"
+theme[available_end]="#e77171"
+
+# Mem/Disk used meter
+theme[used_start]="#a1bf78"
+theme[used_mid]="#dbb774"
+theme[used_end]="#e77171"
+
+# Download graph colors
+theme[download_start]="#a1bf78"
+theme[download_mid]="#dbb774"
+theme[download_end]="#e77171"
+
+# Upload graph colors
+theme[upload_start]="#a1bf78"
+theme[upload_mid]="#dbb774"
+theme[upload_end]="#e77171"

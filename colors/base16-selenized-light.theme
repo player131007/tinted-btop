@@ -1,0 +1,90 @@
+#
+#
+# name: selenized-light
+# author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# slug: selenized-light
+# slug-underscored: selenized_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#fbf3db"
+
+# Main text color
+theme[main_fg]="#53676d"
+
+# Title color for boxes
+theme[title]="#53676d"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#006dce"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#ece3cc"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#53676d"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#909995"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#006dce"
+
+# Cpu box outline color
+theme[cpu_box]="#909995"
+
+# Memory/disks box outline color
+theme[mem_box]="#909995"
+
+# Net up/down box outline color
+theme[net_box]="#909995"
+
+# Processes box outline color
+theme[proc_box]="#909995"
+
+# Box divider line and small boxes line color
+theme[div_line]="#909995"
+
+# Temperature graph colors
+theme[temp_start]="#428b00"
+theme[temp_mid]="#a78300"
+theme[temp_end]="#cc1729"
+
+# CPU graph colors
+theme[cpu_start]="#428b00"
+theme[cpu_mid]="#a78300"
+theme[cpu_end]="#cc1729"
+
+# Mem/Disk free meter
+theme[free_start]="#428b00"
+theme[free_mid]="#a78300"
+theme[free_end]="#cc1729"
+
+# Mem/Disk cached meter
+theme[cached_start]="#428b00"
+theme[cached_mid]="#a78300"
+theme[cached_end]="#cc1729"
+
+# Mem/Disk available meter
+theme[available_start]="#428b00"
+theme[available_mid]="#a78300"
+theme[available_end]="#cc1729"
+
+# Mem/Disk used meter
+theme[used_start]="#428b00"
+theme[used_mid]="#a78300"
+theme[used_end]="#cc1729"
+
+# Download graph colors
+theme[download_start]="#428b00"
+theme[download_mid]="#a78300"
+theme[download_end]="#cc1729"
+
+# Upload graph colors
+theme[upload_start]="#428b00"
+theme[upload_mid]="#a78300"
+theme[upload_end]="#cc1729"

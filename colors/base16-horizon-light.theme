@@ -1,0 +1,90 @@
+#
+#
+# name: Horizon Light
+# author: Michaël Ball (http://github.com/michael-ball/)
+# slug: horizon-light
+# slug-underscored: horizon_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#FDF0ED"
+
+# Main text color
+theme[main_fg]="#403C3D"
+
+# Title color for boxes
+theme[title]="#403C3D"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#DA103F"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#FADAD1"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#403C3D"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#948C8A"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#DA103F"
+
+# Cpu box outline color
+theme[cpu_box]="#948C8A"
+
+# Memory/disks box outline color
+theme[mem_box]="#948C8A"
+
+# Net up/down box outline color
+theme[net_box]="#948C8A"
+
+# Processes box outline color
+theme[proc_box]="#948C8A"
+
+# Box divider line and small boxes line color
+theme[div_line]="#948C8A"
+
+# Temperature graph colors
+theme[temp_start]="#94E1B0"
+theme[temp_mid]="#FBE0D9"
+theme[temp_end]="#F7939B"
+
+# CPU graph colors
+theme[cpu_start]="#94E1B0"
+theme[cpu_mid]="#FBE0D9"
+theme[cpu_end]="#F7939B"
+
+# Mem/Disk free meter
+theme[free_start]="#94E1B0"
+theme[free_mid]="#FBE0D9"
+theme[free_end]="#F7939B"
+
+# Mem/Disk cached meter
+theme[cached_start]="#94E1B0"
+theme[cached_mid]="#FBE0D9"
+theme[cached_end]="#F7939B"
+
+# Mem/Disk available meter
+theme[available_start]="#94E1B0"
+theme[available_mid]="#FBE0D9"
+theme[available_end]="#F7939B"
+
+# Mem/Disk used meter
+theme[used_start]="#94E1B0"
+theme[used_mid]="#FBE0D9"
+theme[used_end]="#F7939B"
+
+# Download graph colors
+theme[download_start]="#94E1B0"
+theme[download_mid]="#FBE0D9"
+theme[download_end]="#F7939B"
+
+# Upload graph colors
+theme[upload_start]="#94E1B0"
+theme[upload_mid]="#FBE0D9"
+theme[upload_end]="#F7939B"

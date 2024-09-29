@@ -1,0 +1,90 @@
+#
+#
+# name: Atelier Sulphurpool
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-sulphurpool
+# slug-underscored: atelier_sulphurpool
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#202746"
+
+# Main text color
+theme[main_fg]="#979db4"
+
+# Title color for boxes
+theme[title]="#979db4"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3d8fd1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#293256"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#979db4"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#898ea4"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3d8fd1"
+
+# Cpu box outline color
+theme[cpu_box]="#898ea4"
+
+# Memory/disks box outline color
+theme[mem_box]="#898ea4"
+
+# Net up/down box outline color
+theme[net_box]="#898ea4"
+
+# Processes box outline color
+theme[proc_box]="#898ea4"
+
+# Box divider line and small boxes line color
+theme[div_line]="#898ea4"
+
+# Temperature graph colors
+theme[temp_start]="#ac9739"
+theme[temp_mid]="#c08b30"
+theme[temp_end]="#c94922"
+
+# CPU graph colors
+theme[cpu_start]="#ac9739"
+theme[cpu_mid]="#c08b30"
+theme[cpu_end]="#c94922"
+
+# Mem/Disk free meter
+theme[free_start]="#ac9739"
+theme[free_mid]="#c08b30"
+theme[free_end]="#c94922"
+
+# Mem/Disk cached meter
+theme[cached_start]="#ac9739"
+theme[cached_mid]="#c08b30"
+theme[cached_end]="#c94922"
+
+# Mem/Disk available meter
+theme[available_start]="#ac9739"
+theme[available_mid]="#c08b30"
+theme[available_end]="#c94922"
+
+# Mem/Disk used meter
+theme[used_start]="#ac9739"
+theme[used_mid]="#c08b30"
+theme[used_end]="#c94922"
+
+# Download graph colors
+theme[download_start]="#ac9739"
+theme[download_mid]="#c08b30"
+theme[download_end]="#c94922"
+
+# Upload graph colors
+theme[upload_start]="#ac9739"
+theme[upload_mid]="#c08b30"
+theme[upload_end]="#c94922"

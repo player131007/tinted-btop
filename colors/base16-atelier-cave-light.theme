@@ -1,0 +1,90 @@
+#
+#
+# name: Atelier Cave Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-cave-light
+# slug-underscored: atelier_cave_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#efecf4"
+
+# Main text color
+theme[main_fg]="#585260"
+
+# Title color for boxes
+theme[title]="#585260"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#576ddb"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e2dfe7"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#585260"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#655f6d"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#576ddb"
+
+# Cpu box outline color
+theme[cpu_box]="#655f6d"
+
+# Memory/disks box outline color
+theme[mem_box]="#655f6d"
+
+# Net up/down box outline color
+theme[net_box]="#655f6d"
+
+# Processes box outline color
+theme[proc_box]="#655f6d"
+
+# Box divider line and small boxes line color
+theme[div_line]="#655f6d"
+
+# Temperature graph colors
+theme[temp_start]="#2a9292"
+theme[temp_mid]="#a06e3b"
+theme[temp_end]="#be4678"
+
+# CPU graph colors
+theme[cpu_start]="#2a9292"
+theme[cpu_mid]="#a06e3b"
+theme[cpu_end]="#be4678"
+
+# Mem/Disk free meter
+theme[free_start]="#2a9292"
+theme[free_mid]="#a06e3b"
+theme[free_end]="#be4678"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2a9292"
+theme[cached_mid]="#a06e3b"
+theme[cached_end]="#be4678"
+
+# Mem/Disk available meter
+theme[available_start]="#2a9292"
+theme[available_mid]="#a06e3b"
+theme[available_end]="#be4678"
+
+# Mem/Disk used meter
+theme[used_start]="#2a9292"
+theme[used_mid]="#a06e3b"
+theme[used_end]="#be4678"
+
+# Download graph colors
+theme[download_start]="#2a9292"
+theme[download_mid]="#a06e3b"
+theme[download_end]="#be4678"
+
+# Upload graph colors
+theme[upload_start]="#2a9292"
+theme[upload_mid]="#a06e3b"
+theme[upload_end]="#be4678"

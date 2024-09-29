@@ -1,0 +1,90 @@
+#
+#
+# name: Atelier Estuary Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-estuary-light
+# slug-underscored: atelier_estuary_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f4f3ec"
+
+# Main text color
+theme[main_fg]="#5f5e4e"
+
+# Title color for boxes
+theme[title]="#5f5e4e"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#36a166"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e7e6df"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#5f5e4e"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#6c6b5a"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#36a166"
+
+# Cpu box outline color
+theme[cpu_box]="#6c6b5a"
+
+# Memory/disks box outline color
+theme[mem_box]="#6c6b5a"
+
+# Net up/down box outline color
+theme[net_box]="#6c6b5a"
+
+# Processes box outline color
+theme[proc_box]="#6c6b5a"
+
+# Box divider line and small boxes line color
+theme[div_line]="#6c6b5a"
+
+# Temperature graph colors
+theme[temp_start]="#7d9726"
+theme[temp_mid]="#a5980d"
+theme[temp_end]="#ba6236"
+
+# CPU graph colors
+theme[cpu_start]="#7d9726"
+theme[cpu_mid]="#a5980d"
+theme[cpu_end]="#ba6236"
+
+# Mem/Disk free meter
+theme[free_start]="#7d9726"
+theme[free_mid]="#a5980d"
+theme[free_end]="#ba6236"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7d9726"
+theme[cached_mid]="#a5980d"
+theme[cached_end]="#ba6236"
+
+# Mem/Disk available meter
+theme[available_start]="#7d9726"
+theme[available_mid]="#a5980d"
+theme[available_end]="#ba6236"
+
+# Mem/Disk used meter
+theme[used_start]="#7d9726"
+theme[used_mid]="#a5980d"
+theme[used_end]="#ba6236"
+
+# Download graph colors
+theme[download_start]="#7d9726"
+theme[download_mid]="#a5980d"
+theme[download_end]="#ba6236"
+
+# Upload graph colors
+theme[upload_start]="#7d9726"
+theme[upload_mid]="#a5980d"
+theme[upload_end]="#ba6236"

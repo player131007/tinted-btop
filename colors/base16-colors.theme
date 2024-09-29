@@ -1,0 +1,90 @@
+#
+#
+# name: Colors
+# author: mrmrs (http://clrs.cc)
+# slug: colors
+# slug-underscored: colors
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#111111"
+
+# Main text color
+theme[main_fg]="#bbbbbb"
+
+# Title color for boxes
+theme[title]="#bbbbbb"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0074d9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#333333"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#bbbbbb"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#999999"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0074d9"
+
+# Cpu box outline color
+theme[cpu_box]="#999999"
+
+# Memory/disks box outline color
+theme[mem_box]="#999999"
+
+# Net up/down box outline color
+theme[net_box]="#999999"
+
+# Processes box outline color
+theme[proc_box]="#999999"
+
+# Box divider line and small boxes line color
+theme[div_line]="#999999"
+
+# Temperature graph colors
+theme[temp_start]="#2ecc40"
+theme[temp_mid]="#ffdc00"
+theme[temp_end]="#ff4136"
+
+# CPU graph colors
+theme[cpu_start]="#2ecc40"
+theme[cpu_mid]="#ffdc00"
+theme[cpu_end]="#ff4136"
+
+# Mem/Disk free meter
+theme[free_start]="#2ecc40"
+theme[free_mid]="#ffdc00"
+theme[free_end]="#ff4136"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2ecc40"
+theme[cached_mid]="#ffdc00"
+theme[cached_end]="#ff4136"
+
+# Mem/Disk available meter
+theme[available_start]="#2ecc40"
+theme[available_mid]="#ffdc00"
+theme[available_end]="#ff4136"
+
+# Mem/Disk used meter
+theme[used_start]="#2ecc40"
+theme[used_mid]="#ffdc00"
+theme[used_end]="#ff4136"
+
+# Download graph colors
+theme[download_start]="#2ecc40"
+theme[download_mid]="#ffdc00"
+theme[download_end]="#ff4136"
+
+# Upload graph colors
+theme[upload_start]="#2ecc40"
+theme[upload_mid]="#ffdc00"
+theme[upload_end]="#ff4136"

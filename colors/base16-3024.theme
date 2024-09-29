@@ -1,0 +1,90 @@
+#
+#
+# name: 3024
+# author: Jan T. Sott (http://github.com/idleberg)
+# slug: 3024
+# slug-underscored: 3024
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#090300"
+
+# Main text color
+theme[main_fg]="#a5a2a2"
+
+# Title color for boxes
+theme[title]="#a5a2a2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#01a0e4"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3a3432"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a5a2a2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#807d7c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#01a0e4"
+
+# Cpu box outline color
+theme[cpu_box]="#807d7c"
+
+# Memory/disks box outline color
+theme[mem_box]="#807d7c"
+
+# Net up/down box outline color
+theme[net_box]="#807d7c"
+
+# Processes box outline color
+theme[proc_box]="#807d7c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#807d7c"
+
+# Temperature graph colors
+theme[temp_start]="#01a252"
+theme[temp_mid]="#fded02"
+theme[temp_end]="#db2d20"
+
+# CPU graph colors
+theme[cpu_start]="#01a252"
+theme[cpu_mid]="#fded02"
+theme[cpu_end]="#db2d20"
+
+# Mem/Disk free meter
+theme[free_start]="#01a252"
+theme[free_mid]="#fded02"
+theme[free_end]="#db2d20"
+
+# Mem/Disk cached meter
+theme[cached_start]="#01a252"
+theme[cached_mid]="#fded02"
+theme[cached_end]="#db2d20"
+
+# Mem/Disk available meter
+theme[available_start]="#01a252"
+theme[available_mid]="#fded02"
+theme[available_end]="#db2d20"
+
+# Mem/Disk used meter
+theme[used_start]="#01a252"
+theme[used_mid]="#fded02"
+theme[used_end]="#db2d20"
+
+# Download graph colors
+theme[download_start]="#01a252"
+theme[download_mid]="#fded02"
+theme[download_end]="#db2d20"
+
+# Upload graph colors
+theme[upload_start]="#01a252"
+theme[upload_mid]="#fded02"
+theme[upload_end]="#db2d20"

@@ -1,0 +1,90 @@
+#
+#
+# name: Solar Flare Light
+# author: Chuck Harmston (https://chuck.harmston.ch)
+# slug: solarflare-light
+# slug-underscored: solarflare_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#F5F7FA"
+
+# Main text color
+theme[main_fg]="#586875"
+
+# Title color for boxes
+theme[title]="#586875"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#33B5E1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#E8E9ED"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#586875"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#667581"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#33B5E1"
+
+# Cpu box outline color
+theme[cpu_box]="#667581"
+
+# Memory/disks box outline color
+theme[mem_box]="#667581"
+
+# Net up/down box outline color
+theme[net_box]="#667581"
+
+# Processes box outline color
+theme[proc_box]="#667581"
+
+# Box divider line and small boxes line color
+theme[div_line]="#667581"
+
+# Temperature graph colors
+theme[temp_start]="#7CC844"
+theme[temp_mid]="#E4B51C"
+theme[temp_end]="#EF5253"
+
+# CPU graph colors
+theme[cpu_start]="#7CC844"
+theme[cpu_mid]="#E4B51C"
+theme[cpu_end]="#EF5253"
+
+# Mem/Disk free meter
+theme[free_start]="#7CC844"
+theme[free_mid]="#E4B51C"
+theme[free_end]="#EF5253"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7CC844"
+theme[cached_mid]="#E4B51C"
+theme[cached_end]="#EF5253"
+
+# Mem/Disk available meter
+theme[available_start]="#7CC844"
+theme[available_mid]="#E4B51C"
+theme[available_end]="#EF5253"
+
+# Mem/Disk used meter
+theme[used_start]="#7CC844"
+theme[used_mid]="#E4B51C"
+theme[used_end]="#EF5253"
+
+# Download graph colors
+theme[download_start]="#7CC844"
+theme[download_mid]="#E4B51C"
+theme[download_end]="#EF5253"
+
+# Upload graph colors
+theme[upload_start]="#7CC844"
+theme[upload_mid]="#E4B51C"
+theme[upload_end]="#EF5253"

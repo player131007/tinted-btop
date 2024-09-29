@@ -1,0 +1,90 @@
+#
+#
+# name: Rosé Pine
+# author: Emilia Dunfelt <edun@dunfelt.se>
+# slug: rose-pine
+# slug-underscored: rose_pine
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#191724"
+
+# Main text color
+theme[main_fg]="#e0def4"
+
+# Title color for boxes
+theme[title]="#e0def4"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#c4a7e7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1f1d2e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#e0def4"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#908caa"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#c4a7e7"
+
+# Cpu box outline color
+theme[cpu_box]="#908caa"
+
+# Memory/disks box outline color
+theme[mem_box]="#908caa"
+
+# Net up/down box outline color
+theme[net_box]="#908caa"
+
+# Processes box outline color
+theme[proc_box]="#908caa"
+
+# Box divider line and small boxes line color
+theme[div_line]="#908caa"
+
+# Temperature graph colors
+theme[temp_start]="#31748f"
+theme[temp_mid]="#ebbcba"
+theme[temp_end]="#eb6f92"
+
+# CPU graph colors
+theme[cpu_start]="#31748f"
+theme[cpu_mid]="#ebbcba"
+theme[cpu_end]="#eb6f92"
+
+# Mem/Disk free meter
+theme[free_start]="#31748f"
+theme[free_mid]="#ebbcba"
+theme[free_end]="#eb6f92"
+
+# Mem/Disk cached meter
+theme[cached_start]="#31748f"
+theme[cached_mid]="#ebbcba"
+theme[cached_end]="#eb6f92"
+
+# Mem/Disk available meter
+theme[available_start]="#31748f"
+theme[available_mid]="#ebbcba"
+theme[available_end]="#eb6f92"
+
+# Mem/Disk used meter
+theme[used_start]="#31748f"
+theme[used_mid]="#ebbcba"
+theme[used_end]="#eb6f92"
+
+# Download graph colors
+theme[download_start]="#31748f"
+theme[download_mid]="#ebbcba"
+theme[download_end]="#eb6f92"
+
+# Upload graph colors
+theme[upload_start]="#31748f"
+theme[upload_mid]="#ebbcba"
+theme[upload_end]="#eb6f92"

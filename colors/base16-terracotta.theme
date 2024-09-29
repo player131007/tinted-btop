@@ -1,0 +1,90 @@
+#
+#
+# name: Terracotta
+# author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+# slug: terracotta
+# slug-underscored: terracotta
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#efeae8"
+
+# Main text color
+theme[main_fg]="#473731"
+
+# Title color for boxes
+theme[title]="#473731"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#625574"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#dfd6d1"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#473731"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#59453d"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#625574"
+
+# Cpu box outline color
+theme[cpu_box]="#59453d"
+
+# Memory/disks box outline color
+theme[mem_box]="#59453d"
+
+# Net up/down box outline color
+theme[net_box]="#59453d"
+
+# Processes box outline color
+theme[proc_box]="#59453d"
+
+# Box divider line and small boxes line color
+theme[div_line]="#59453d"
+
+# Temperature graph colors
+theme[temp_start]="#7a894a"
+theme[temp_mid]="#ce943e"
+theme[temp_end]="#a75045"
+
+# CPU graph colors
+theme[cpu_start]="#7a894a"
+theme[cpu_mid]="#ce943e"
+theme[cpu_end]="#a75045"
+
+# Mem/Disk free meter
+theme[free_start]="#7a894a"
+theme[free_mid]="#ce943e"
+theme[free_end]="#a75045"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7a894a"
+theme[cached_mid]="#ce943e"
+theme[cached_end]="#a75045"
+
+# Mem/Disk available meter
+theme[available_start]="#7a894a"
+theme[available_mid]="#ce943e"
+theme[available_end]="#a75045"
+
+# Mem/Disk used meter
+theme[used_start]="#7a894a"
+theme[used_mid]="#ce943e"
+theme[used_end]="#a75045"
+
+# Download graph colors
+theme[download_start]="#7a894a"
+theme[download_mid]="#ce943e"
+theme[download_end]="#a75045"
+
+# Upload graph colors
+theme[upload_start]="#7a894a"
+theme[upload_mid]="#ce943e"
+theme[upload_end]="#a75045"

@@ -1,0 +1,90 @@
+#
+#
+# name: ShadeSmear Dark
+# author: Kyle Giammarco (http://kyle.giammar.co)
+# slug: shadesmear-dark
+# slug-underscored: shadesmear_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#232323"
+
+# Main text color
+theme[main_fg]="#DBDBDB"
+
+# Title color for boxes
+theme[title]="#DBDBDB"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#376388"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1C1C1C"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#DBDBDB"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#E4E4E4"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#376388"
+
+# Cpu box outline color
+theme[cpu_box]="#E4E4E4"
+
+# Memory/disks box outline color
+theme[mem_box]="#E4E4E4"
+
+# Net up/down box outline color
+theme[net_box]="#E4E4E4"
+
+# Processes box outline color
+theme[proc_box]="#E4E4E4"
+
+# Box divider line and small boxes line color
+theme[div_line]="#E4E4E4"
+
+# Temperature graph colors
+theme[temp_start]="#71983B"
+theme[temp_mid]="#307878"
+theme[temp_end]="#CC5450"
+
+# CPU graph colors
+theme[cpu_start]="#71983B"
+theme[cpu_mid]="#307878"
+theme[cpu_end]="#CC5450"
+
+# Mem/Disk free meter
+theme[free_start]="#71983B"
+theme[free_mid]="#307878"
+theme[free_end]="#CC5450"
+
+# Mem/Disk cached meter
+theme[cached_start]="#71983B"
+theme[cached_mid]="#307878"
+theme[cached_end]="#CC5450"
+
+# Mem/Disk available meter
+theme[available_start]="#71983B"
+theme[available_mid]="#307878"
+theme[available_end]="#CC5450"
+
+# Mem/Disk used meter
+theme[used_start]="#71983B"
+theme[used_mid]="#307878"
+theme[used_end]="#CC5450"
+
+# Download graph colors
+theme[download_start]="#71983B"
+theme[download_mid]="#307878"
+theme[download_end]="#CC5450"
+
+# Upload graph colors
+theme[upload_start]="#71983B"
+theme[upload_mid]="#307878"
+theme[upload_end]="#CC5450"

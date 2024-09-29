@@ -1,0 +1,90 @@
+#
+#
+# name: Silk Dark
+# author: Gabriel Fontes (https://github.com/Misterio77)
+# slug: silk-dark
+# slug-underscored: silk_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#0e3c46"
+
+# Main text color
+theme[main_fg]="#C7DBDD"
+
+# Title color for boxes
+theme[title]="#C7DBDD"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#46bddd"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1D494E"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#C7DBDD"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9DC8CD"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#46bddd"
+
+# Cpu box outline color
+theme[cpu_box]="#9DC8CD"
+
+# Memory/disks box outline color
+theme[mem_box]="#9DC8CD"
+
+# Net up/down box outline color
+theme[net_box]="#9DC8CD"
+
+# Processes box outline color
+theme[proc_box]="#9DC8CD"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9DC8CD"
+
+# Temperature graph colors
+theme[temp_start]="#73d8ad"
+theme[temp_mid]="#fce380"
+theme[temp_end]="#fb6953"
+
+# CPU graph colors
+theme[cpu_start]="#73d8ad"
+theme[cpu_mid]="#fce380"
+theme[cpu_end]="#fb6953"
+
+# Mem/Disk free meter
+theme[free_start]="#73d8ad"
+theme[free_mid]="#fce380"
+theme[free_end]="#fb6953"
+
+# Mem/Disk cached meter
+theme[cached_start]="#73d8ad"
+theme[cached_mid]="#fce380"
+theme[cached_end]="#fb6953"
+
+# Mem/Disk available meter
+theme[available_start]="#73d8ad"
+theme[available_mid]="#fce380"
+theme[available_end]="#fb6953"
+
+# Mem/Disk used meter
+theme[used_start]="#73d8ad"
+theme[used_mid]="#fce380"
+theme[used_end]="#fb6953"
+
+# Download graph colors
+theme[download_start]="#73d8ad"
+theme[download_mid]="#fce380"
+theme[download_end]="#fb6953"
+
+# Upload graph colors
+theme[upload_start]="#73d8ad"
+theme[upload_mid]="#fce380"
+theme[upload_end]="#fb6953"

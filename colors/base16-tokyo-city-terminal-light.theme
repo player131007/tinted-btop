@@ -1,0 +1,90 @@
+#
+#
+# name: Tokyo City Terminal Light
+# author: Michaël Ball
+# slug: tokyo-city-terminal-light
+# slug-underscored: tokyo_city_terminal_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#FBFBFD"
+
+# Main text color
+theme[main_fg]="#28323A"
+
+# Title color for boxes
+theme[title]="#28323A"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#34548A"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#F6F6F8"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#28323A"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#526270"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#34548A"
+
+# Cpu box outline color
+theme[cpu_box]="#526270"
+
+# Memory/disks box outline color
+theme[mem_box]="#526270"
+
+# Net up/down box outline color
+theme[net_box]="#526270"
+
+# Processes box outline color
+theme[proc_box]="#526270"
+
+# Box divider line and small boxes line color
+theme[div_line]="#526270"
+
+# Temperature graph colors
+theme[temp_start]="#33635C"
+theme[temp_mid]="#8f5E15"
+theme[temp_end]="#8C4351"
+
+# CPU graph colors
+theme[cpu_start]="#33635C"
+theme[cpu_mid]="#8f5E15"
+theme[cpu_end]="#8C4351"
+
+# Mem/Disk free meter
+theme[free_start]="#33635C"
+theme[free_mid]="#8f5E15"
+theme[free_end]="#8C4351"
+
+# Mem/Disk cached meter
+theme[cached_start]="#33635C"
+theme[cached_mid]="#8f5E15"
+theme[cached_end]="#8C4351"
+
+# Mem/Disk available meter
+theme[available_start]="#33635C"
+theme[available_mid]="#8f5E15"
+theme[available_end]="#8C4351"
+
+# Mem/Disk used meter
+theme[used_start]="#33635C"
+theme[used_mid]="#8f5E15"
+theme[used_end]="#8C4351"
+
+# Download graph colors
+theme[download_start]="#33635C"
+theme[download_mid]="#8f5E15"
+theme[download_end]="#8C4351"
+
+# Upload graph colors
+theme[upload_start]="#33635C"
+theme[upload_mid]="#8f5E15"
+theme[upload_end]="#8C4351"

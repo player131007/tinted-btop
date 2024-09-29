@@ -1,0 +1,90 @@
+#
+#
+# name: Equilibrium Dark
+# author: Carlo Abelli
+# slug: equilibrium-dark
+# slug-underscored: equilibrium_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#0c1118"
+
+# Main text color
+theme[main_fg]="#afaba2"
+
+# Title color for boxes
+theme[title]="#afaba2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#008dd1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#181c22"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#afaba2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#949088"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#008dd1"
+
+# Cpu box outline color
+theme[cpu_box]="#949088"
+
+# Memory/disks box outline color
+theme[mem_box]="#949088"
+
+# Net up/down box outline color
+theme[net_box]="#949088"
+
+# Processes box outline color
+theme[proc_box]="#949088"
+
+# Box divider line and small boxes line color
+theme[div_line]="#949088"
+
+# Temperature graph colors
+theme[temp_start]="#7f8b00"
+theme[temp_mid]="#bb8801"
+theme[temp_end]="#f04339"
+
+# CPU graph colors
+theme[cpu_start]="#7f8b00"
+theme[cpu_mid]="#bb8801"
+theme[cpu_end]="#f04339"
+
+# Mem/Disk free meter
+theme[free_start]="#7f8b00"
+theme[free_mid]="#bb8801"
+theme[free_end]="#f04339"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7f8b00"
+theme[cached_mid]="#bb8801"
+theme[cached_end]="#f04339"
+
+# Mem/Disk available meter
+theme[available_start]="#7f8b00"
+theme[available_mid]="#bb8801"
+theme[available_end]="#f04339"
+
+# Mem/Disk used meter
+theme[used_start]="#7f8b00"
+theme[used_mid]="#bb8801"
+theme[used_end]="#f04339"
+
+# Download graph colors
+theme[download_start]="#7f8b00"
+theme[download_mid]="#bb8801"
+theme[download_end]="#f04339"
+
+# Upload graph colors
+theme[upload_start]="#7f8b00"
+theme[upload_mid]="#bb8801"
+theme[upload_end]="#f04339"

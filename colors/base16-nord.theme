@@ -1,0 +1,90 @@
+#
+#
+# name: Nord
+# author: arcticicestudio
+# slug: nord
+# slug-underscored: nord
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#2E3440"
+
+# Main text color
+theme[main_fg]="#E5E9F0"
+
+# Title color for boxes
+theme[title]="#E5E9F0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#81A1C1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3B4252"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#E5E9F0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#D8DEE9"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#81A1C1"
+
+# Cpu box outline color
+theme[cpu_box]="#D8DEE9"
+
+# Memory/disks box outline color
+theme[mem_box]="#D8DEE9"
+
+# Net up/down box outline color
+theme[net_box]="#D8DEE9"
+
+# Processes box outline color
+theme[proc_box]="#D8DEE9"
+
+# Box divider line and small boxes line color
+theme[div_line]="#D8DEE9"
+
+# Temperature graph colors
+theme[temp_start]="#A3BE8C"
+theme[temp_mid]="#EBCB8B"
+theme[temp_end]="#BF616A"
+
+# CPU graph colors
+theme[cpu_start]="#A3BE8C"
+theme[cpu_mid]="#EBCB8B"
+theme[cpu_end]="#BF616A"
+
+# Mem/Disk free meter
+theme[free_start]="#A3BE8C"
+theme[free_mid]="#EBCB8B"
+theme[free_end]="#BF616A"
+
+# Mem/Disk cached meter
+theme[cached_start]="#A3BE8C"
+theme[cached_mid]="#EBCB8B"
+theme[cached_end]="#BF616A"
+
+# Mem/Disk available meter
+theme[available_start]="#A3BE8C"
+theme[available_mid]="#EBCB8B"
+theme[available_end]="#BF616A"
+
+# Mem/Disk used meter
+theme[used_start]="#A3BE8C"
+theme[used_mid]="#EBCB8B"
+theme[used_end]="#BF616A"
+
+# Download graph colors
+theme[download_start]="#A3BE8C"
+theme[download_mid]="#EBCB8B"
+theme[download_end]="#BF616A"
+
+# Upload graph colors
+theme[upload_start]="#A3BE8C"
+theme[upload_mid]="#EBCB8B"
+theme[upload_end]="#BF616A"

@@ -1,0 +1,90 @@
+#
+#
+# name: Brogrammer
+# author: Vik Ramanujam (http://github.com/piggyslasher)
+# slug: brogrammer
+# slug-underscored: brogrammer
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1f1f1f"
+
+# Main text color
+theme[main_fg]="#4e5ab7"
+
+# Title color for boxes
+theme[title]="#4e5ab7"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5350b9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#f81118"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#4e5ab7"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#2a84d2"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5350b9"
+
+# Cpu box outline color
+theme[cpu_box]="#2a84d2"
+
+# Memory/disks box outline color
+theme[mem_box]="#2a84d2"
+
+# Net up/down box outline color
+theme[net_box]="#2a84d2"
+
+# Processes box outline color
+theme[proc_box]="#2a84d2"
+
+# Box divider line and small boxes line color
+theme[div_line]="#2a84d2"
+
+# Temperature graph colors
+theme[temp_start]="#f3bd09"
+theme[temp_mid]="#1dd361"
+theme[temp_end]="#d6dbe5"
+
+# CPU graph colors
+theme[cpu_start]="#f3bd09"
+theme[cpu_mid]="#1dd361"
+theme[cpu_end]="#d6dbe5"
+
+# Mem/Disk free meter
+theme[free_start]="#f3bd09"
+theme[free_mid]="#1dd361"
+theme[free_end]="#d6dbe5"
+
+# Mem/Disk cached meter
+theme[cached_start]="#f3bd09"
+theme[cached_mid]="#1dd361"
+theme[cached_end]="#d6dbe5"
+
+# Mem/Disk available meter
+theme[available_start]="#f3bd09"
+theme[available_mid]="#1dd361"
+theme[available_end]="#d6dbe5"
+
+# Mem/Disk used meter
+theme[used_start]="#f3bd09"
+theme[used_mid]="#1dd361"
+theme[used_end]="#d6dbe5"
+
+# Download graph colors
+theme[download_start]="#f3bd09"
+theme[download_mid]="#1dd361"
+theme[download_end]="#d6dbe5"
+
+# Upload graph colors
+theme[upload_start]="#f3bd09"
+theme[upload_mid]="#1dd361"
+theme[upload_end]="#d6dbe5"

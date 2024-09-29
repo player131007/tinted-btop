@@ -1,0 +1,90 @@
+#
+#
+# name: caroline
+# author: ed (https://codeberg.org/ed)
+# slug: caroline
+# slug-underscored: caroline
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1c1213"
+
+# Main text color
+theme[main_fg]="#a87569"
+
+# Title color for boxes
+theme[title]="#a87569"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#684c59"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3a2425"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a87569"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8b5d57"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#684c59"
+
+# Cpu box outline color
+theme[cpu_box]="#8b5d57"
+
+# Memory/disks box outline color
+theme[mem_box]="#8b5d57"
+
+# Net up/down box outline color
+theme[net_box]="#8b5d57"
+
+# Processes box outline color
+theme[proc_box]="#8b5d57"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8b5d57"
+
+# Temperature graph colors
+theme[temp_start]="#806c61"
+theme[temp_mid]="#f28171"
+theme[temp_end]="#c24f57"
+
+# CPU graph colors
+theme[cpu_start]="#806c61"
+theme[cpu_mid]="#f28171"
+theme[cpu_end]="#c24f57"
+
+# Mem/Disk free meter
+theme[free_start]="#806c61"
+theme[free_mid]="#f28171"
+theme[free_end]="#c24f57"
+
+# Mem/Disk cached meter
+theme[cached_start]="#806c61"
+theme[cached_mid]="#f28171"
+theme[cached_end]="#c24f57"
+
+# Mem/Disk available meter
+theme[available_start]="#806c61"
+theme[available_mid]="#f28171"
+theme[available_end]="#c24f57"
+
+# Mem/Disk used meter
+theme[used_start]="#806c61"
+theme[used_mid]="#f28171"
+theme[used_end]="#c24f57"
+
+# Download graph colors
+theme[download_start]="#806c61"
+theme[download_mid]="#f28171"
+theme[download_end]="#c24f57"
+
+# Upload graph colors
+theme[upload_start]="#806c61"
+theme[upload_mid]="#f28171"
+theme[upload_end]="#c24f57"

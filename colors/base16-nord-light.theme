@@ -1,0 +1,90 @@
+#
+#
+# name: Nord Light
+# author: threddast, based on fuxialexander's doom-nord-light-theme (Doom Emacs)
+# slug: nord-light
+# slug-underscored: nord_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#e5e9f0"
+
+# Main text color
+theme[main_fg]="#2e3440"
+
+# Title color for boxes
+theme[title]="#2e3440"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3b6ea8"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#c2d0e7"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#2e3440"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#60728c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3b6ea8"
+
+# Cpu box outline color
+theme[cpu_box]="#60728c"
+
+# Memory/disks box outline color
+theme[mem_box]="#60728c"
+
+# Net up/down box outline color
+theme[net_box]="#60728c"
+
+# Processes box outline color
+theme[proc_box]="#60728c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#60728c"
+
+# Temperature graph colors
+theme[temp_start]="#4f894c"
+theme[temp_mid]="#9a7500"
+theme[temp_end]="#99324b"
+
+# CPU graph colors
+theme[cpu_start]="#4f894c"
+theme[cpu_mid]="#9a7500"
+theme[cpu_end]="#99324b"
+
+# Mem/Disk free meter
+theme[free_start]="#4f894c"
+theme[free_mid]="#9a7500"
+theme[free_end]="#99324b"
+
+# Mem/Disk cached meter
+theme[cached_start]="#4f894c"
+theme[cached_mid]="#9a7500"
+theme[cached_end]="#99324b"
+
+# Mem/Disk available meter
+theme[available_start]="#4f894c"
+theme[available_mid]="#9a7500"
+theme[available_end]="#99324b"
+
+# Mem/Disk used meter
+theme[used_start]="#4f894c"
+theme[used_mid]="#9a7500"
+theme[used_end]="#99324b"
+
+# Download graph colors
+theme[download_start]="#4f894c"
+theme[download_mid]="#9a7500"
+theme[download_end]="#99324b"
+
+# Upload graph colors
+theme[upload_start]="#4f894c"
+theme[upload_mid]="#9a7500"
+theme[upload_end]="#99324b"

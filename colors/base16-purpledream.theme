@@ -1,0 +1,90 @@
+#
+#
+# name: Purpledream
+# author: malet
+# slug: purpledream
+# slug-underscored: purpledream
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#100510"
+
+# Main text color
+theme[main_fg]="#ddd0dd"
+
+# Title color for boxes
+theme[title]="#ddd0dd"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#00A0F0"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#302030"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ddd0dd"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#bbb0bb"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#00A0F0"
+
+# Cpu box outline color
+theme[cpu_box]="#bbb0bb"
+
+# Memory/disks box outline color
+theme[mem_box]="#bbb0bb"
+
+# Net up/down box outline color
+theme[net_box]="#bbb0bb"
+
+# Processes box outline color
+theme[proc_box]="#bbb0bb"
+
+# Box divider line and small boxes line color
+theme[div_line]="#bbb0bb"
+
+# Temperature graph colors
+theme[temp_start]="#14CC64"
+theme[temp_mid]="#F000A0"
+theme[temp_end]="#FF1D0D"
+
+# CPU graph colors
+theme[cpu_start]="#14CC64"
+theme[cpu_mid]="#F000A0"
+theme[cpu_end]="#FF1D0D"
+
+# Mem/Disk free meter
+theme[free_start]="#14CC64"
+theme[free_mid]="#F000A0"
+theme[free_end]="#FF1D0D"
+
+# Mem/Disk cached meter
+theme[cached_start]="#14CC64"
+theme[cached_mid]="#F000A0"
+theme[cached_end]="#FF1D0D"
+
+# Mem/Disk available meter
+theme[available_start]="#14CC64"
+theme[available_mid]="#F000A0"
+theme[available_end]="#FF1D0D"
+
+# Mem/Disk used meter
+theme[used_start]="#14CC64"
+theme[used_mid]="#F000A0"
+theme[used_end]="#FF1D0D"
+
+# Download graph colors
+theme[download_start]="#14CC64"
+theme[download_mid]="#F000A0"
+theme[download_end]="#FF1D0D"
+
+# Upload graph colors
+theme[upload_start]="#14CC64"
+theme[upload_mid]="#F000A0"
+theme[upload_end]="#FF1D0D"

@@ -1,0 +1,90 @@
+#
+#
+# name: Pasque
+# author: Gabriel Fontes (https://github.com/Misterio77)
+# slug: pasque
+# slug-underscored: pasque
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#271C3A"
+
+# Main text color
+theme[main_fg]="#DEDCDF"
+
+# Title color for boxes
+theme[title]="#DEDCDF"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8E7DC6"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#100323"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#DEDCDF"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#BEBCBF"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#8E7DC6"
+
+# Cpu box outline color
+theme[cpu_box]="#BEBCBF"
+
+# Memory/disks box outline color
+theme[mem_box]="#BEBCBF"
+
+# Net up/down box outline color
+theme[net_box]="#BEBCBF"
+
+# Processes box outline color
+theme[proc_box]="#BEBCBF"
+
+# Box divider line and small boxes line color
+theme[div_line]="#BEBCBF"
+
+# Temperature graph colors
+theme[temp_start]="#C6914B"
+theme[temp_mid]="#804ead"
+theme[temp_end]="#A92258"
+
+# CPU graph colors
+theme[cpu_start]="#C6914B"
+theme[cpu_mid]="#804ead"
+theme[cpu_end]="#A92258"
+
+# Mem/Disk free meter
+theme[free_start]="#C6914B"
+theme[free_mid]="#804ead"
+theme[free_end]="#A92258"
+
+# Mem/Disk cached meter
+theme[cached_start]="#C6914B"
+theme[cached_mid]="#804ead"
+theme[cached_end]="#A92258"
+
+# Mem/Disk available meter
+theme[available_start]="#C6914B"
+theme[available_mid]="#804ead"
+theme[available_end]="#A92258"
+
+# Mem/Disk used meter
+theme[used_start]="#C6914B"
+theme[used_mid]="#804ead"
+theme[used_end]="#A92258"
+
+# Download graph colors
+theme[download_start]="#C6914B"
+theme[download_mid]="#804ead"
+theme[download_end]="#A92258"
+
+# Upload graph colors
+theme[upload_start]="#C6914B"
+theme[upload_mid]="#804ead"
+theme[upload_end]="#A92258"

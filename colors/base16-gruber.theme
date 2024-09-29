@@ -1,0 +1,90 @@
+#
+#
+# name: Gruber
+# author: Patel, Nimai <nimai.m.patel@gmail.com>, colors from www.github.com/rexim/gruber-darker-theme
+# slug: gruber
+# slug-underscored: gruber
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#181818"
+
+# Main text color
+theme[main_fg]="#f4f4ff"
+
+# Title color for boxes
+theme[title]="#f4f4ff"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#96a6c8"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#453d41"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f4f4ff"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#e4e4ef"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#96a6c8"
+
+# Cpu box outline color
+theme[cpu_box]="#e4e4ef"
+
+# Memory/disks box outline color
+theme[mem_box]="#e4e4ef"
+
+# Net up/down box outline color
+theme[net_box]="#e4e4ef"
+
+# Processes box outline color
+theme[proc_box]="#e4e4ef"
+
+# Box divider line and small boxes line color
+theme[div_line]="#e4e4ef"
+
+# Temperature graph colors
+theme[temp_start]="#73c936"
+theme[temp_mid]="#ffdd33"
+theme[temp_end]="#f43841"
+
+# CPU graph colors
+theme[cpu_start]="#73c936"
+theme[cpu_mid]="#ffdd33"
+theme[cpu_end]="#f43841"
+
+# Mem/Disk free meter
+theme[free_start]="#73c936"
+theme[free_mid]="#ffdd33"
+theme[free_end]="#f43841"
+
+# Mem/Disk cached meter
+theme[cached_start]="#73c936"
+theme[cached_mid]="#ffdd33"
+theme[cached_end]="#f43841"
+
+# Mem/Disk available meter
+theme[available_start]="#73c936"
+theme[available_mid]="#ffdd33"
+theme[available_end]="#f43841"
+
+# Mem/Disk used meter
+theme[used_start]="#73c936"
+theme[used_mid]="#ffdd33"
+theme[used_end]="#f43841"
+
+# Download graph colors
+theme[download_start]="#73c936"
+theme[download_mid]="#ffdd33"
+theme[download_end]="#f43841"
+
+# Upload graph colors
+theme[upload_start]="#73c936"
+theme[upload_mid]="#ffdd33"
+theme[upload_end]="#f43841"

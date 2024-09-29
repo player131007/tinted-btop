@@ -1,0 +1,90 @@
+#
+#
+# name: Gruvbox dark, medium
+# author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# slug: gruvbox-dark-medium
+# slug-underscored: gruvbox_dark_medium
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#282828"
+
+# Main text color
+theme[main_fg]="#d5c4a1"
+
+# Title color for boxes
+theme[title]="#d5c4a1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#83a598"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3c3836"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d5c4a1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#bdae93"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#83a598"
+
+# Cpu box outline color
+theme[cpu_box]="#bdae93"
+
+# Memory/disks box outline color
+theme[mem_box]="#bdae93"
+
+# Net up/down box outline color
+theme[net_box]="#bdae93"
+
+# Processes box outline color
+theme[proc_box]="#bdae93"
+
+# Box divider line and small boxes line color
+theme[div_line]="#bdae93"
+
+# Temperature graph colors
+theme[temp_start]="#b8bb26"
+theme[temp_mid]="#fabd2f"
+theme[temp_end]="#fb4934"
+
+# CPU graph colors
+theme[cpu_start]="#b8bb26"
+theme[cpu_mid]="#fabd2f"
+theme[cpu_end]="#fb4934"
+
+# Mem/Disk free meter
+theme[free_start]="#b8bb26"
+theme[free_mid]="#fabd2f"
+theme[free_end]="#fb4934"
+
+# Mem/Disk cached meter
+theme[cached_start]="#b8bb26"
+theme[cached_mid]="#fabd2f"
+theme[cached_end]="#fb4934"
+
+# Mem/Disk available meter
+theme[available_start]="#b8bb26"
+theme[available_mid]="#fabd2f"
+theme[available_end]="#fb4934"
+
+# Mem/Disk used meter
+theme[used_start]="#b8bb26"
+theme[used_mid]="#fabd2f"
+theme[used_end]="#fb4934"
+
+# Download graph colors
+theme[download_start]="#b8bb26"
+theme[download_mid]="#fabd2f"
+theme[download_end]="#fb4934"
+
+# Upload graph colors
+theme[upload_start]="#b8bb26"
+theme[upload_mid]="#fabd2f"
+theme[upload_end]="#fb4934"

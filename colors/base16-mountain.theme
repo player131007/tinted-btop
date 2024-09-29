@@ -1,0 +1,90 @@
+#
+#
+# name: Mountain
+# author: gnsfujiwara (https://github.com/gnsfujiwara)
+# slug: mountain
+# slug-underscored: mountain
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#0f0f0f"
+
+# Main text color
+theme[main_fg]="#cacaca"
+
+# Title color for boxes
+theme[title]="#cacaca"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8f8aac"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#191919"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cacaca"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#ac8a8c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#8f8aac"
+
+# Cpu box outline color
+theme[cpu_box]="#ac8a8c"
+
+# Memory/disks box outline color
+theme[mem_box]="#ac8a8c"
+
+# Net up/down box outline color
+theme[net_box]="#ac8a8c"
+
+# Processes box outline color
+theme[proc_box]="#ac8a8c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#ac8a8c"
+
+# Temperature graph colors
+theme[temp_start]="#8aac8b"
+theme[temp_mid]="#aca98a"
+theme[temp_end]="#ac8a8c"
+
+# CPU graph colors
+theme[cpu_start]="#8aac8b"
+theme[cpu_mid]="#aca98a"
+theme[cpu_end]="#ac8a8c"
+
+# Mem/Disk free meter
+theme[free_start]="#8aac8b"
+theme[free_mid]="#aca98a"
+theme[free_end]="#ac8a8c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8aac8b"
+theme[cached_mid]="#aca98a"
+theme[cached_end]="#ac8a8c"
+
+# Mem/Disk available meter
+theme[available_start]="#8aac8b"
+theme[available_mid]="#aca98a"
+theme[available_end]="#ac8a8c"
+
+# Mem/Disk used meter
+theme[used_start]="#8aac8b"
+theme[used_mid]="#aca98a"
+theme[used_end]="#ac8a8c"
+
+# Download graph colors
+theme[download_start]="#8aac8b"
+theme[download_mid]="#aca98a"
+theme[download_end]="#ac8a8c"
+
+# Upload graph colors
+theme[upload_start]="#8aac8b"
+theme[upload_mid]="#aca98a"
+theme[upload_end]="#ac8a8c"

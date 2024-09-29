@@ -1,0 +1,90 @@
+#
+#
+# name: Spaceduck
+# author: Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+# slug: spaceduck
+# slug-underscored: spaceduck
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#16172d"
+
+# Main text color
+theme[main_fg]="#ecf0c1"
+
+# Title color for boxes
+theme[title]="#ecf0c1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7a5ccc"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1b1c36"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ecf0c1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#818596"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7a5ccc"
+
+# Cpu box outline color
+theme[cpu_box]="#818596"
+
+# Memory/disks box outline color
+theme[mem_box]="#818596"
+
+# Net up/down box outline color
+theme[net_box]="#818596"
+
+# Processes box outline color
+theme[proc_box]="#818596"
+
+# Box divider line and small boxes line color
+theme[div_line]="#818596"
+
+# Temperature graph colors
+theme[temp_start]="#5ccc96"
+theme[temp_mid]="#f2ce00"
+theme[temp_end]="#e33400"
+
+# CPU graph colors
+theme[cpu_start]="#5ccc96"
+theme[cpu_mid]="#f2ce00"
+theme[cpu_end]="#e33400"
+
+# Mem/Disk free meter
+theme[free_start]="#5ccc96"
+theme[free_mid]="#f2ce00"
+theme[free_end]="#e33400"
+
+# Mem/Disk cached meter
+theme[cached_start]="#5ccc96"
+theme[cached_mid]="#f2ce00"
+theme[cached_end]="#e33400"
+
+# Mem/Disk available meter
+theme[available_start]="#5ccc96"
+theme[available_mid]="#f2ce00"
+theme[available_end]="#e33400"
+
+# Mem/Disk used meter
+theme[used_start]="#5ccc96"
+theme[used_mid]="#f2ce00"
+theme[used_end]="#e33400"
+
+# Download graph colors
+theme[download_start]="#5ccc96"
+theme[download_mid]="#f2ce00"
+theme[download_end]="#e33400"
+
+# Upload graph colors
+theme[upload_start]="#5ccc96"
+theme[upload_mid]="#f2ce00"
+theme[upload_end]="#e33400"

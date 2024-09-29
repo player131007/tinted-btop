@@ -1,0 +1,90 @@
+#
+#
+# name: Precious Dark Fifteen
+# author: 4lex4 <4lex49@zoho.com>
+# slug: precious-dark-fifteen
+# slug-underscored: precious_dark_fifteen
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#23262b"
+
+# Main text color
+theme[main_fg]="#bab9b6"
+
+# Title color for boxes
+theme[title]="#bab9b6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#66b0ef"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#303337"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#bab9b6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#abaaa8"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#66b0ef"
+
+# Cpu box outline color
+theme[cpu_box]="#abaaa8"
+
+# Memory/disks box outline color
+theme[mem_box]="#abaaa8"
+
+# Net up/down box outline color
+theme[net_box]="#abaaa8"
+
+# Processes box outline color
+theme[proc_box]="#abaaa8"
+
+# Box divider line and small boxes line color
+theme[div_line]="#abaaa8"
+
+# Temperature graph colors
+theme[temp_start]="#95b659"
+theme[temp_mid]="#cfa546"
+theme[temp_end]="#ff8782"
+
+# CPU graph colors
+theme[cpu_start]="#95b659"
+theme[cpu_mid]="#cfa546"
+theme[cpu_end]="#ff8782"
+
+# Mem/Disk free meter
+theme[free_start]="#95b659"
+theme[free_mid]="#cfa546"
+theme[free_end]="#ff8782"
+
+# Mem/Disk cached meter
+theme[cached_start]="#95b659"
+theme[cached_mid]="#cfa546"
+theme[cached_end]="#ff8782"
+
+# Mem/Disk available meter
+theme[available_start]="#95b659"
+theme[available_mid]="#cfa546"
+theme[available_end]="#ff8782"
+
+# Mem/Disk used meter
+theme[used_start]="#95b659"
+theme[used_mid]="#cfa546"
+theme[used_end]="#ff8782"
+
+# Download graph colors
+theme[download_start]="#95b659"
+theme[download_mid]="#cfa546"
+theme[download_end]="#ff8782"
+
+# Upload graph colors
+theme[upload_start]="#95b659"
+theme[upload_mid]="#cfa546"
+theme[upload_end]="#ff8782"

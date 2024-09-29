@@ -1,0 +1,90 @@
+#
+#
+# name: Atelier Heath
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-heath
+# slug-underscored: atelier_heath
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1b181b"
+
+# Main text color
+theme[main_fg]="#ab9bab"
+
+# Title color for boxes
+theme[title]="#ab9bab"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#516aec"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#292329"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ab9bab"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9e8f9e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#516aec"
+
+# Cpu box outline color
+theme[cpu_box]="#9e8f9e"
+
+# Memory/disks box outline color
+theme[mem_box]="#9e8f9e"
+
+# Net up/down box outline color
+theme[net_box]="#9e8f9e"
+
+# Processes box outline color
+theme[proc_box]="#9e8f9e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9e8f9e"
+
+# Temperature graph colors
+theme[temp_start]="#918b3b"
+theme[temp_mid]="#bb8a35"
+theme[temp_end]="#ca402b"
+
+# CPU graph colors
+theme[cpu_start]="#918b3b"
+theme[cpu_mid]="#bb8a35"
+theme[cpu_end]="#ca402b"
+
+# Mem/Disk free meter
+theme[free_start]="#918b3b"
+theme[free_mid]="#bb8a35"
+theme[free_end]="#ca402b"
+
+# Mem/Disk cached meter
+theme[cached_start]="#918b3b"
+theme[cached_mid]="#bb8a35"
+theme[cached_end]="#ca402b"
+
+# Mem/Disk available meter
+theme[available_start]="#918b3b"
+theme[available_mid]="#bb8a35"
+theme[available_end]="#ca402b"
+
+# Mem/Disk used meter
+theme[used_start]="#918b3b"
+theme[used_mid]="#bb8a35"
+theme[used_end]="#ca402b"
+
+# Download graph colors
+theme[download_start]="#918b3b"
+theme[download_mid]="#bb8a35"
+theme[download_end]="#ca402b"
+
+# Upload graph colors
+theme[upload_start]="#918b3b"
+theme[upload_mid]="#bb8a35"
+theme[upload_end]="#ca402b"

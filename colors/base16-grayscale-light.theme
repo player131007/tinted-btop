@@ -1,0 +1,90 @@
+#
+#
+# name: Grayscale Light
+# author: Alexandre Gavioli (https://github.com/Alexx2/)
+# slug: grayscale-light
+# slug-underscored: grayscale_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f7f7f7"
+
+# Main text color
+theme[main_fg]="#464646"
+
+# Title color for boxes
+theme[title]="#464646"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#686868"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e3e3e3"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#464646"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#525252"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#686868"
+
+# Cpu box outline color
+theme[cpu_box]="#525252"
+
+# Memory/disks box outline color
+theme[mem_box]="#525252"
+
+# Net up/down box outline color
+theme[net_box]="#525252"
+
+# Processes box outline color
+theme[proc_box]="#525252"
+
+# Box divider line and small boxes line color
+theme[div_line]="#525252"
+
+# Temperature graph colors
+theme[temp_start]="#8e8e8e"
+theme[temp_mid]="#a0a0a0"
+theme[temp_end]="#7c7c7c"
+
+# CPU graph colors
+theme[cpu_start]="#8e8e8e"
+theme[cpu_mid]="#a0a0a0"
+theme[cpu_end]="#7c7c7c"
+
+# Mem/Disk free meter
+theme[free_start]="#8e8e8e"
+theme[free_mid]="#a0a0a0"
+theme[free_end]="#7c7c7c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8e8e8e"
+theme[cached_mid]="#a0a0a0"
+theme[cached_end]="#7c7c7c"
+
+# Mem/Disk available meter
+theme[available_start]="#8e8e8e"
+theme[available_mid]="#a0a0a0"
+theme[available_end]="#7c7c7c"
+
+# Mem/Disk used meter
+theme[used_start]="#8e8e8e"
+theme[used_mid]="#a0a0a0"
+theme[used_end]="#7c7c7c"
+
+# Download graph colors
+theme[download_start]="#8e8e8e"
+theme[download_mid]="#a0a0a0"
+theme[download_end]="#7c7c7c"
+
+# Upload graph colors
+theme[upload_start]="#8e8e8e"
+theme[upload_mid]="#a0a0a0"
+theme[upload_end]="#7c7c7c"

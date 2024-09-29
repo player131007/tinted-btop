@@ -1,0 +1,90 @@
+#
+#
+# name: Codeschool
+# author: blockloop
+# slug: codeschool
+# slug-underscored: codeschool
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#232c31"
+
+# Main text color
+theme[main_fg]="#9ea7a6"
+
+# Title color for boxes
+theme[title]="#9ea7a6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#484d79"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1c3657"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#9ea7a6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#84898c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#484d79"
+
+# Cpu box outline color
+theme[cpu_box]="#84898c"
+
+# Memory/disks box outline color
+theme[mem_box]="#84898c"
+
+# Net up/down box outline color
+theme[net_box]="#84898c"
+
+# Processes box outline color
+theme[proc_box]="#84898c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#84898c"
+
+# Temperature graph colors
+theme[temp_start]="#237986"
+theme[temp_mid]="#a03b1e"
+theme[temp_end]="#2a5491"
+
+# CPU graph colors
+theme[cpu_start]="#237986"
+theme[cpu_mid]="#a03b1e"
+theme[cpu_end]="#2a5491"
+
+# Mem/Disk free meter
+theme[free_start]="#237986"
+theme[free_mid]="#a03b1e"
+theme[free_end]="#2a5491"
+
+# Mem/Disk cached meter
+theme[cached_start]="#237986"
+theme[cached_mid]="#a03b1e"
+theme[cached_end]="#2a5491"
+
+# Mem/Disk available meter
+theme[available_start]="#237986"
+theme[available_mid]="#a03b1e"
+theme[available_end]="#2a5491"
+
+# Mem/Disk used meter
+theme[used_start]="#237986"
+theme[used_mid]="#a03b1e"
+theme[used_end]="#2a5491"
+
+# Download graph colors
+theme[download_start]="#237986"
+theme[download_mid]="#a03b1e"
+theme[download_end]="#2a5491"
+
+# Upload graph colors
+theme[upload_start]="#237986"
+theme[upload_mid]="#a03b1e"
+theme[upload_end]="#2a5491"

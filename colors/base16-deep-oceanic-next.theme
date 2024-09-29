@@ -1,0 +1,90 @@
+#
+#
+# name: Deep Oceanic Next
+# author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# slug: deep-oceanic-next
+# slug-underscored: deep_oceanic_next
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#003b46"
+
+# Main text color
+theme[main_fg]="#dce3e8"
+
+# Title color for boxes
+theme[title]="#dce3e8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3a82e6"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#004f5e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#dce3e8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#0093a3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3a82e6"
+
+# Cpu box outline color
+theme[cpu_box]="#0093a3"
+
+# Memory/disks box outline color
+theme[mem_box]="#0093a3"
+
+# Net up/down box outline color
+theme[net_box]="#0093a3"
+
+# Processes box outline color
+theme[proc_box]="#0093a3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#0093a3"
+
+# Temperature graph colors
+theme[temp_start]="#85b57a"
+theme[temp_mid]="#ffcc66"
+theme[temp_end]="#e6454b"
+
+# CPU graph colors
+theme[cpu_start]="#85b57a"
+theme[cpu_mid]="#ffcc66"
+theme[cpu_end]="#e6454b"
+
+# Mem/Disk free meter
+theme[free_start]="#85b57a"
+theme[free_mid]="#ffcc66"
+theme[free_end]="#e6454b"
+
+# Mem/Disk cached meter
+theme[cached_start]="#85b57a"
+theme[cached_mid]="#ffcc66"
+theme[cached_end]="#e6454b"
+
+# Mem/Disk available meter
+theme[available_start]="#85b57a"
+theme[available_mid]="#ffcc66"
+theme[available_end]="#e6454b"
+
+# Mem/Disk used meter
+theme[used_start]="#85b57a"
+theme[used_mid]="#ffcc66"
+theme[used_end]="#e6454b"
+
+# Download graph colors
+theme[download_start]="#85b57a"
+theme[download_mid]="#ffcc66"
+theme[download_end]="#e6454b"
+
+# Upload graph colors
+theme[upload_start]="#85b57a"
+theme[upload_mid]="#ffcc66"
+theme[upload_end]="#e6454b"

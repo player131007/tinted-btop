@@ -1,0 +1,90 @@
+#
+#
+# name: Stella
+# author: Shrimpram
+# slug: stella
+# slug-underscored: stella
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#2B213C"
+
+# Main text color
+theme[main_fg]="#998BAD"
+
+# Title color for boxes
+theme[title]="#998BAD"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#A5AAD4"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#362B48"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#998BAD"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7F7192"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#A5AAD4"
+
+# Cpu box outline color
+theme[cpu_box]="#7F7192"
+
+# Memory/disks box outline color
+theme[mem_box]="#7F7192"
+
+# Net up/down box outline color
+theme[net_box]="#7F7192"
+
+# Processes box outline color
+theme[proc_box]="#7F7192"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7F7192"
+
+# Temperature graph colors
+theme[temp_start]="#ACC79B"
+theme[temp_mid]="#C7C691"
+theme[temp_end]="#C79987"
+
+# CPU graph colors
+theme[cpu_start]="#ACC79B"
+theme[cpu_mid]="#C7C691"
+theme[cpu_end]="#C79987"
+
+# Mem/Disk free meter
+theme[free_start]="#ACC79B"
+theme[free_mid]="#C7C691"
+theme[free_end]="#C79987"
+
+# Mem/Disk cached meter
+theme[cached_start]="#ACC79B"
+theme[cached_mid]="#C7C691"
+theme[cached_end]="#C79987"
+
+# Mem/Disk available meter
+theme[available_start]="#ACC79B"
+theme[available_mid]="#C7C691"
+theme[available_end]="#C79987"
+
+# Mem/Disk used meter
+theme[used_start]="#ACC79B"
+theme[used_mid]="#C7C691"
+theme[used_end]="#C79987"
+
+# Download graph colors
+theme[download_start]="#ACC79B"
+theme[download_mid]="#C7C691"
+theme[download_end]="#C79987"
+
+# Upload graph colors
+theme[upload_start]="#ACC79B"
+theme[upload_mid]="#C7C691"
+theme[upload_end]="#C79987"

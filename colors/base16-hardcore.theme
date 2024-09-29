@@ -1,0 +1,90 @@
+#
+#
+# name: Hardcore
+# author: Chris Caller
+# slug: hardcore
+# slug-underscored: hardcore
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#212121"
+
+# Main text color
+theme[main_fg]="#cdcdcd"
+
+# Title color for boxes
+theme[title]="#cdcdcd"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#66d9ef"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#303030"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cdcdcd"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#707070"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#66d9ef"
+
+# Cpu box outline color
+theme[cpu_box]="#707070"
+
+# Memory/disks box outline color
+theme[mem_box]="#707070"
+
+# Net up/down box outline color
+theme[net_box]="#707070"
+
+# Processes box outline color
+theme[proc_box]="#707070"
+
+# Box divider line and small boxes line color
+theme[div_line]="#707070"
+
+# Temperature graph colors
+theme[temp_start]="#a6e22e"
+theme[temp_mid]="#e6db74"
+theme[temp_end]="#f92672"
+
+# CPU graph colors
+theme[cpu_start]="#a6e22e"
+theme[cpu_mid]="#e6db74"
+theme[cpu_end]="#f92672"
+
+# Mem/Disk free meter
+theme[free_start]="#a6e22e"
+theme[free_mid]="#e6db74"
+theme[free_end]="#f92672"
+
+# Mem/Disk cached meter
+theme[cached_start]="#a6e22e"
+theme[cached_mid]="#e6db74"
+theme[cached_end]="#f92672"
+
+# Mem/Disk available meter
+theme[available_start]="#a6e22e"
+theme[available_mid]="#e6db74"
+theme[available_end]="#f92672"
+
+# Mem/Disk used meter
+theme[used_start]="#a6e22e"
+theme[used_mid]="#e6db74"
+theme[used_end]="#f92672"
+
+# Download graph colors
+theme[download_start]="#a6e22e"
+theme[download_mid]="#e6db74"
+theme[download_end]="#f92672"
+
+# Upload graph colors
+theme[upload_start]="#a6e22e"
+theme[upload_mid]="#e6db74"
+theme[upload_end]="#f92672"

@@ -1,0 +1,90 @@
+#
+#
+# name: Ayu Light
+# author: Khue Nguyen <Z5483Y@gmail.com>
+# slug: ayu-light
+# slug-underscored: ayu_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#FAFAFA"
+
+# Main text color
+theme[main_fg]="#5C6773"
+
+# Title color for boxes
+theme[title]="#5C6773"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#36A3D9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#F3F4F5"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#5C6773"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#828C99"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#36A3D9"
+
+# Cpu box outline color
+theme[cpu_box]="#828C99"
+
+# Memory/disks box outline color
+theme[mem_box]="#828C99"
+
+# Net up/down box outline color
+theme[net_box]="#828C99"
+
+# Processes box outline color
+theme[proc_box]="#828C99"
+
+# Box divider line and small boxes line color
+theme[div_line]="#828C99"
+
+# Temperature graph colors
+theme[temp_start]="#86B300"
+theme[temp_mid]="#F2AE49"
+theme[temp_end]="#F07178"
+
+# CPU graph colors
+theme[cpu_start]="#86B300"
+theme[cpu_mid]="#F2AE49"
+theme[cpu_end]="#F07178"
+
+# Mem/Disk free meter
+theme[free_start]="#86B300"
+theme[free_mid]="#F2AE49"
+theme[free_end]="#F07178"
+
+# Mem/Disk cached meter
+theme[cached_start]="#86B300"
+theme[cached_mid]="#F2AE49"
+theme[cached_end]="#F07178"
+
+# Mem/Disk available meter
+theme[available_start]="#86B300"
+theme[available_mid]="#F2AE49"
+theme[available_end]="#F07178"
+
+# Mem/Disk used meter
+theme[used_start]="#86B300"
+theme[used_mid]="#F2AE49"
+theme[used_end]="#F07178"
+
+# Download graph colors
+theme[download_start]="#86B300"
+theme[download_mid]="#F2AE49"
+theme[download_end]="#F07178"
+
+# Upload graph colors
+theme[upload_start]="#86B300"
+theme[upload_mid]="#F2AE49"
+theme[upload_end]="#F07178"

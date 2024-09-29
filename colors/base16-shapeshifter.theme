@@ -1,0 +1,90 @@
+#
+#
+# name: Shapeshifter
+# author: Tyler Benziger (http://tybenz.com)
+# slug: shapeshifter
+# slug-underscored: shapeshifter
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f9f9f9"
+
+# Main text color
+theme[main_fg]="#102015"
+
+# Title color for boxes
+theme[title]="#102015"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3b48e3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e0e0e0"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#102015"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#343434"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3b48e3"
+
+# Cpu box outline color
+theme[cpu_box]="#343434"
+
+# Memory/disks box outline color
+theme[mem_box]="#343434"
+
+# Net up/down box outline color
+theme[net_box]="#343434"
+
+# Processes box outline color
+theme[proc_box]="#343434"
+
+# Box divider line and small boxes line color
+theme[div_line]="#343434"
+
+# Temperature graph colors
+theme[temp_start]="#0ed839"
+theme[temp_mid]="#dddd13"
+theme[temp_end]="#e92f2f"
+
+# CPU graph colors
+theme[cpu_start]="#0ed839"
+theme[cpu_mid]="#dddd13"
+theme[cpu_end]="#e92f2f"
+
+# Mem/Disk free meter
+theme[free_start]="#0ed839"
+theme[free_mid]="#dddd13"
+theme[free_end]="#e92f2f"
+
+# Mem/Disk cached meter
+theme[cached_start]="#0ed839"
+theme[cached_mid]="#dddd13"
+theme[cached_end]="#e92f2f"
+
+# Mem/Disk available meter
+theme[available_start]="#0ed839"
+theme[available_mid]="#dddd13"
+theme[available_end]="#e92f2f"
+
+# Mem/Disk used meter
+theme[used_start]="#0ed839"
+theme[used_mid]="#dddd13"
+theme[used_end]="#e92f2f"
+
+# Download graph colors
+theme[download_start]="#0ed839"
+theme[download_mid]="#dddd13"
+theme[download_end]="#e92f2f"
+
+# Upload graph colors
+theme[upload_start]="#0ed839"
+theme[upload_mid]="#dddd13"
+theme[upload_end]="#e92f2f"

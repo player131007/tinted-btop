@@ -1,0 +1,90 @@
+#
+#
+# name: Gruvbox dark, pale
+# author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# slug: gruvbox-dark-pale
+# slug-underscored: gruvbox_dark_pale
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#262626"
+
+# Main text color
+theme[main_fg]="#dab997"
+
+# Title color for boxes
+theme[title]="#dab997"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#83adad"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3a3a3a"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#dab997"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#949494"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#83adad"
+
+# Cpu box outline color
+theme[cpu_box]="#949494"
+
+# Memory/disks box outline color
+theme[mem_box]="#949494"
+
+# Net up/down box outline color
+theme[net_box]="#949494"
+
+# Processes box outline color
+theme[proc_box]="#949494"
+
+# Box divider line and small boxes line color
+theme[div_line]="#949494"
+
+# Temperature graph colors
+theme[temp_start]="#afaf00"
+theme[temp_mid]="#ffaf00"
+theme[temp_end]="#d75f5f"
+
+# CPU graph colors
+theme[cpu_start]="#afaf00"
+theme[cpu_mid]="#ffaf00"
+theme[cpu_end]="#d75f5f"
+
+# Mem/Disk free meter
+theme[free_start]="#afaf00"
+theme[free_mid]="#ffaf00"
+theme[free_end]="#d75f5f"
+
+# Mem/Disk cached meter
+theme[cached_start]="#afaf00"
+theme[cached_mid]="#ffaf00"
+theme[cached_end]="#d75f5f"
+
+# Mem/Disk available meter
+theme[available_start]="#afaf00"
+theme[available_mid]="#ffaf00"
+theme[available_end]="#d75f5f"
+
+# Mem/Disk used meter
+theme[used_start]="#afaf00"
+theme[used_mid]="#ffaf00"
+theme[used_end]="#d75f5f"
+
+# Download graph colors
+theme[download_start]="#afaf00"
+theme[download_mid]="#ffaf00"
+theme[download_end]="#d75f5f"
+
+# Upload graph colors
+theme[upload_start]="#afaf00"
+theme[upload_mid]="#ffaf00"
+theme[upload_end]="#d75f5f"

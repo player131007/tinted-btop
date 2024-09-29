@@ -1,0 +1,90 @@
+#
+#
+# name: Aztec
+# author: TheNeverMan (github.com/TheNeverMan)
+# slug: aztec
+# slug-underscored: aztec
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#101600"
+
+# Main text color
+theme[main_fg]="#FFDA51"
+
+# Title color for boxes
+theme[title]="#FFDA51"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5B4A9F"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1A1E01"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#FFDA51"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#FFD129"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5B4A9F"
+
+# Cpu box outline color
+theme[cpu_box]="#FFD129"
+
+# Memory/disks box outline color
+theme[mem_box]="#FFD129"
+
+# Net up/down box outline color
+theme[net_box]="#FFD129"
+
+# Processes box outline color
+theme[proc_box]="#FFD129"
+
+# Box divider line and small boxes line color
+theme[div_line]="#FFD129"
+
+# Temperature graph colors
+theme[temp_start]="#63D932"
+theme[temp_mid]="#EEBB00"
+theme[temp_end]="#EE2E00"
+
+# CPU graph colors
+theme[cpu_start]="#63D932"
+theme[cpu_mid]="#EEBB00"
+theme[cpu_end]="#EE2E00"
+
+# Mem/Disk free meter
+theme[free_start]="#63D932"
+theme[free_mid]="#EEBB00"
+theme[free_end]="#EE2E00"
+
+# Mem/Disk cached meter
+theme[cached_start]="#63D932"
+theme[cached_mid]="#EEBB00"
+theme[cached_end]="#EE2E00"
+
+# Mem/Disk available meter
+theme[available_start]="#63D932"
+theme[available_mid]="#EEBB00"
+theme[available_end]="#EE2E00"
+
+# Mem/Disk used meter
+theme[used_start]="#63D932"
+theme[used_mid]="#EEBB00"
+theme[used_end]="#EE2E00"
+
+# Download graph colors
+theme[download_start]="#63D932"
+theme[download_mid]="#EEBB00"
+theme[download_end]="#EE2E00"
+
+# Upload graph colors
+theme[upload_start]="#63D932"
+theme[upload_mid]="#EEBB00"
+theme[upload_end]="#EE2E00"

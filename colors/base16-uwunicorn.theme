@@ -1,0 +1,90 @@
+#
+#
+# name: UwUnicorn
+# author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+# slug: uwunicorn
+# slug-underscored: uwunicorn
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#241b26"
+
+# Main text color
+theme[main_fg]="#eed5d9"
+
+# Title color for boxes
+theme[title]="#eed5d9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6a9eb5"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2f2a3f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#eed5d9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7e5f83"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6a9eb5"
+
+# Cpu box outline color
+theme[cpu_box]="#7e5f83"
+
+# Memory/disks box outline color
+theme[mem_box]="#7e5f83"
+
+# Net up/down box outline color
+theme[net_box]="#7e5f83"
+
+# Processes box outline color
+theme[proc_box]="#7e5f83"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7e5f83"
+
+# Temperature graph colors
+theme[temp_start]="#c965bf"
+theme[temp_mid]="#a84a73"
+theme[temp_end]="#877bb6"
+
+# CPU graph colors
+theme[cpu_start]="#c965bf"
+theme[cpu_mid]="#a84a73"
+theme[cpu_end]="#877bb6"
+
+# Mem/Disk free meter
+theme[free_start]="#c965bf"
+theme[free_mid]="#a84a73"
+theme[free_end]="#877bb6"
+
+# Mem/Disk cached meter
+theme[cached_start]="#c965bf"
+theme[cached_mid]="#a84a73"
+theme[cached_end]="#877bb6"
+
+# Mem/Disk available meter
+theme[available_start]="#c965bf"
+theme[available_mid]="#a84a73"
+theme[available_end]="#877bb6"
+
+# Mem/Disk used meter
+theme[used_start]="#c965bf"
+theme[used_mid]="#a84a73"
+theme[used_end]="#877bb6"
+
+# Download graph colors
+theme[download_start]="#c965bf"
+theme[download_mid]="#a84a73"
+theme[download_end]="#877bb6"
+
+# Upload graph colors
+theme[upload_start]="#c965bf"
+theme[upload_mid]="#a84a73"
+theme[upload_end]="#877bb6"

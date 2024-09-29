@@ -1,0 +1,90 @@
+#
+#
+# name: Jabuti
+# author: https://github.com/notusknot
+# slug: jabuti
+# slug-underscored: jabuti
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#292A37"
+
+# Main text color
+theme[main_fg]="#c0cbe3"
+
+# Title color for boxes
+theme[title]="#c0cbe3"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3FC6DE"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#343545"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c0cbe3"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#50526b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3FC6DE"
+
+# Cpu box outline color
+theme[cpu_box]="#50526b"
+
+# Memory/disks box outline color
+theme[mem_box]="#50526b"
+
+# Net up/down box outline color
+theme[net_box]="#50526b"
+
+# Processes box outline color
+theme[proc_box]="#50526b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#50526b"
+
+# Temperature graph colors
+theme[temp_start]="#3FDAA4"
+theme[temp_mid]="#e1c697"
+theme[temp_end]="#ec6a88"
+
+# CPU graph colors
+theme[cpu_start]="#3FDAA4"
+theme[cpu_mid]="#e1c697"
+theme[cpu_end]="#ec6a88"
+
+# Mem/Disk free meter
+theme[free_start]="#3FDAA4"
+theme[free_mid]="#e1c697"
+theme[free_end]="#ec6a88"
+
+# Mem/Disk cached meter
+theme[cached_start]="#3FDAA4"
+theme[cached_mid]="#e1c697"
+theme[cached_end]="#ec6a88"
+
+# Mem/Disk available meter
+theme[available_start]="#3FDAA4"
+theme[available_mid]="#e1c697"
+theme[available_end]="#ec6a88"
+
+# Mem/Disk used meter
+theme[used_start]="#3FDAA4"
+theme[used_mid]="#e1c697"
+theme[used_end]="#ec6a88"
+
+# Download graph colors
+theme[download_start]="#3FDAA4"
+theme[download_mid]="#e1c697"
+theme[download_end]="#ec6a88"
+
+# Upload graph colors
+theme[upload_start]="#3FDAA4"
+theme[upload_mid]="#e1c697"
+theme[upload_end]="#ec6a88"

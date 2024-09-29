@@ -1,0 +1,90 @@
+#
+#
+# name: Shades of Purple
+# author: Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
+# slug: shades-of-purple
+# slug-underscored: shades_of_purple
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1e1e3f"
+
+# Main text color
+theme[main_fg]="#c7c7c7"
+
+# Title color for boxes
+theme[title]="#c7c7c7"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6943ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#43d426"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c7c7c7"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#6871ff"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6943ff"
+
+# Cpu box outline color
+theme[cpu_box]="#6871ff"
+
+# Memory/disks box outline color
+theme[mem_box]="#6871ff"
+
+# Net up/down box outline color
+theme[net_box]="#6871ff"
+
+# Processes box outline color
+theme[proc_box]="#6871ff"
+
+# Box divider line and small boxes line color
+theme[div_line]="#6871ff"
+
+# Temperature graph colors
+theme[temp_start]="#3ad900"
+theme[temp_mid]="#ffe700"
+theme[temp_end]="#d90429"
+
+# CPU graph colors
+theme[cpu_start]="#3ad900"
+theme[cpu_mid]="#ffe700"
+theme[cpu_end]="#d90429"
+
+# Mem/Disk free meter
+theme[free_start]="#3ad900"
+theme[free_mid]="#ffe700"
+theme[free_end]="#d90429"
+
+# Mem/Disk cached meter
+theme[cached_start]="#3ad900"
+theme[cached_mid]="#ffe700"
+theme[cached_end]="#d90429"
+
+# Mem/Disk available meter
+theme[available_start]="#3ad900"
+theme[available_mid]="#ffe700"
+theme[available_end]="#d90429"
+
+# Mem/Disk used meter
+theme[used_start]="#3ad900"
+theme[used_mid]="#ffe700"
+theme[used_end]="#d90429"
+
+# Download graph colors
+theme[download_start]="#3ad900"
+theme[download_mid]="#ffe700"
+theme[download_end]="#d90429"
+
+# Upload graph colors
+theme[upload_start]="#3ad900"
+theme[upload_mid]="#ffe700"
+theme[upload_end]="#d90429"

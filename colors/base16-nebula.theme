@@ -1,0 +1,90 @@
+#
+#
+# name: Nebula
+# author: Gabriel Fontes (https://github.com/Misterio77)
+# slug: nebula
+# slug-underscored: nebula
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#22273b"
+
+# Main text color
+theme[main_fg]="#a4a6a9"
+
+# Title color for boxes
+theme[title]="#a4a6a9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4d6bb6"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#414f60"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a4a6a9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#87888b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4d6bb6"
+
+# Cpu box outline color
+theme[cpu_box]="#87888b"
+
+# Memory/disks box outline color
+theme[mem_box]="#87888b"
+
+# Net up/down box outline color
+theme[net_box]="#87888b"
+
+# Processes box outline color
+theme[proc_box]="#87888b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#87888b"
+
+# Temperature graph colors
+theme[temp_start]="#6562a8"
+theme[temp_mid]="#4f9062"
+theme[temp_end]="#777abc"
+
+# CPU graph colors
+theme[cpu_start]="#6562a8"
+theme[cpu_mid]="#4f9062"
+theme[cpu_end]="#777abc"
+
+# Mem/Disk free meter
+theme[free_start]="#6562a8"
+theme[free_mid]="#4f9062"
+theme[free_end]="#777abc"
+
+# Mem/Disk cached meter
+theme[cached_start]="#6562a8"
+theme[cached_mid]="#4f9062"
+theme[cached_end]="#777abc"
+
+# Mem/Disk available meter
+theme[available_start]="#6562a8"
+theme[available_mid]="#4f9062"
+theme[available_end]="#777abc"
+
+# Mem/Disk used meter
+theme[used_start]="#6562a8"
+theme[used_mid]="#4f9062"
+theme[used_end]="#777abc"
+
+# Download graph colors
+theme[download_start]="#6562a8"
+theme[download_mid]="#4f9062"
+theme[download_end]="#777abc"
+
+# Upload graph colors
+theme[upload_start]="#6562a8"
+theme[upload_mid]="#4f9062"
+theme[upload_end]="#777abc"

@@ -1,0 +1,90 @@
+#
+#
+# name: DanQing
+# author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# slug: danqing
+# slug-underscored: danqing
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#2d302f"
+
+# Main text color
+theme[main_fg]="#e0f0eF"
+
+# Title color for boxes
+theme[title]="#e0f0eF"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#B0A4E3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#434846"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#e0f0eF"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#cad8d2"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#B0A4E3"
+
+# Cpu box outline color
+theme[cpu_box]="#cad8d2"
+
+# Memory/disks box outline color
+theme[mem_box]="#cad8d2"
+
+# Net up/down box outline color
+theme[net_box]="#cad8d2"
+
+# Processes box outline color
+theme[proc_box]="#cad8d2"
+
+# Box divider line and small boxes line color
+theme[div_line]="#cad8d2"
+
+# Temperature graph colors
+theme[temp_start]="#8AB361"
+theme[temp_mid]="#F0C239"
+theme[temp_end]="#F9906F"
+
+# CPU graph colors
+theme[cpu_start]="#8AB361"
+theme[cpu_mid]="#F0C239"
+theme[cpu_end]="#F9906F"
+
+# Mem/Disk free meter
+theme[free_start]="#8AB361"
+theme[free_mid]="#F0C239"
+theme[free_end]="#F9906F"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8AB361"
+theme[cached_mid]="#F0C239"
+theme[cached_end]="#F9906F"
+
+# Mem/Disk available meter
+theme[available_start]="#8AB361"
+theme[available_mid]="#F0C239"
+theme[available_end]="#F9906F"
+
+# Mem/Disk used meter
+theme[used_start]="#8AB361"
+theme[used_mid]="#F0C239"
+theme[used_end]="#F9906F"
+
+# Download graph colors
+theme[download_start]="#8AB361"
+theme[download_mid]="#F0C239"
+theme[download_end]="#F9906F"
+
+# Upload graph colors
+theme[upload_start]="#8AB361"
+theme[upload_mid]="#F0C239"
+theme[upload_end]="#F9906F"

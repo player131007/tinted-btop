@@ -1,0 +1,90 @@
+#
+#
+# name: selenized-dark
+# author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# slug: selenized-dark
+# slug-underscored: selenized_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#103c48"
+
+# Main text color
+theme[main_fg]="#adbcbc"
+
+# Title color for boxes
+theme[title]="#adbcbc"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4695f7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#184956"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#adbcbc"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#72898f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4695f7"
+
+# Cpu box outline color
+theme[cpu_box]="#72898f"
+
+# Memory/disks box outline color
+theme[mem_box]="#72898f"
+
+# Net up/down box outline color
+theme[net_box]="#72898f"
+
+# Processes box outline color
+theme[proc_box]="#72898f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#72898f"
+
+# Temperature graph colors
+theme[temp_start]="#75b938"
+theme[temp_mid]="#dbb32d"
+theme[temp_end]="#fa5750"
+
+# CPU graph colors
+theme[cpu_start]="#75b938"
+theme[cpu_mid]="#dbb32d"
+theme[cpu_end]="#fa5750"
+
+# Mem/Disk free meter
+theme[free_start]="#75b938"
+theme[free_mid]="#dbb32d"
+theme[free_end]="#fa5750"
+
+# Mem/Disk cached meter
+theme[cached_start]="#75b938"
+theme[cached_mid]="#dbb32d"
+theme[cached_end]="#fa5750"
+
+# Mem/Disk available meter
+theme[available_start]="#75b938"
+theme[available_mid]="#dbb32d"
+theme[available_end]="#fa5750"
+
+# Mem/Disk used meter
+theme[used_start]="#75b938"
+theme[used_mid]="#dbb32d"
+theme[used_end]="#fa5750"
+
+# Download graph colors
+theme[download_start]="#75b938"
+theme[download_mid]="#dbb32d"
+theme[download_end]="#fa5750"
+
+# Upload graph colors
+theme[upload_start]="#75b938"
+theme[upload_mid]="#dbb32d"
+theme[upload_end]="#fa5750"

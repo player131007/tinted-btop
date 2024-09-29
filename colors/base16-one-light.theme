@@ -1,0 +1,90 @@
+#
+#
+# name: One Light
+# author: Daniel Pfeifer (http://github.com/purpleKarrot)
+# slug: one-light
+# slug-underscored: one_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#fafafa"
+
+# Main text color
+theme[main_fg]="#383a42"
+
+# Title color for boxes
+theme[title]="#383a42"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4078f2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#f0f0f1"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#383a42"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#696c77"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4078f2"
+
+# Cpu box outline color
+theme[cpu_box]="#696c77"
+
+# Memory/disks box outline color
+theme[mem_box]="#696c77"
+
+# Net up/down box outline color
+theme[net_box]="#696c77"
+
+# Processes box outline color
+theme[proc_box]="#696c77"
+
+# Box divider line and small boxes line color
+theme[div_line]="#696c77"
+
+# Temperature graph colors
+theme[temp_start]="#50a14f"
+theme[temp_mid]="#c18401"
+theme[temp_end]="#ca1243"
+
+# CPU graph colors
+theme[cpu_start]="#50a14f"
+theme[cpu_mid]="#c18401"
+theme[cpu_end]="#ca1243"
+
+# Mem/Disk free meter
+theme[free_start]="#50a14f"
+theme[free_mid]="#c18401"
+theme[free_end]="#ca1243"
+
+# Mem/Disk cached meter
+theme[cached_start]="#50a14f"
+theme[cached_mid]="#c18401"
+theme[cached_end]="#ca1243"
+
+# Mem/Disk available meter
+theme[available_start]="#50a14f"
+theme[available_mid]="#c18401"
+theme[available_end]="#ca1243"
+
+# Mem/Disk used meter
+theme[used_start]="#50a14f"
+theme[used_mid]="#c18401"
+theme[used_end]="#ca1243"
+
+# Download graph colors
+theme[download_start]="#50a14f"
+theme[download_mid]="#c18401"
+theme[download_end]="#ca1243"
+
+# Upload graph colors
+theme[upload_start]="#50a14f"
+theme[upload_mid]="#c18401"
+theme[upload_end]="#ca1243"

@@ -1,0 +1,90 @@
+#
+#
+# name: vice
+# author: Thomas Leon Highbaugh thighbaugh@zoho.com
+# slug: vice
+# slug-underscored: vice
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#17191E"
+
+# Main text color
+theme[main_fg]="#8b9cbe"
+
+# Title color for boxes
+theme[title]="#8b9cbe"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#00eaff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#22262d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#8b9cbe"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#555e70"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#00eaff"
+
+# Cpu box outline color
+theme[cpu_box]="#555e70"
+
+# Memory/disks box outline color
+theme[mem_box]="#555e70"
+
+# Net up/down box outline color
+theme[net_box]="#555e70"
+
+# Processes box outline color
+theme[proc_box]="#555e70"
+
+# Box divider line and small boxes line color
+theme[div_line]="#555e70"
+
+# Temperature graph colors
+theme[temp_start]="#0badff"
+theme[temp_mid]="#f0ffaa"
+theme[temp_end]="#ff29a8"
+
+# CPU graph colors
+theme[cpu_start]="#0badff"
+theme[cpu_mid]="#f0ffaa"
+theme[cpu_end]="#ff29a8"
+
+# Mem/Disk free meter
+theme[free_start]="#0badff"
+theme[free_mid]="#f0ffaa"
+theme[free_end]="#ff29a8"
+
+# Mem/Disk cached meter
+theme[cached_start]="#0badff"
+theme[cached_mid]="#f0ffaa"
+theme[cached_end]="#ff29a8"
+
+# Mem/Disk available meter
+theme[available_start]="#0badff"
+theme[available_mid]="#f0ffaa"
+theme[available_end]="#ff29a8"
+
+# Mem/Disk used meter
+theme[used_start]="#0badff"
+theme[used_mid]="#f0ffaa"
+theme[used_end]="#ff29a8"
+
+# Download graph colors
+theme[download_start]="#0badff"
+theme[download_mid]="#f0ffaa"
+theme[download_end]="#ff29a8"
+
+# Upload graph colors
+theme[upload_start]="#0badff"
+theme[upload_mid]="#f0ffaa"
+theme[upload_end]="#ff29a8"

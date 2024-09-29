@@ -1,0 +1,90 @@
+#
+#
+# name: IR Black
+# author: Timothée Poisot (http://timotheepoisot.fr)
+# slug: irblack
+# slug-underscored: irblack
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#b5b3aa"
+
+# Title color for boxes
+theme[title]="#b5b3aa"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#96cbfe"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#242422"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b5b3aa"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#918f88"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#96cbfe"
+
+# Cpu box outline color
+theme[cpu_box]="#918f88"
+
+# Memory/disks box outline color
+theme[mem_box]="#918f88"
+
+# Net up/down box outline color
+theme[net_box]="#918f88"
+
+# Processes box outline color
+theme[proc_box]="#918f88"
+
+# Box divider line and small boxes line color
+theme[div_line]="#918f88"
+
+# Temperature graph colors
+theme[temp_start]="#a8ff60"
+theme[temp_mid]="#ffffb6"
+theme[temp_end]="#ff6c60"
+
+# CPU graph colors
+theme[cpu_start]="#a8ff60"
+theme[cpu_mid]="#ffffb6"
+theme[cpu_end]="#ff6c60"
+
+# Mem/Disk free meter
+theme[free_start]="#a8ff60"
+theme[free_mid]="#ffffb6"
+theme[free_end]="#ff6c60"
+
+# Mem/Disk cached meter
+theme[cached_start]="#a8ff60"
+theme[cached_mid]="#ffffb6"
+theme[cached_end]="#ff6c60"
+
+# Mem/Disk available meter
+theme[available_start]="#a8ff60"
+theme[available_mid]="#ffffb6"
+theme[available_end]="#ff6c60"
+
+# Mem/Disk used meter
+theme[used_start]="#a8ff60"
+theme[used_mid]="#ffffb6"
+theme[used_end]="#ff6c60"
+
+# Download graph colors
+theme[download_start]="#a8ff60"
+theme[download_mid]="#ffffb6"
+theme[download_end]="#ff6c60"
+
+# Upload graph colors
+theme[upload_start]="#a8ff60"
+theme[upload_mid]="#ffffb6"
+theme[upload_end]="#ff6c60"

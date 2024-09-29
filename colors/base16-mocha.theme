@@ -1,0 +1,90 @@
+#
+#
+# name: Mocha
+# author: Chris Kempson (http://chriskempson.com)
+# slug: mocha
+# slug-underscored: mocha
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#3B3228"
+
+# Main text color
+theme[main_fg]="#d0c8c6"
+
+# Title color for boxes
+theme[title]="#d0c8c6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8ab3b5"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#534636"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d0c8c6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#b8afad"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#8ab3b5"
+
+# Cpu box outline color
+theme[cpu_box]="#b8afad"
+
+# Memory/disks box outline color
+theme[mem_box]="#b8afad"
+
+# Net up/down box outline color
+theme[net_box]="#b8afad"
+
+# Processes box outline color
+theme[proc_box]="#b8afad"
+
+# Box divider line and small boxes line color
+theme[div_line]="#b8afad"
+
+# Temperature graph colors
+theme[temp_start]="#beb55b"
+theme[temp_mid]="#f4bc87"
+theme[temp_end]="#cb6077"
+
+# CPU graph colors
+theme[cpu_start]="#beb55b"
+theme[cpu_mid]="#f4bc87"
+theme[cpu_end]="#cb6077"
+
+# Mem/Disk free meter
+theme[free_start]="#beb55b"
+theme[free_mid]="#f4bc87"
+theme[free_end]="#cb6077"
+
+# Mem/Disk cached meter
+theme[cached_start]="#beb55b"
+theme[cached_mid]="#f4bc87"
+theme[cached_end]="#cb6077"
+
+# Mem/Disk available meter
+theme[available_start]="#beb55b"
+theme[available_mid]="#f4bc87"
+theme[available_end]="#cb6077"
+
+# Mem/Disk used meter
+theme[used_start]="#beb55b"
+theme[used_mid]="#f4bc87"
+theme[used_end]="#cb6077"
+
+# Download graph colors
+theme[download_start]="#beb55b"
+theme[download_mid]="#f4bc87"
+theme[download_end]="#cb6077"
+
+# Upload graph colors
+theme[upload_start]="#beb55b"
+theme[upload_mid]="#f4bc87"
+theme[upload_end]="#cb6077"

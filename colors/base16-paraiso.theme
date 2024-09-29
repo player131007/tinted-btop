@@ -1,0 +1,90 @@
+#
+#
+# name: Paraiso
+# author: Jan T. Sott
+# slug: paraiso
+# slug-underscored: paraiso
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#2f1e2e"
+
+# Main text color
+theme[main_fg]="#a39e9b"
+
+# Title color for boxes
+theme[title]="#a39e9b"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#06b6ef"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#41323f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a39e9b"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8d8687"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#06b6ef"
+
+# Cpu box outline color
+theme[cpu_box]="#8d8687"
+
+# Memory/disks box outline color
+theme[mem_box]="#8d8687"
+
+# Net up/down box outline color
+theme[net_box]="#8d8687"
+
+# Processes box outline color
+theme[proc_box]="#8d8687"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8d8687"
+
+# Temperature graph colors
+theme[temp_start]="#48b685"
+theme[temp_mid]="#fec418"
+theme[temp_end]="#ef6155"
+
+# CPU graph colors
+theme[cpu_start]="#48b685"
+theme[cpu_mid]="#fec418"
+theme[cpu_end]="#ef6155"
+
+# Mem/Disk free meter
+theme[free_start]="#48b685"
+theme[free_mid]="#fec418"
+theme[free_end]="#ef6155"
+
+# Mem/Disk cached meter
+theme[cached_start]="#48b685"
+theme[cached_mid]="#fec418"
+theme[cached_end]="#ef6155"
+
+# Mem/Disk available meter
+theme[available_start]="#48b685"
+theme[available_mid]="#fec418"
+theme[available_end]="#ef6155"
+
+# Mem/Disk used meter
+theme[used_start]="#48b685"
+theme[used_mid]="#fec418"
+theme[used_end]="#ef6155"
+
+# Download graph colors
+theme[download_start]="#48b685"
+theme[download_mid]="#fec418"
+theme[download_end]="#ef6155"
+
+# Upload graph colors
+theme[upload_start]="#48b685"
+theme[upload_mid]="#fec418"
+theme[upload_end]="#ef6155"

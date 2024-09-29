@@ -1,0 +1,90 @@
+#
+#
+# name: Marrakesh
+# author: Alexandre Gavioli (http://github.com/Alexx2/)
+# slug: marrakesh
+# slug-underscored: marrakesh
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#201602"
+
+# Main text color
+theme[main_fg]="#948e48"
+
+# Title color for boxes
+theme[title]="#948e48"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#477ca1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#302e00"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#948e48"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#86813b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#477ca1"
+
+# Cpu box outline color
+theme[cpu_box]="#86813b"
+
+# Memory/disks box outline color
+theme[mem_box]="#86813b"
+
+# Net up/down box outline color
+theme[net_box]="#86813b"
+
+# Processes box outline color
+theme[proc_box]="#86813b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#86813b"
+
+# Temperature graph colors
+theme[temp_start]="#18974e"
+theme[temp_mid]="#a88339"
+theme[temp_end]="#c35359"
+
+# CPU graph colors
+theme[cpu_start]="#18974e"
+theme[cpu_mid]="#a88339"
+theme[cpu_end]="#c35359"
+
+# Mem/Disk free meter
+theme[free_start]="#18974e"
+theme[free_mid]="#a88339"
+theme[free_end]="#c35359"
+
+# Mem/Disk cached meter
+theme[cached_start]="#18974e"
+theme[cached_mid]="#a88339"
+theme[cached_end]="#c35359"
+
+# Mem/Disk available meter
+theme[available_start]="#18974e"
+theme[available_mid]="#a88339"
+theme[available_end]="#c35359"
+
+# Mem/Disk used meter
+theme[used_start]="#18974e"
+theme[used_mid]="#a88339"
+theme[used_end]="#c35359"
+
+# Download graph colors
+theme[download_start]="#18974e"
+theme[download_mid]="#a88339"
+theme[download_end]="#c35359"
+
+# Upload graph colors
+theme[upload_start]="#18974e"
+theme[upload_mid]="#a88339"
+theme[upload_end]="#c35359"

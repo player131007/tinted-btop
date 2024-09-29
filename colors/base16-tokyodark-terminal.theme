@@ -1,0 +1,90 @@
+#
+#
+# name: Tokyodark Terminal
+# author: Tiagovla (https://github.com/tiagovla/)
+# slug: tokyodark-terminal
+# slug-underscored: tokyodark_terminal
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#11121d"
+
+# Main text color
+theme[main_fg]="#a0a8cd"
+
+# Title color for boxes
+theme[title]="#a0a8cd"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7199ee"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1A1B2A"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a0a8cd"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#4a5057"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7199ee"
+
+# Cpu box outline color
+theme[cpu_box]="#4a5057"
+
+# Memory/disks box outline color
+theme[mem_box]="#4a5057"
+
+# Net up/down box outline color
+theme[net_box]="#4a5057"
+
+# Processes box outline color
+theme[proc_box]="#4a5057"
+
+# Box divider line and small boxes line color
+theme[div_line]="#4a5057"
+
+# Temperature graph colors
+theme[temp_start]="#95c561"
+theme[temp_mid]="#d7a65f"
+theme[temp_end]="#ee6d85"
+
+# CPU graph colors
+theme[cpu_start]="#95c561"
+theme[cpu_mid]="#d7a65f"
+theme[cpu_end]="#ee6d85"
+
+# Mem/Disk free meter
+theme[free_start]="#95c561"
+theme[free_mid]="#d7a65f"
+theme[free_end]="#ee6d85"
+
+# Mem/Disk cached meter
+theme[cached_start]="#95c561"
+theme[cached_mid]="#d7a65f"
+theme[cached_end]="#ee6d85"
+
+# Mem/Disk available meter
+theme[available_start]="#95c561"
+theme[available_mid]="#d7a65f"
+theme[available_end]="#ee6d85"
+
+# Mem/Disk used meter
+theme[used_start]="#95c561"
+theme[used_mid]="#d7a65f"
+theme[used_end]="#ee6d85"
+
+# Download graph colors
+theme[download_start]="#95c561"
+theme[download_mid]="#d7a65f"
+theme[download_end]="#ee6d85"
+
+# Upload graph colors
+theme[upload_start]="#95c561"
+theme[upload_mid]="#d7a65f"
+theme[upload_end]="#ee6d85"

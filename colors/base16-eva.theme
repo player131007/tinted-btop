@@ -1,0 +1,90 @@
+#
+#
+# name: Eva
+# author: kjakapat (https://github.com/kjakapat)
+# slug: eva
+# slug-underscored: eva
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#2a3b4d"
+
+# Main text color
+theme[main_fg]="#9fa2a6"
+
+# Title color for boxes
+theme[title]="#9fa2a6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#15f4ee"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3d566f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#9fa2a6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7e90a3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#15f4ee"
+
+# Cpu box outline color
+theme[cpu_box]="#7e90a3"
+
+# Memory/disks box outline color
+theme[mem_box]="#7e90a3"
+
+# Net up/down box outline color
+theme[net_box]="#7e90a3"
+
+# Processes box outline color
+theme[proc_box]="#7e90a3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7e90a3"
+
+# Temperature graph colors
+theme[temp_start]="#66ff66"
+theme[temp_mid]="#ffff66"
+theme[temp_end]="#c4676c"
+
+# CPU graph colors
+theme[cpu_start]="#66ff66"
+theme[cpu_mid]="#ffff66"
+theme[cpu_end]="#c4676c"
+
+# Mem/Disk free meter
+theme[free_start]="#66ff66"
+theme[free_mid]="#ffff66"
+theme[free_end]="#c4676c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#66ff66"
+theme[cached_mid]="#ffff66"
+theme[cached_end]="#c4676c"
+
+# Mem/Disk available meter
+theme[available_start]="#66ff66"
+theme[available_mid]="#ffff66"
+theme[available_end]="#c4676c"
+
+# Mem/Disk used meter
+theme[used_start]="#66ff66"
+theme[used_mid]="#ffff66"
+theme[used_end]="#c4676c"
+
+# Download graph colors
+theme[download_start]="#66ff66"
+theme[download_mid]="#ffff66"
+theme[download_end]="#c4676c"
+
+# Upload graph colors
+theme[upload_start]="#66ff66"
+theme[upload_mid]="#ffff66"
+theme[upload_end]="#c4676c"

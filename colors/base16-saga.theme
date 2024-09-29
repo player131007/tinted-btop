@@ -1,0 +1,90 @@
+#
+#
+# name: SAGA
+# author: https://github.com/SAGAtheme/SAGA
+# slug: saga
+# slug-underscored: saga
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#05080a"
+
+# Main text color
+theme[main_fg]="#dce2f7"
+
+# Title color for boxes
+theme[title]="#dce2f7"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#c9fff7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#0a1014"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#dce2f7"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#192630"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#c9fff7"
+
+# Cpu box outline color
+theme[cpu_box]="#192630"
+
+# Memory/disks box outline color
+theme[mem_box]="#192630"
+
+# Net up/down box outline color
+theme[net_box]="#192630"
+
+# Processes box outline color
+theme[proc_box]="#192630"
+
+# Box divider line and small boxes line color
+theme[div_line]="#192630"
+
+# Temperature graph colors
+theme[temp_start]="#f7ddff"
+theme[temp_mid]="#fbebc8"
+theme[temp_end]="#ffd4e9"
+
+# CPU graph colors
+theme[cpu_start]="#f7ddff"
+theme[cpu_mid]="#fbebc8"
+theme[cpu_end]="#ffd4e9"
+
+# Mem/Disk free meter
+theme[free_start]="#f7ddff"
+theme[free_mid]="#fbebc8"
+theme[free_end]="#ffd4e9"
+
+# Mem/Disk cached meter
+theme[cached_start]="#f7ddff"
+theme[cached_mid]="#fbebc8"
+theme[cached_end]="#ffd4e9"
+
+# Mem/Disk available meter
+theme[available_start]="#f7ddff"
+theme[available_mid]="#fbebc8"
+theme[available_end]="#ffd4e9"
+
+# Mem/Disk used meter
+theme[used_start]="#f7ddff"
+theme[used_mid]="#fbebc8"
+theme[used_end]="#ffd4e9"
+
+# Download graph colors
+theme[download_start]="#f7ddff"
+theme[download_mid]="#fbebc8"
+theme[download_end]="#ffd4e9"
+
+# Upload graph colors
+theme[upload_start]="#f7ddff"
+theme[upload_mid]="#fbebc8"
+theme[upload_end]="#ffd4e9"

@@ -1,0 +1,90 @@
+#
+#
+# name: Da One Ocean
+# author: NNB (https://github.com/NNBnh)
+# slug: da-one-ocean
+# slug-underscored: da_one_ocean
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#171726"
+
+# Main text color
+theme[main_fg]="#ffffff"
+
+# Title color for boxes
+theme[title]="#ffffff"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6bb8ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#22273d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#c8c8c8"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6bb8ff"
+
+# Cpu box outline color
+theme[cpu_box]="#c8c8c8"
+
+# Memory/disks box outline color
+theme[mem_box]="#c8c8c8"
+
+# Net up/down box outline color
+theme[net_box]="#c8c8c8"
+
+# Processes box outline color
+theme[proc_box]="#c8c8c8"
+
+# Box divider line and small boxes line color
+theme[div_line]="#c8c8c8"
+
+# Temperature graph colors
+theme[temp_start]="#98c379"
+theme[temp_mid]="#ff9470"
+theme[temp_end]="#fa7883"
+
+# CPU graph colors
+theme[cpu_start]="#98c379"
+theme[cpu_mid]="#ff9470"
+theme[cpu_end]="#fa7883"
+
+# Mem/Disk free meter
+theme[free_start]="#98c379"
+theme[free_mid]="#ff9470"
+theme[free_end]="#fa7883"
+
+# Mem/Disk cached meter
+theme[cached_start]="#98c379"
+theme[cached_mid]="#ff9470"
+theme[cached_end]="#fa7883"
+
+# Mem/Disk available meter
+theme[available_start]="#98c379"
+theme[available_mid]="#ff9470"
+theme[available_end]="#fa7883"
+
+# Mem/Disk used meter
+theme[used_start]="#98c379"
+theme[used_mid]="#ff9470"
+theme[used_end]="#fa7883"
+
+# Download graph colors
+theme[download_start]="#98c379"
+theme[download_mid]="#ff9470"
+theme[download_end]="#fa7883"
+
+# Upload graph colors
+theme[upload_start]="#98c379"
+theme[upload_mid]="#ff9470"
+theme[upload_end]="#fa7883"

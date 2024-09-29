@@ -1,0 +1,90 @@
+#
+#
+# name: Ashes
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: ashes
+# slug-underscored: ashes
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1C2023"
+
+# Main text color
+theme[main_fg]="#C7CCD1"
+
+# Title color for boxes
+theme[title]="#C7CCD1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#AE95C7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#393F45"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#C7CCD1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#ADB3BA"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#AE95C7"
+
+# Cpu box outline color
+theme[cpu_box]="#ADB3BA"
+
+# Memory/disks box outline color
+theme[mem_box]="#ADB3BA"
+
+# Net up/down box outline color
+theme[net_box]="#ADB3BA"
+
+# Processes box outline color
+theme[proc_box]="#ADB3BA"
+
+# Box divider line and small boxes line color
+theme[div_line]="#ADB3BA"
+
+# Temperature graph colors
+theme[temp_start]="#95C7AE"
+theme[temp_mid]="#AEC795"
+theme[temp_end]="#C7AE95"
+
+# CPU graph colors
+theme[cpu_start]="#95C7AE"
+theme[cpu_mid]="#AEC795"
+theme[cpu_end]="#C7AE95"
+
+# Mem/Disk free meter
+theme[free_start]="#95C7AE"
+theme[free_mid]="#AEC795"
+theme[free_end]="#C7AE95"
+
+# Mem/Disk cached meter
+theme[cached_start]="#95C7AE"
+theme[cached_mid]="#AEC795"
+theme[cached_end]="#C7AE95"
+
+# Mem/Disk available meter
+theme[available_start]="#95C7AE"
+theme[available_mid]="#AEC795"
+theme[available_end]="#C7AE95"
+
+# Mem/Disk used meter
+theme[used_start]="#95C7AE"
+theme[used_mid]="#AEC795"
+theme[used_end]="#C7AE95"
+
+# Download graph colors
+theme[download_start]="#95C7AE"
+theme[download_mid]="#AEC795"
+theme[download_end]="#C7AE95"
+
+# Upload graph colors
+theme[upload_start]="#95C7AE"
+theme[upload_mid]="#AEC795"
+theme[upload_end]="#C7AE95"

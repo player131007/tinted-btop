@@ -1,0 +1,90 @@
+#
+#
+# name: Pico
+# author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# slug: pico
+# slug-underscored: pico
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#5f574f"
+
+# Title color for boxes
+theme[title]="#5f574f"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#83769c"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1d2b53"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#5f574f"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#ab5236"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#83769c"
+
+# Cpu box outline color
+theme[cpu_box]="#ab5236"
+
+# Memory/disks box outline color
+theme[mem_box]="#ab5236"
+
+# Net up/down box outline color
+theme[net_box]="#ab5236"
+
+# Processes box outline color
+theme[proc_box]="#ab5236"
+
+# Box divider line and small boxes line color
+theme[div_line]="#ab5236"
+
+# Temperature graph colors
+theme[temp_start]="#00e756"
+theme[temp_mid]="#fff024"
+theme[temp_end]="#ff004d"
+
+# CPU graph colors
+theme[cpu_start]="#00e756"
+theme[cpu_mid]="#fff024"
+theme[cpu_end]="#ff004d"
+
+# Mem/Disk free meter
+theme[free_start]="#00e756"
+theme[free_mid]="#fff024"
+theme[free_end]="#ff004d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#00e756"
+theme[cached_mid]="#fff024"
+theme[cached_end]="#ff004d"
+
+# Mem/Disk available meter
+theme[available_start]="#00e756"
+theme[available_mid]="#fff024"
+theme[available_end]="#ff004d"
+
+# Mem/Disk used meter
+theme[used_start]="#00e756"
+theme[used_mid]="#fff024"
+theme[used_end]="#ff004d"
+
+# Download graph colors
+theme[download_start]="#00e756"
+theme[download_mid]="#fff024"
+theme[download_end]="#ff004d"
+
+# Upload graph colors
+theme[upload_start]="#00e756"
+theme[upload_mid]="#fff024"
+theme[upload_end]="#ff004d"

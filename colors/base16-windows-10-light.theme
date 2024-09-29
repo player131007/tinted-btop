@@ -1,0 +1,90 @@
+#
+#
+# name: Windows 10 Light
+# author: Fergus Collins (https://github.com/C-Fergus)
+# slug: windows-10-light
+# slug-underscored: windows_10_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f2f2f2"
+
+# Main text color
+theme[main_fg]="#767676"
+
+# Title color for boxes
+theme[title]="#767676"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0037da"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e5e5e5"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#767676"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#ababab"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0037da"
+
+# Cpu box outline color
+theme[cpu_box]="#ababab"
+
+# Memory/disks box outline color
+theme[mem_box]="#ababab"
+
+# Net up/down box outline color
+theme[net_box]="#ababab"
+
+# Processes box outline color
+theme[proc_box]="#ababab"
+
+# Box divider line and small boxes line color
+theme[div_line]="#ababab"
+
+# Temperature graph colors
+theme[temp_start]="#13a10e"
+theme[temp_mid]="#c19c00"
+theme[temp_end]="#c50f1f"
+
+# CPU graph colors
+theme[cpu_start]="#13a10e"
+theme[cpu_mid]="#c19c00"
+theme[cpu_end]="#c50f1f"
+
+# Mem/Disk free meter
+theme[free_start]="#13a10e"
+theme[free_mid]="#c19c00"
+theme[free_end]="#c50f1f"
+
+# Mem/Disk cached meter
+theme[cached_start]="#13a10e"
+theme[cached_mid]="#c19c00"
+theme[cached_end]="#c50f1f"
+
+# Mem/Disk available meter
+theme[available_start]="#13a10e"
+theme[available_mid]="#c19c00"
+theme[available_end]="#c50f1f"
+
+# Mem/Disk used meter
+theme[used_start]="#13a10e"
+theme[used_mid]="#c19c00"
+theme[used_end]="#c50f1f"
+
+# Download graph colors
+theme[download_start]="#13a10e"
+theme[download_mid]="#c19c00"
+theme[download_end]="#c50f1f"
+
+# Upload graph colors
+theme[upload_start]="#13a10e"
+theme[upload_mid]="#c19c00"
+theme[upload_end]="#c50f1f"

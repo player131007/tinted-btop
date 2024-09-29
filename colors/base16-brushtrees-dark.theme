@@ -1,0 +1,90 @@
+#
+#
+# name: Brush Trees Dark
+# author: Abraham White <abelincoln.white@gmail.com>
+# slug: brushtrees-dark
+# slug-underscored: brushtrees_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#485867"
+
+# Main text color
+theme[main_fg]="#B0C5C8"
+
+# Title color for boxes
+theme[title]="#B0C5C8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#868cb3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#5A6D7A"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#B0C5C8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#98AFB5"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#868cb3"
+
+# Cpu box outline color
+theme[cpu_box]="#98AFB5"
+
+# Memory/disks box outline color
+theme[mem_box]="#98AFB5"
+
+# Net up/down box outline color
+theme[net_box]="#98AFB5"
+
+# Processes box outline color
+theme[proc_box]="#98AFB5"
+
+# Box divider line and small boxes line color
+theme[div_line]="#98AFB5"
+
+# Temperature graph colors
+theme[temp_start]="#87b386"
+theme[temp_mid]="#aab386"
+theme[temp_end]="#b38686"
+
+# CPU graph colors
+theme[cpu_start]="#87b386"
+theme[cpu_mid]="#aab386"
+theme[cpu_end]="#b38686"
+
+# Mem/Disk free meter
+theme[free_start]="#87b386"
+theme[free_mid]="#aab386"
+theme[free_end]="#b38686"
+
+# Mem/Disk cached meter
+theme[cached_start]="#87b386"
+theme[cached_mid]="#aab386"
+theme[cached_end]="#b38686"
+
+# Mem/Disk available meter
+theme[available_start]="#87b386"
+theme[available_mid]="#aab386"
+theme[available_end]="#b38686"
+
+# Mem/Disk used meter
+theme[used_start]="#87b386"
+theme[used_mid]="#aab386"
+theme[used_end]="#b38686"
+
+# Download graph colors
+theme[download_start]="#87b386"
+theme[download_mid]="#aab386"
+theme[download_end]="#b38686"
+
+# Upload graph colors
+theme[upload_start]="#87b386"
+theme[upload_mid]="#aab386"
+theme[upload_end]="#b38686"

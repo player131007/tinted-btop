@@ -1,0 +1,90 @@
+#
+#
+# name: Woodland
+# author: Jay Cornwall (https://jcornwall.com)
+# slug: woodland
+# slug-underscored: woodland
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#231e18"
+
+# Main text color
+theme[main_fg]="#cabcb1"
+
+# Title color for boxes
+theme[title]="#cabcb1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#88a4d3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#302b25"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cabcb1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#b4a490"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#88a4d3"
+
+# Cpu box outline color
+theme[cpu_box]="#b4a490"
+
+# Memory/disks box outline color
+theme[mem_box]="#b4a490"
+
+# Net up/down box outline color
+theme[net_box]="#b4a490"
+
+# Processes box outline color
+theme[proc_box]="#b4a490"
+
+# Box divider line and small boxes line color
+theme[div_line]="#b4a490"
+
+# Temperature graph colors
+theme[temp_start]="#b7ba53"
+theme[temp_mid]="#e0ac16"
+theme[temp_end]="#d35c5c"
+
+# CPU graph colors
+theme[cpu_start]="#b7ba53"
+theme[cpu_mid]="#e0ac16"
+theme[cpu_end]="#d35c5c"
+
+# Mem/Disk free meter
+theme[free_start]="#b7ba53"
+theme[free_mid]="#e0ac16"
+theme[free_end]="#d35c5c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#b7ba53"
+theme[cached_mid]="#e0ac16"
+theme[cached_end]="#d35c5c"
+
+# Mem/Disk available meter
+theme[available_start]="#b7ba53"
+theme[available_mid]="#e0ac16"
+theme[available_end]="#d35c5c"
+
+# Mem/Disk used meter
+theme[used_start]="#b7ba53"
+theme[used_mid]="#e0ac16"
+theme[used_end]="#d35c5c"
+
+# Download graph colors
+theme[download_start]="#b7ba53"
+theme[download_mid]="#e0ac16"
+theme[download_end]="#d35c5c"
+
+# Upload graph colors
+theme[upload_start]="#b7ba53"
+theme[upload_mid]="#e0ac16"
+theme[upload_end]="#d35c5c"

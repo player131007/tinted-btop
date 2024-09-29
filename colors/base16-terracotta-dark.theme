@@ -1,0 +1,90 @@
+#
+#
+# name: Terracotta Dark
+# author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+# slug: terracotta-dark
+# slug-underscored: terracotta_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#241d1a"
+
+# Main text color
+theme[main_fg]="#b8a59d"
+
+# Title color for boxes
+theme[title]="#b8a59d"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#b0a4c3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#362b27"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b8a59d"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a78e84"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#b0a4c3"
+
+# Cpu box outline color
+theme[cpu_box]="#a78e84"
+
+# Memory/disks box outline color
+theme[mem_box]="#a78e84"
+
+# Net up/down box outline color
+theme[net_box]="#a78e84"
+
+# Processes box outline color
+theme[proc_box]="#a78e84"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a78e84"
+
+# Temperature graph colors
+theme[temp_start]="#b6c68a"
+theme[temp_mid]="#ffc37a"
+theme[temp_end]="#f6998f"
+
+# CPU graph colors
+theme[cpu_start]="#b6c68a"
+theme[cpu_mid]="#ffc37a"
+theme[cpu_end]="#f6998f"
+
+# Mem/Disk free meter
+theme[free_start]="#b6c68a"
+theme[free_mid]="#ffc37a"
+theme[free_end]="#f6998f"
+
+# Mem/Disk cached meter
+theme[cached_start]="#b6c68a"
+theme[cached_mid]="#ffc37a"
+theme[cached_end]="#f6998f"
+
+# Mem/Disk available meter
+theme[available_start]="#b6c68a"
+theme[available_mid]="#ffc37a"
+theme[available_end]="#f6998f"
+
+# Mem/Disk used meter
+theme[used_start]="#b6c68a"
+theme[used_mid]="#ffc37a"
+theme[used_end]="#f6998f"
+
+# Download graph colors
+theme[download_start]="#b6c68a"
+theme[download_mid]="#ffc37a"
+theme[download_end]="#f6998f"
+
+# Upload graph colors
+theme[upload_start]="#b6c68a"
+theme[upload_mid]="#ffc37a"
+theme[upload_end]="#f6998f"

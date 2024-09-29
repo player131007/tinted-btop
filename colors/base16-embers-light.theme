@@ -1,0 +1,90 @@
+#
+#
+# name: Embers Light
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: embers-light
+# slug-underscored: embers_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#d1d6db"
+
+# Main text color
+theme[main_fg]="#323b43"
+
+# Title color for boxes
+theme[title]="#323b43"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#82576d"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#aeb6be"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#323b43"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#47505a"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#82576d"
+
+# Cpu box outline color
+theme[cpu_box]="#47505a"
+
+# Memory/disks box outline color
+theme[mem_box]="#47505a"
+
+# Net up/down box outline color
+theme[net_box]="#47505a"
+
+# Processes box outline color
+theme[proc_box]="#47505a"
+
+# Box divider line and small boxes line color
+theme[div_line]="#47505a"
+
+# Temperature graph colors
+theme[temp_start]="#6d8257"
+theme[temp_mid]="#57826d"
+theme[temp_end]="#576d82"
+
+# CPU graph colors
+theme[cpu_start]="#6d8257"
+theme[cpu_mid]="#57826d"
+theme[cpu_end]="#576d82"
+
+# Mem/Disk free meter
+theme[free_start]="#6d8257"
+theme[free_mid]="#57826d"
+theme[free_end]="#576d82"
+
+# Mem/Disk cached meter
+theme[cached_start]="#6d8257"
+theme[cached_mid]="#57826d"
+theme[cached_end]="#576d82"
+
+# Mem/Disk available meter
+theme[available_start]="#6d8257"
+theme[available_mid]="#57826d"
+theme[available_end]="#576d82"
+
+# Mem/Disk used meter
+theme[used_start]="#6d8257"
+theme[used_mid]="#57826d"
+theme[used_end]="#576d82"
+
+# Download graph colors
+theme[download_start]="#6d8257"
+theme[download_mid]="#57826d"
+theme[download_end]="#576d82"
+
+# Upload graph colors
+theme[upload_start]="#6d8257"
+theme[upload_mid]="#57826d"
+theme[upload_end]="#576d82"

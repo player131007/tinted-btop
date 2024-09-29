@@ -1,0 +1,90 @@
+#
+#
+# name: iA Light
+# author: iA Inc. (modified by aramisgithub)
+# slug: ia-light
+# slug-underscored: ia_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f6f6f6"
+
+# Main text color
+theme[main_fg]="#181818"
+
+# Title color for boxes
+theme[title]="#181818"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#48bac2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#dedede"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#181818"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#767676"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#48bac2"
+
+# Cpu box outline color
+theme[cpu_box]="#767676"
+
+# Memory/disks box outline color
+theme[mem_box]="#767676"
+
+# Net up/down box outline color
+theme[net_box]="#767676"
+
+# Processes box outline color
+theme[proc_box]="#767676"
+
+# Box divider line and small boxes line color
+theme[div_line]="#767676"
+
+# Temperature graph colors
+theme[temp_start]="#38781c"
+theme[temp_mid]="#c48218"
+theme[temp_end]="#9c5a02"
+
+# CPU graph colors
+theme[cpu_start]="#38781c"
+theme[cpu_mid]="#c48218"
+theme[cpu_end]="#9c5a02"
+
+# Mem/Disk free meter
+theme[free_start]="#38781c"
+theme[free_mid]="#c48218"
+theme[free_end]="#9c5a02"
+
+# Mem/Disk cached meter
+theme[cached_start]="#38781c"
+theme[cached_mid]="#c48218"
+theme[cached_end]="#9c5a02"
+
+# Mem/Disk available meter
+theme[available_start]="#38781c"
+theme[available_mid]="#c48218"
+theme[available_end]="#9c5a02"
+
+# Mem/Disk used meter
+theme[used_start]="#38781c"
+theme[used_mid]="#c48218"
+theme[used_end]="#9c5a02"
+
+# Download graph colors
+theme[download_start]="#38781c"
+theme[download_mid]="#c48218"
+theme[download_end]="#9c5a02"
+
+# Upload graph colors
+theme[upload_start]="#38781c"
+theme[upload_mid]="#c48218"
+theme[upload_end]="#9c5a02"

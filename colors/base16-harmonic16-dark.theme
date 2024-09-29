@@ -1,0 +1,90 @@
+#
+#
+# name: Harmonic16 Dark
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: harmonic16-dark
+# slug-underscored: harmonic16_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#0b1c2c"
+
+# Main text color
+theme[main_fg]="#cbd6e2"
+
+# Title color for boxes
+theme[title]="#cbd6e2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8b56bf"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#223b54"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cbd6e2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#aabcce"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#8b56bf"
+
+# Cpu box outline color
+theme[cpu_box]="#aabcce"
+
+# Memory/disks box outline color
+theme[mem_box]="#aabcce"
+
+# Net up/down box outline color
+theme[net_box]="#aabcce"
+
+# Processes box outline color
+theme[proc_box]="#aabcce"
+
+# Box divider line and small boxes line color
+theme[div_line]="#aabcce"
+
+# Temperature graph colors
+theme[temp_start]="#56bf8b"
+theme[temp_mid]="#8bbf56"
+theme[temp_end]="#bf8b56"
+
+# CPU graph colors
+theme[cpu_start]="#56bf8b"
+theme[cpu_mid]="#8bbf56"
+theme[cpu_end]="#bf8b56"
+
+# Mem/Disk free meter
+theme[free_start]="#56bf8b"
+theme[free_mid]="#8bbf56"
+theme[free_end]="#bf8b56"
+
+# Mem/Disk cached meter
+theme[cached_start]="#56bf8b"
+theme[cached_mid]="#8bbf56"
+theme[cached_end]="#bf8b56"
+
+# Mem/Disk available meter
+theme[available_start]="#56bf8b"
+theme[available_mid]="#8bbf56"
+theme[available_end]="#bf8b56"
+
+# Mem/Disk used meter
+theme[used_start]="#56bf8b"
+theme[used_mid]="#8bbf56"
+theme[used_end]="#bf8b56"
+
+# Download graph colors
+theme[download_start]="#56bf8b"
+theme[download_mid]="#8bbf56"
+theme[download_end]="#bf8b56"
+
+# Upload graph colors
+theme[upload_start]="#56bf8b"
+theme[upload_mid]="#8bbf56"
+theme[upload_end]="#bf8b56"

@@ -1,0 +1,90 @@
+#
+#
+# name: Cupcake
+# author: Chris Kempson (http://chriskempson.com)
+# slug: cupcake
+# slug-underscored: cupcake
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#fbf1f2"
+
+# Main text color
+theme[main_fg]="#8b8198"
+
+# Title color for boxes
+theme[title]="#8b8198"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7297B9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#f2f1f4"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#8b8198"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a59daf"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7297B9"
+
+# Cpu box outline color
+theme[cpu_box]="#a59daf"
+
+# Memory/disks box outline color
+theme[mem_box]="#a59daf"
+
+# Net up/down box outline color
+theme[net_box]="#a59daf"
+
+# Processes box outline color
+theme[proc_box]="#a59daf"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a59daf"
+
+# Temperature graph colors
+theme[temp_start]="#A3B367"
+theme[temp_mid]="#DCB16C"
+theme[temp_end]="#D57E85"
+
+# CPU graph colors
+theme[cpu_start]="#A3B367"
+theme[cpu_mid]="#DCB16C"
+theme[cpu_end]="#D57E85"
+
+# Mem/Disk free meter
+theme[free_start]="#A3B367"
+theme[free_mid]="#DCB16C"
+theme[free_end]="#D57E85"
+
+# Mem/Disk cached meter
+theme[cached_start]="#A3B367"
+theme[cached_mid]="#DCB16C"
+theme[cached_end]="#D57E85"
+
+# Mem/Disk available meter
+theme[available_start]="#A3B367"
+theme[available_mid]="#DCB16C"
+theme[available_end]="#D57E85"
+
+# Mem/Disk used meter
+theme[used_start]="#A3B367"
+theme[used_mid]="#DCB16C"
+theme[used_end]="#D57E85"
+
+# Download graph colors
+theme[download_start]="#A3B367"
+theme[download_mid]="#DCB16C"
+theme[download_end]="#D57E85"
+
+# Upload graph colors
+theme[upload_start]="#A3B367"
+theme[upload_mid]="#DCB16C"
+theme[upload_end]="#D57E85"

@@ -1,0 +1,90 @@
+#
+#
+# name: Gotham
+# author: Andrea Leopardi (arranged by Brett Jones)
+# slug: gotham
+# slug-underscored: gotham
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#0c1014"
+
+# Main text color
+theme[main_fg]="#599cab"
+
+# Title color for boxes
+theme[title]="#599cab"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#195466"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#11151c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#599cab"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#245361"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#195466"
+
+# Cpu box outline color
+theme[cpu_box]="#245361"
+
+# Memory/disks box outline color
+theme[mem_box]="#245361"
+
+# Net up/down box outline color
+theme[net_box]="#245361"
+
+# Processes box outline color
+theme[proc_box]="#245361"
+
+# Box divider line and small boxes line color
+theme[div_line]="#245361"
+
+# Temperature graph colors
+theme[temp_start]="#33859E"
+theme[temp_mid]="#edb443"
+theme[temp_end]="#c23127"
+
+# CPU graph colors
+theme[cpu_start]="#33859E"
+theme[cpu_mid]="#edb443"
+theme[cpu_end]="#c23127"
+
+# Mem/Disk free meter
+theme[free_start]="#33859E"
+theme[free_mid]="#edb443"
+theme[free_end]="#c23127"
+
+# Mem/Disk cached meter
+theme[cached_start]="#33859E"
+theme[cached_mid]="#edb443"
+theme[cached_end]="#c23127"
+
+# Mem/Disk available meter
+theme[available_start]="#33859E"
+theme[available_mid]="#edb443"
+theme[available_end]="#c23127"
+
+# Mem/Disk used meter
+theme[used_start]="#33859E"
+theme[used_mid]="#edb443"
+theme[used_end]="#c23127"
+
+# Download graph colors
+theme[download_start]="#33859E"
+theme[download_mid]="#edb443"
+theme[download_end]="#c23127"
+
+# Upload graph colors
+theme[upload_start]="#33859E"
+theme[upload_mid]="#edb443"
+theme[upload_end]="#c23127"

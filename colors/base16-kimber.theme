@@ -1,0 +1,90 @@
+#
+#
+# name: Kimber
+# author: Mishka Nguyen (https://github.com/akhsiM)
+# slug: kimber
+# slug-underscored: kimber
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#222222"
+
+# Main text color
+theme[main_fg]="#DEDEE7"
+
+# Title color for boxes
+theme[title]="#DEDEE7"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#537C9C"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#313131"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#DEDEE7"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#5A5A5A"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#537C9C"
+
+# Cpu box outline color
+theme[cpu_box]="#5A5A5A"
+
+# Memory/disks box outline color
+theme[mem_box]="#5A5A5A"
+
+# Net up/down box outline color
+theme[net_box]="#5A5A5A"
+
+# Processes box outline color
+theme[proc_box]="#5A5A5A"
+
+# Box divider line and small boxes line color
+theme[div_line]="#5A5A5A"
+
+# Temperature graph colors
+theme[temp_start]="#99C899"
+theme[temp_mid]="#D8B56D"
+theme[temp_end]="#C88C8C"
+
+# CPU graph colors
+theme[cpu_start]="#99C899"
+theme[cpu_mid]="#D8B56D"
+theme[cpu_end]="#C88C8C"
+
+# Mem/Disk free meter
+theme[free_start]="#99C899"
+theme[free_mid]="#D8B56D"
+theme[free_end]="#C88C8C"
+
+# Mem/Disk cached meter
+theme[cached_start]="#99C899"
+theme[cached_mid]="#D8B56D"
+theme[cached_end]="#C88C8C"
+
+# Mem/Disk available meter
+theme[available_start]="#99C899"
+theme[available_mid]="#D8B56D"
+theme[available_end]="#C88C8C"
+
+# Mem/Disk used meter
+theme[used_start]="#99C899"
+theme[used_mid]="#D8B56D"
+theme[used_end]="#C88C8C"
+
+# Download graph colors
+theme[download_start]="#99C899"
+theme[download_mid]="#D8B56D"
+theme[download_end]="#C88C8C"
+
+# Upload graph colors
+theme[upload_start]="#99C899"
+theme[upload_mid]="#D8B56D"
+theme[upload_end]="#C88C8C"

@@ -1,0 +1,90 @@
+#
+#
+# name: Black Metal (Immortal)
+# author: metalelf0 (https://github.com/metalelf0)
+# slug: black-metal-immortal
+# slug-underscored: black_metal_immortal
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#c1c1c1"
+
+# Title color for boxes
+theme[title]="#c1c1c1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#888888"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#121212"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c1c1c1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#999999"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#888888"
+
+# Cpu box outline color
+theme[cpu_box]="#999999"
+
+# Memory/disks box outline color
+theme[mem_box]="#999999"
+
+# Net up/down box outline color
+theme[net_box]="#999999"
+
+# Processes box outline color
+theme[proc_box]="#999999"
+
+# Box divider line and small boxes line color
+theme[div_line]="#999999"
+
+# Temperature graph colors
+theme[temp_start]="#7799bb"
+theme[temp_mid]="#556677"
+theme[temp_end]="#5f8787"
+
+# CPU graph colors
+theme[cpu_start]="#7799bb"
+theme[cpu_mid]="#556677"
+theme[cpu_end]="#5f8787"
+
+# Mem/Disk free meter
+theme[free_start]="#7799bb"
+theme[free_mid]="#556677"
+theme[free_end]="#5f8787"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7799bb"
+theme[cached_mid]="#556677"
+theme[cached_end]="#5f8787"
+
+# Mem/Disk available meter
+theme[available_start]="#7799bb"
+theme[available_mid]="#556677"
+theme[available_end]="#5f8787"
+
+# Mem/Disk used meter
+theme[used_start]="#7799bb"
+theme[used_mid]="#556677"
+theme[used_end]="#5f8787"
+
+# Download graph colors
+theme[download_start]="#7799bb"
+theme[download_mid]="#556677"
+theme[download_end]="#5f8787"
+
+# Upload graph colors
+theme[upload_start]="#7799bb"
+theme[upload_mid]="#556677"
+theme[upload_end]="#5f8787"

@@ -1,0 +1,90 @@
+#
+#
+# name: Gigavolt
+# author: Aidan Swope (http://github.com/Whillikers)
+# slug: gigavolt
+# slug-underscored: gigavolt
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#202126"
+
+# Main text color
+theme[main_fg]="#e9e7e1"
+
+# Title color for boxes
+theme[title]="#e9e7e1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#40bfff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2d303d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#e9e7e1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#cad3ff"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#40bfff"
+
+# Cpu box outline color
+theme[cpu_box]="#cad3ff"
+
+# Memory/disks box outline color
+theme[mem_box]="#cad3ff"
+
+# Net up/down box outline color
+theme[net_box]="#cad3ff"
+
+# Processes box outline color
+theme[proc_box]="#cad3ff"
+
+# Box divider line and small boxes line color
+theme[div_line]="#cad3ff"
+
+# Temperature graph colors
+theme[temp_start]="#f2e6a9"
+theme[temp_mid]="#ffdc2d"
+theme[temp_end]="#ff661a"
+
+# CPU graph colors
+theme[cpu_start]="#f2e6a9"
+theme[cpu_mid]="#ffdc2d"
+theme[cpu_end]="#ff661a"
+
+# Mem/Disk free meter
+theme[free_start]="#f2e6a9"
+theme[free_mid]="#ffdc2d"
+theme[free_end]="#ff661a"
+
+# Mem/Disk cached meter
+theme[cached_start]="#f2e6a9"
+theme[cached_mid]="#ffdc2d"
+theme[cached_end]="#ff661a"
+
+# Mem/Disk available meter
+theme[available_start]="#f2e6a9"
+theme[available_mid]="#ffdc2d"
+theme[available_end]="#ff661a"
+
+# Mem/Disk used meter
+theme[used_start]="#f2e6a9"
+theme[used_mid]="#ffdc2d"
+theme[used_end]="#ff661a"
+
+# Download graph colors
+theme[download_start]="#f2e6a9"
+theme[download_mid]="#ffdc2d"
+theme[download_end]="#ff661a"
+
+# Upload graph colors
+theme[upload_start]="#f2e6a9"
+theme[upload_mid]="#ffdc2d"
+theme[upload_end]="#ff661a"

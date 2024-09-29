@@ -1,0 +1,90 @@
+#
+#
+# name: Apathy
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: apathy
+# slug-underscored: apathy
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#031A16"
+
+# Main text color
+theme[main_fg]="#81B5AC"
+
+# Title color for boxes
+theme[title]="#81B5AC"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#96883E"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#0B342D"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#81B5AC"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#5F9C92"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#96883E"
+
+# Cpu box outline color
+theme[cpu_box]="#5F9C92"
+
+# Memory/disks box outline color
+theme[mem_box]="#5F9C92"
+
+# Net up/down box outline color
+theme[net_box]="#5F9C92"
+
+# Processes box outline color
+theme[proc_box]="#5F9C92"
+
+# Box divider line and small boxes line color
+theme[div_line]="#5F9C92"
+
+# Temperature graph colors
+theme[temp_start]="#883E96"
+theme[temp_mid]="#3E4C96"
+theme[temp_end]="#3E9688"
+
+# CPU graph colors
+theme[cpu_start]="#883E96"
+theme[cpu_mid]="#3E4C96"
+theme[cpu_end]="#3E9688"
+
+# Mem/Disk free meter
+theme[free_start]="#883E96"
+theme[free_mid]="#3E4C96"
+theme[free_end]="#3E9688"
+
+# Mem/Disk cached meter
+theme[cached_start]="#883E96"
+theme[cached_mid]="#3E4C96"
+theme[cached_end]="#3E9688"
+
+# Mem/Disk available meter
+theme[available_start]="#883E96"
+theme[available_mid]="#3E4C96"
+theme[available_end]="#3E9688"
+
+# Mem/Disk used meter
+theme[used_start]="#883E96"
+theme[used_mid]="#3E4C96"
+theme[used_end]="#3E9688"
+
+# Download graph colors
+theme[download_start]="#883E96"
+theme[download_mid]="#3E4C96"
+theme[download_end]="#3E9688"
+
+# Upload graph colors
+theme[upload_start]="#883E96"
+theme[upload_mid]="#3E4C96"
+theme[upload_end]="#3E9688"

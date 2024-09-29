@@ -1,0 +1,90 @@
+#
+#
+# name: PaperColor Dark
+# author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# slug: papercolor-dark
+# slug-underscored: papercolor_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#1c1c1c"
+
+# Main text color
+theme[main_fg]="#808080"
+
+# Title color for boxes
+theme[title]="#808080"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#ff5faf"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#af005f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#808080"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#5fafd7"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#ff5faf"
+
+# Cpu box outline color
+theme[cpu_box]="#5fafd7"
+
+# Memory/disks box outline color
+theme[mem_box]="#5fafd7"
+
+# Net up/down box outline color
+theme[net_box]="#5fafd7"
+
+# Processes box outline color
+theme[proc_box]="#5fafd7"
+
+# Box divider line and small boxes line color
+theme[div_line]="#5fafd7"
+
+# Temperature graph colors
+theme[temp_start]="#af87d7"
+theme[temp_mid]="#afd700"
+theme[temp_end]="#585858"
+
+# CPU graph colors
+theme[cpu_start]="#af87d7"
+theme[cpu_mid]="#afd700"
+theme[cpu_end]="#585858"
+
+# Mem/Disk free meter
+theme[free_start]="#af87d7"
+theme[free_mid]="#afd700"
+theme[free_end]="#585858"
+
+# Mem/Disk cached meter
+theme[cached_start]="#af87d7"
+theme[cached_mid]="#afd700"
+theme[cached_end]="#585858"
+
+# Mem/Disk available meter
+theme[available_start]="#af87d7"
+theme[available_mid]="#afd700"
+theme[available_end]="#585858"
+
+# Mem/Disk used meter
+theme[used_start]="#af87d7"
+theme[used_mid]="#afd700"
+theme[used_end]="#585858"
+
+# Download graph colors
+theme[download_start]="#af87d7"
+theme[download_mid]="#afd700"
+theme[download_end]="#585858"
+
+# Upload graph colors
+theme[upload_start]="#af87d7"
+theme[upload_mid]="#afd700"
+theme[upload_end]="#585858"

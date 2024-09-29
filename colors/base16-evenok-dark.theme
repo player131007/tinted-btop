@@ -1,0 +1,90 @@
+#
+#
+# name: Evenok Dark
+# author: Mekeor Melire
+# slug: evenok-dark
+# slug-underscored: evenok_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#d0d0d0"
+
+# Title color for boxes
+theme[title]="#d0d0d0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#00aff2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#202020"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d0d0d0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#b0b0b0"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#00aff2"
+
+# Cpu box outline color
+theme[cpu_box]="#b0b0b0"
+
+# Memory/disks box outline color
+theme[mem_box]="#b0b0b0"
+
+# Net up/down box outline color
+theme[net_box]="#b0b0b0"
+
+# Processes box outline color
+theme[proc_box]="#b0b0b0"
+
+# Box divider line and small boxes line color
+theme[div_line]="#b0b0b0"
+
+# Temperature graph colors
+theme[temp_start]="#54bc5c"
+theme[temp_mid]="#b8a300"
+theme[temp_end]="#f5708a"
+
+# CPU graph colors
+theme[cpu_start]="#54bc5c"
+theme[cpu_mid]="#b8a300"
+theme[cpu_end]="#f5708a"
+
+# Mem/Disk free meter
+theme[free_start]="#54bc5c"
+theme[free_mid]="#b8a300"
+theme[free_end]="#f5708a"
+
+# Mem/Disk cached meter
+theme[cached_start]="#54bc5c"
+theme[cached_mid]="#b8a300"
+theme[cached_end]="#f5708a"
+
+# Mem/Disk available meter
+theme[available_start]="#54bc5c"
+theme[available_mid]="#b8a300"
+theme[available_end]="#f5708a"
+
+# Mem/Disk used meter
+theme[used_start]="#54bc5c"
+theme[used_mid]="#b8a300"
+theme[used_end]="#f5708a"
+
+# Download graph colors
+theme[download_start]="#54bc5c"
+theme[download_mid]="#b8a300"
+theme[download_end]="#f5708a"
+
+# Upload graph colors
+theme[upload_start]="#54bc5c"
+theme[upload_mid]="#b8a300"
+theme[upload_end]="#f5708a"

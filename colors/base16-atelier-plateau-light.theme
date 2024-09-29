@@ -1,0 +1,90 @@
+#
+#
+# name: Atelier Plateau Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-plateau-light
+# slug-underscored: atelier_plateau_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f4ecec"
+
+# Main text color
+theme[main_fg]="#585050"
+
+# Title color for boxes
+theme[title]="#585050"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7272ca"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e7dfdf"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#585050"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#655d5d"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7272ca"
+
+# Cpu box outline color
+theme[cpu_box]="#655d5d"
+
+# Memory/disks box outline color
+theme[mem_box]="#655d5d"
+
+# Net up/down box outline color
+theme[net_box]="#655d5d"
+
+# Processes box outline color
+theme[proc_box]="#655d5d"
+
+# Box divider line and small boxes line color
+theme[div_line]="#655d5d"
+
+# Temperature graph colors
+theme[temp_start]="#4b8b8b"
+theme[temp_mid]="#a06e3b"
+theme[temp_end]="#ca4949"
+
+# CPU graph colors
+theme[cpu_start]="#4b8b8b"
+theme[cpu_mid]="#a06e3b"
+theme[cpu_end]="#ca4949"
+
+# Mem/Disk free meter
+theme[free_start]="#4b8b8b"
+theme[free_mid]="#a06e3b"
+theme[free_end]="#ca4949"
+
+# Mem/Disk cached meter
+theme[cached_start]="#4b8b8b"
+theme[cached_mid]="#a06e3b"
+theme[cached_end]="#ca4949"
+
+# Mem/Disk available meter
+theme[available_start]="#4b8b8b"
+theme[available_mid]="#a06e3b"
+theme[available_end]="#ca4949"
+
+# Mem/Disk used meter
+theme[used_start]="#4b8b8b"
+theme[used_mid]="#a06e3b"
+theme[used_end]="#ca4949"
+
+# Download graph colors
+theme[download_start]="#4b8b8b"
+theme[download_mid]="#a06e3b"
+theme[download_end]="#ca4949"
+
+# Upload graph colors
+theme[upload_start]="#4b8b8b"
+theme[upload_mid]="#a06e3b"
+theme[upload_end]="#ca4949"

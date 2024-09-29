@@ -1,0 +1,90 @@
+#
+#
+# name: Unikitty Light
+# author: Josh W Lewis (@joshwlewis)
+# slug: unikitty-light
+# slug-underscored: unikitty_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#ffffff"
+
+# Main text color
+theme[main_fg]="#6c696e"
+
+# Title color for boxes
+theme[title]="#6c696e"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#775dff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e1e1e2"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#6c696e"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#89878b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#775dff"
+
+# Cpu box outline color
+theme[cpu_box]="#89878b"
+
+# Memory/disks box outline color
+theme[mem_box]="#89878b"
+
+# Net up/down box outline color
+theme[net_box]="#89878b"
+
+# Processes box outline color
+theme[proc_box]="#89878b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#89878b"
+
+# Temperature graph colors
+theme[temp_start]="#17ad98"
+theme[temp_mid]="#dc8a0e"
+theme[temp_end]="#d8137f"
+
+# CPU graph colors
+theme[cpu_start]="#17ad98"
+theme[cpu_mid]="#dc8a0e"
+theme[cpu_end]="#d8137f"
+
+# Mem/Disk free meter
+theme[free_start]="#17ad98"
+theme[free_mid]="#dc8a0e"
+theme[free_end]="#d8137f"
+
+# Mem/Disk cached meter
+theme[cached_start]="#17ad98"
+theme[cached_mid]="#dc8a0e"
+theme[cached_end]="#d8137f"
+
+# Mem/Disk available meter
+theme[available_start]="#17ad98"
+theme[available_mid]="#dc8a0e"
+theme[available_end]="#d8137f"
+
+# Mem/Disk used meter
+theme[used_start]="#17ad98"
+theme[used_mid]="#dc8a0e"
+theme[used_end]="#d8137f"
+
+# Download graph colors
+theme[download_start]="#17ad98"
+theme[download_mid]="#dc8a0e"
+theme[download_end]="#d8137f"
+
+# Upload graph colors
+theme[upload_start]="#17ad98"
+theme[upload_mid]="#dc8a0e"
+theme[upload_end]="#d8137f"

@@ -1,0 +1,90 @@
+#
+#
+# name: Google Light
+# author: Seth Wright (http://sethawright.com)
+# slug: google-light
+# slug-underscored: google_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#ffffff"
+
+# Main text color
+theme[main_fg]="#373b41"
+
+# Title color for boxes
+theme[title]="#373b41"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3971ED"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e0e0e0"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#373b41"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#969896"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3971ED"
+
+# Cpu box outline color
+theme[cpu_box]="#969896"
+
+# Memory/disks box outline color
+theme[mem_box]="#969896"
+
+# Net up/down box outline color
+theme[net_box]="#969896"
+
+# Processes box outline color
+theme[proc_box]="#969896"
+
+# Box divider line and small boxes line color
+theme[div_line]="#969896"
+
+# Temperature graph colors
+theme[temp_start]="#198844"
+theme[temp_mid]="#FBA922"
+theme[temp_end]="#CC342B"
+
+# CPU graph colors
+theme[cpu_start]="#198844"
+theme[cpu_mid]="#FBA922"
+theme[cpu_end]="#CC342B"
+
+# Mem/Disk free meter
+theme[free_start]="#198844"
+theme[free_mid]="#FBA922"
+theme[free_end]="#CC342B"
+
+# Mem/Disk cached meter
+theme[cached_start]="#198844"
+theme[cached_mid]="#FBA922"
+theme[cached_end]="#CC342B"
+
+# Mem/Disk available meter
+theme[available_start]="#198844"
+theme[available_mid]="#FBA922"
+theme[available_end]="#CC342B"
+
+# Mem/Disk used meter
+theme[used_start]="#198844"
+theme[used_mid]="#FBA922"
+theme[used_end]="#CC342B"
+
+# Download graph colors
+theme[download_start]="#198844"
+theme[download_mid]="#FBA922"
+theme[download_end]="#CC342B"
+
+# Upload graph colors
+theme[upload_start]="#198844"
+theme[upload_mid]="#FBA922"
+theme[upload_end]="#CC342B"

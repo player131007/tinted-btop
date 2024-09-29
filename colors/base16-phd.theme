@@ -1,0 +1,90 @@
+#
+#
+# name: PhD
+# author: Hennig Hasemann (http://leetless.de/vim.html)
+# slug: phd
+# slug-underscored: phd
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#061229"
+
+# Main text color
+theme[main_fg]="#b8bbc2"
+
+# Title color for boxes
+theme[title]="#b8bbc2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5299bf"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2a3448"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b8bbc2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9a99a3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5299bf"
+
+# Cpu box outline color
+theme[cpu_box]="#9a99a3"
+
+# Memory/disks box outline color
+theme[mem_box]="#9a99a3"
+
+# Net up/down box outline color
+theme[net_box]="#9a99a3"
+
+# Processes box outline color
+theme[proc_box]="#9a99a3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9a99a3"
+
+# Temperature graph colors
+theme[temp_start]="#99bf52"
+theme[temp_mid]="#fbd461"
+theme[temp_end]="#d07346"
+
+# CPU graph colors
+theme[cpu_start]="#99bf52"
+theme[cpu_mid]="#fbd461"
+theme[cpu_end]="#d07346"
+
+# Mem/Disk free meter
+theme[free_start]="#99bf52"
+theme[free_mid]="#fbd461"
+theme[free_end]="#d07346"
+
+# Mem/Disk cached meter
+theme[cached_start]="#99bf52"
+theme[cached_mid]="#fbd461"
+theme[cached_end]="#d07346"
+
+# Mem/Disk available meter
+theme[available_start]="#99bf52"
+theme[available_mid]="#fbd461"
+theme[available_end]="#d07346"
+
+# Mem/Disk used meter
+theme[used_start]="#99bf52"
+theme[used_mid]="#fbd461"
+theme[used_end]="#d07346"
+
+# Download graph colors
+theme[download_start]="#99bf52"
+theme[download_mid]="#fbd461"
+theme[download_end]="#d07346"
+
+# Upload graph colors
+theme[upload_start]="#99bf52"
+theme[upload_mid]="#fbd461"
+theme[upload_end]="#d07346"

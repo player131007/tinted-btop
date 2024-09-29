@@ -1,0 +1,90 @@
+#
+#
+# name: Sakura
+# author: Misterio77 (http://github.com/Misterio77)
+# slug: sakura
+# slug-underscored: sakura
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#feedf3"
+
+# Main text color
+theme[main_fg]="#564448"
+
+# Title color for boxes
+theme[title]="#564448"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#006e93"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#f8e2e7"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#564448"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#665055"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#006e93"
+
+# Cpu box outline color
+theme[cpu_box]="#665055"
+
+# Memory/disks box outline color
+theme[mem_box]="#665055"
+
+# Net up/down box outline color
+theme[net_box]="#665055"
+
+# Processes box outline color
+theme[proc_box]="#665055"
+
+# Box divider line and small boxes line color
+theme[div_line]="#665055"
+
+# Temperature graph colors
+theme[temp_start]="#2e916d"
+theme[temp_mid]="#c29461"
+theme[temp_end]="#df2d52"
+
+# CPU graph colors
+theme[cpu_start]="#2e916d"
+theme[cpu_mid]="#c29461"
+theme[cpu_end]="#df2d52"
+
+# Mem/Disk free meter
+theme[free_start]="#2e916d"
+theme[free_mid]="#c29461"
+theme[free_end]="#df2d52"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2e916d"
+theme[cached_mid]="#c29461"
+theme[cached_end]="#df2d52"
+
+# Mem/Disk available meter
+theme[available_start]="#2e916d"
+theme[available_mid]="#c29461"
+theme[available_end]="#df2d52"
+
+# Mem/Disk used meter
+theme[used_start]="#2e916d"
+theme[used_mid]="#c29461"
+theme[used_end]="#df2d52"
+
+# Download graph colors
+theme[download_start]="#2e916d"
+theme[download_mid]="#c29461"
+theme[download_end]="#df2d52"
+
+# Upload graph colors
+theme[upload_start]="#2e916d"
+theme[upload_mid]="#c29461"
+theme[upload_end]="#df2d52"

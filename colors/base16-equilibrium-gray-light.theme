@@ -1,0 +1,90 @@
+#
+#
+# name: Equilibrium Gray Light
+# author: Carlo Abelli
+# slug: equilibrium-gray-light
+# slug-underscored: equilibrium_gray_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#f1f1f1"
+
+# Main text color
+theme[main_fg]="#474747"
+
+# Title color for boxes
+theme[title]="#474747"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0073b5"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#e2e2e2"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#474747"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#5e5e5e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0073b5"
+
+# Cpu box outline color
+theme[cpu_box]="#5e5e5e"
+
+# Memory/disks box outline color
+theme[mem_box]="#5e5e5e"
+
+# Net up/down box outline color
+theme[net_box]="#5e5e5e"
+
+# Processes box outline color
+theme[proc_box]="#5e5e5e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#5e5e5e"
+
+# Temperature graph colors
+theme[temp_start]="#637200"
+theme[temp_mid]="#9d6f00"
+theme[temp_end]="#d02023"
+
+# CPU graph colors
+theme[cpu_start]="#637200"
+theme[cpu_mid]="#9d6f00"
+theme[cpu_end]="#d02023"
+
+# Mem/Disk free meter
+theme[free_start]="#637200"
+theme[free_mid]="#9d6f00"
+theme[free_end]="#d02023"
+
+# Mem/Disk cached meter
+theme[cached_start]="#637200"
+theme[cached_mid]="#9d6f00"
+theme[cached_end]="#d02023"
+
+# Mem/Disk available meter
+theme[available_start]="#637200"
+theme[available_mid]="#9d6f00"
+theme[available_end]="#d02023"
+
+# Mem/Disk used meter
+theme[used_start]="#637200"
+theme[used_mid]="#9d6f00"
+theme[used_end]="#d02023"
+
+# Download graph colors
+theme[download_start]="#637200"
+theme[download_mid]="#9d6f00"
+theme[download_end]="#d02023"
+
+# Upload graph colors
+theme[upload_start]="#637200"
+theme[upload_mid]="#9d6f00"
+theme[upload_end]="#d02023"

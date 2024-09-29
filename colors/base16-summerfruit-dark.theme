@@ -1,0 +1,90 @@
+#
+#
+# name: Summerfruit Dark
+# author: Christopher Corley (http://christop.club/)
+# slug: summerfruit-dark
+# slug-underscored: summerfruit_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#151515"
+
+# Main text color
+theme[main_fg]="#D0D0D0"
+
+# Title color for boxes
+theme[title]="#D0D0D0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3777E6"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#202020"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#D0D0D0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#B0B0B0"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3777E6"
+
+# Cpu box outline color
+theme[cpu_box]="#B0B0B0"
+
+# Memory/disks box outline color
+theme[mem_box]="#B0B0B0"
+
+# Net up/down box outline color
+theme[net_box]="#B0B0B0"
+
+# Processes box outline color
+theme[proc_box]="#B0B0B0"
+
+# Box divider line and small boxes line color
+theme[div_line]="#B0B0B0"
+
+# Temperature graph colors
+theme[temp_start]="#00C918"
+theme[temp_mid]="#ABA800"
+theme[temp_end]="#FF0086"
+
+# CPU graph colors
+theme[cpu_start]="#00C918"
+theme[cpu_mid]="#ABA800"
+theme[cpu_end]="#FF0086"
+
+# Mem/Disk free meter
+theme[free_start]="#00C918"
+theme[free_mid]="#ABA800"
+theme[free_end]="#FF0086"
+
+# Mem/Disk cached meter
+theme[cached_start]="#00C918"
+theme[cached_mid]="#ABA800"
+theme[cached_end]="#FF0086"
+
+# Mem/Disk available meter
+theme[available_start]="#00C918"
+theme[available_mid]="#ABA800"
+theme[available_end]="#FF0086"
+
+# Mem/Disk used meter
+theme[used_start]="#00C918"
+theme[used_mid]="#ABA800"
+theme[used_end]="#FF0086"
+
+# Download graph colors
+theme[download_start]="#00C918"
+theme[download_mid]="#ABA800"
+theme[download_end]="#FF0086"
+
+# Upload graph colors
+theme[upload_start]="#00C918"
+theme[upload_mid]="#ABA800"
+theme[upload_end]="#FF0086"

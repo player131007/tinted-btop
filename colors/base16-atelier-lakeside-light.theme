@@ -1,0 +1,90 @@
+#
+#
+# name: Atelier Lakeside Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-lakeside-light
+# slug-underscored: atelier_lakeside_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#ebf8ff"
+
+# Main text color
+theme[main_fg]="#516d7b"
+
+# Title color for boxes
+theme[title]="#516d7b"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#257fad"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#c1e4f6"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#516d7b"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#5a7b8c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#257fad"
+
+# Cpu box outline color
+theme[cpu_box]="#5a7b8c"
+
+# Memory/disks box outline color
+theme[mem_box]="#5a7b8c"
+
+# Net up/down box outline color
+theme[net_box]="#5a7b8c"
+
+# Processes box outline color
+theme[proc_box]="#5a7b8c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#5a7b8c"
+
+# Temperature graph colors
+theme[temp_start]="#568c3b"
+theme[temp_mid]="#8a8a0f"
+theme[temp_end]="#d22d72"
+
+# CPU graph colors
+theme[cpu_start]="#568c3b"
+theme[cpu_mid]="#8a8a0f"
+theme[cpu_end]="#d22d72"
+
+# Mem/Disk free meter
+theme[free_start]="#568c3b"
+theme[free_mid]="#8a8a0f"
+theme[free_end]="#d22d72"
+
+# Mem/Disk cached meter
+theme[cached_start]="#568c3b"
+theme[cached_mid]="#8a8a0f"
+theme[cached_end]="#d22d72"
+
+# Mem/Disk available meter
+theme[available_start]="#568c3b"
+theme[available_mid]="#8a8a0f"
+theme[available_end]="#d22d72"
+
+# Mem/Disk used meter
+theme[used_start]="#568c3b"
+theme[used_mid]="#8a8a0f"
+theme[used_end]="#d22d72"
+
+# Download graph colors
+theme[download_start]="#568c3b"
+theme[download_mid]="#8a8a0f"
+theme[download_end]="#d22d72"
+
+# Upload graph colors
+theme[upload_start]="#568c3b"
+theme[upload_mid]="#8a8a0f"
+theme[upload_end]="#d22d72"

@@ -1,0 +1,90 @@
+#
+#
+# name: selenized-black
+# author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# slug: selenized-black
+# slug-underscored: selenized_black
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#181818"
+
+# Main text color
+theme[main_fg]="#b9b9b9"
+
+# Title color for boxes
+theme[title]="#b9b9b9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#368aeb"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#252525"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b9b9b9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#777777"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#368aeb"
+
+# Cpu box outline color
+theme[cpu_box]="#777777"
+
+# Memory/disks box outline color
+theme[mem_box]="#777777"
+
+# Net up/down box outline color
+theme[net_box]="#777777"
+
+# Processes box outline color
+theme[proc_box]="#777777"
+
+# Box divider line and small boxes line color
+theme[div_line]="#777777"
+
+# Temperature graph colors
+theme[temp_start]="#70b433"
+theme[temp_mid]="#dbb32d"
+theme[temp_end]="#ed4a46"
+
+# CPU graph colors
+theme[cpu_start]="#70b433"
+theme[cpu_mid]="#dbb32d"
+theme[cpu_end]="#ed4a46"
+
+# Mem/Disk free meter
+theme[free_start]="#70b433"
+theme[free_mid]="#dbb32d"
+theme[free_end]="#ed4a46"
+
+# Mem/Disk cached meter
+theme[cached_start]="#70b433"
+theme[cached_mid]="#dbb32d"
+theme[cached_end]="#ed4a46"
+
+# Mem/Disk available meter
+theme[available_start]="#70b433"
+theme[available_mid]="#dbb32d"
+theme[available_end]="#ed4a46"
+
+# Mem/Disk used meter
+theme[used_start]="#70b433"
+theme[used_mid]="#dbb32d"
+theme[used_end]="#ed4a46"
+
+# Download graph colors
+theme[download_start]="#70b433"
+theme[download_mid]="#dbb32d"
+theme[download_end]="#ed4a46"
+
+# Upload graph colors
+theme[upload_start]="#70b433"
+theme[upload_mid]="#dbb32d"
+theme[upload_end]="#ed4a46"

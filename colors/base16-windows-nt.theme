@@ -1,0 +1,90 @@
+#
+#
+# name: Windows NT
+# author: Fergus Collins (https://github.com/C-Fergus)
+# slug: windows-nt
+# slug-underscored: windows_nt
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#c0c0c0"
+
+# Title color for boxes
+theme[title]="#c0c0c0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0000ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2a2a2a"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c0c0c0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a1a1a1"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0000ff"
+
+# Cpu box outline color
+theme[cpu_box]="#a1a1a1"
+
+# Memory/disks box outline color
+theme[mem_box]="#a1a1a1"
+
+# Net up/down box outline color
+theme[net_box]="#a1a1a1"
+
+# Processes box outline color
+theme[proc_box]="#a1a1a1"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a1a1a1"
+
+# Temperature graph colors
+theme[temp_start]="#00ff00"
+theme[temp_mid]="#ffff00"
+theme[temp_end]="#ff0000"
+
+# CPU graph colors
+theme[cpu_start]="#00ff00"
+theme[cpu_mid]="#ffff00"
+theme[cpu_end]="#ff0000"
+
+# Mem/Disk free meter
+theme[free_start]="#00ff00"
+theme[free_mid]="#ffff00"
+theme[free_end]="#ff0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#00ff00"
+theme[cached_mid]="#ffff00"
+theme[cached_end]="#ff0000"
+
+# Mem/Disk available meter
+theme[available_start]="#00ff00"
+theme[available_mid]="#ffff00"
+theme[available_end]="#ff0000"
+
+# Mem/Disk used meter
+theme[used_start]="#00ff00"
+theme[used_mid]="#ffff00"
+theme[used_end]="#ff0000"
+
+# Download graph colors
+theme[download_start]="#00ff00"
+theme[download_mid]="#ffff00"
+theme[download_end]="#ff0000"
+
+# Upload graph colors
+theme[upload_start]="#00ff00"
+theme[upload_mid]="#ffff00"
+theme[upload_end]="#ff0000"

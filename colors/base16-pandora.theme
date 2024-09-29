@@ -1,0 +1,90 @@
+#
+#
+# name: pandora
+# author: Cassandra Fox
+# slug: pandora
+# slug-underscored: pandora
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#131213"
+
+# Main text color
+theme[main_fg]="#f15c99"
+
+# Title color for boxes
+theme[title]="#f15c99"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#008080"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2f1823"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f15c99"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9b2a46"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#008080"
+
+# Cpu box outline color
+theme[cpu_box]="#9b2a46"
+
+# Memory/disks box outline color
+theme[mem_box]="#9b2a46"
+
+# Net up/down box outline color
+theme[net_box]="#9b2a46"
+
+# Processes box outline color
+theme[proc_box]="#9b2a46"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9b2a46"
+
+# Temperature graph colors
+theme[temp_start]="#9ddf69"
+theme[temp_mid]="#ffcc00"
+theme[temp_end]="#b00b69"
+
+# CPU graph colors
+theme[cpu_start]="#9ddf69"
+theme[cpu_mid]="#ffcc00"
+theme[cpu_end]="#b00b69"
+
+# Mem/Disk free meter
+theme[free_start]="#9ddf69"
+theme[free_mid]="#ffcc00"
+theme[free_end]="#b00b69"
+
+# Mem/Disk cached meter
+theme[cached_start]="#9ddf69"
+theme[cached_mid]="#ffcc00"
+theme[cached_end]="#b00b69"
+
+# Mem/Disk available meter
+theme[available_start]="#9ddf69"
+theme[available_mid]="#ffcc00"
+theme[available_end]="#b00b69"
+
+# Mem/Disk used meter
+theme[used_start]="#9ddf69"
+theme[used_mid]="#ffcc00"
+theme[used_end]="#b00b69"
+
+# Download graph colors
+theme[download_start]="#9ddf69"
+theme[download_mid]="#ffcc00"
+theme[download_end]="#b00b69"
+
+# Upload graph colors
+theme[upload_start]="#9ddf69"
+theme[upload_mid]="#ffcc00"
+theme[upload_end]="#b00b69"

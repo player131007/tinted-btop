@@ -1,0 +1,90 @@
+#
+#
+# name: Outrun Dark
+# author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# slug: outrun-dark
+# slug-underscored: outrun_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+# Main bg
+theme[main_bg]="#00002A"
+
+# Main text color
+theme[main_fg]="#D0D0FA"
+
+# Title color for boxes
+theme[title]="#D0D0FA"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#66B0FF"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#20204A"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#D0D0FA"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#B0B0DA"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#66B0FF"
+
+# Cpu box outline color
+theme[cpu_box]="#B0B0DA"
+
+# Memory/disks box outline color
+theme[mem_box]="#B0B0DA"
+
+# Net up/down box outline color
+theme[net_box]="#B0B0DA"
+
+# Processes box outline color
+theme[proc_box]="#B0B0DA"
+
+# Box divider line and small boxes line color
+theme[div_line]="#B0B0DA"
+
+# Temperature graph colors
+theme[temp_start]="#59F176"
+theme[temp_mid]="#F3E877"
+theme[temp_end]="#FF4242"
+
+# CPU graph colors
+theme[cpu_start]="#59F176"
+theme[cpu_mid]="#F3E877"
+theme[cpu_end]="#FF4242"
+
+# Mem/Disk free meter
+theme[free_start]="#59F176"
+theme[free_mid]="#F3E877"
+theme[free_end]="#FF4242"
+
+# Mem/Disk cached meter
+theme[cached_start]="#59F176"
+theme[cached_mid]="#F3E877"
+theme[cached_end]="#FF4242"
+
+# Mem/Disk available meter
+theme[available_start]="#59F176"
+theme[available_mid]="#F3E877"
+theme[available_end]="#FF4242"
+
+# Mem/Disk used meter
+theme[used_start]="#59F176"
+theme[used_mid]="#F3E877"
+theme[used_end]="#FF4242"
+
+# Download graph colors
+theme[download_start]="#59F176"
+theme[download_mid]="#F3E877"
+theme[download_end]="#FF4242"
+
+# Upload graph colors
+theme[upload_start]="#59F176"
+theme[upload_mid]="#F3E877"
+theme[upload_end]="#FF4242"

@@ -1,0 +1,85 @@
+# name: Violet Dark
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: violet-dark
+# slug-underscored: violet_dark
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1b1d1f"
+
+# Main text color
+theme[main_fg]="#a7a59f"
+
+# Title color for boxes
+theme[title]="#a7a59f"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2e8bce"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#56595c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a7a59f"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#868683"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2e8bce"
+
+# Cpu box outline color
+theme[cpu_box]="#868683"
+
+# Memory/disks box outline color
+theme[mem_box]="#868683"
+
+# Net up/down box outline color
+theme[net_box]="#868683"
+
+# Processes box outline color
+theme[proc_box]="#868683"
+
+# Box divider line and small boxes line color
+theme[div_line]="#868683"
+
+# Temperature graph colors
+theme[temp_start]="#85981c"
+theme[temp_mid]="#2075c7"
+theme[temp_end]="#c94c22"
+
+# CPU graph colors
+theme[cpu_start]="#85981c"
+theme[cpu_mid]="#2075c7"
+theme[cpu_end]="#c94c22"
+
+# Mem/Disk free meter
+theme[free_start]="#85981c"
+theme[free_mid]="#2075c7"
+theme[free_end]="#c94c22"
+
+# Mem/Disk cached meter
+theme[cached_start]="#85981c"
+theme[cached_mid]="#2075c7"
+theme[cached_end]="#c94c22"
+
+# Mem/Disk available meter
+theme[available_start]="#85981c"
+theme[available_mid]="#2075c7"
+theme[available_end]="#c94c22"
+
+# Mem/Disk used meter
+theme[used_start]="#85981c"
+theme[used_mid]="#2075c7"
+theme[used_end]="#c94c22"
+
+# Download graph colors
+theme[download_start]="#85981c"
+theme[download_mid]="#2075c7"
+theme[download_end]="#c94c22"
+
+# Upload graph colors
+theme[upload_start]="#85981c"
+theme[upload_mid]="#2075c7"
+theme[upload_end]="#c94c22"

@@ -1,0 +1,85 @@
+# name: Elementary
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: elementary
+# slug-underscored: elementary
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#181818"
+
+# Main text color
+theme[main_fg]="#c5c5c5"
+
+# Title color for boxes
+theme[title]="#c5c5c5"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#053a8c"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#242424"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c5c5c5"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9c9c9c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#053a8c"
+
+# Cpu box outline color
+theme[cpu_box]="#9c9c9c"
+
+# Memory/disks box outline color
+theme[mem_box]="#9c9c9c"
+
+# Net up/down box outline color
+theme[net_box]="#9c9c9c"
+
+# Processes box outline color
+theme[proc_box]="#9c9c9c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9c9c9c"
+
+# Temperature graph colors
+theme[temp_start]="#59a413"
+theme[temp_mid]="#0855fe"
+theme[temp_end]="#d61b15"
+
+# CPU graph colors
+theme[cpu_start]="#59a413"
+theme[cpu_mid]="#0855fe"
+theme[cpu_end]="#d61b15"
+
+# Mem/Disk free meter
+theme[free_start]="#59a413"
+theme[free_mid]="#0855fe"
+theme[free_end]="#d61b15"
+
+# Mem/Disk cached meter
+theme[cached_start]="#59a413"
+theme[cached_mid]="#0855fe"
+theme[cached_end]="#d61b15"
+
+# Mem/Disk available meter
+theme[available_start]="#59a413"
+theme[available_mid]="#0855fe"
+theme[available_end]="#d61b15"
+
+# Mem/Disk used meter
+theme[used_start]="#59a413"
+theme[used_mid]="#0855fe"
+theme[used_end]="#d61b15"
+
+# Download graph colors
+theme[download_start]="#59a413"
+theme[download_mid]="#0855fe"
+theme[download_end]="#d61b15"
+
+# Upload graph colors
+theme[upload_start]="#59a413"
+theme[upload_mid]="#0855fe"
+theme[upload_end]="#d61b15"

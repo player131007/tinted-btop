@@ -1,0 +1,85 @@
+# name: Challenger Deep
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: challenger-deep
+# slug-underscored: challenger_deep
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1e1c31"
+
+# Main text color
+theme[main_fg]="#929bb6"
+
+# Title color for boxes
+theme[title]="#929bb6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#65b2ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#141127"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#929bb6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7e84a0"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#65b2ff"
+
+# Cpu box outline color
+theme[cpu_box]="#7e84a0"
+
+# Memory/disks box outline color
+theme[mem_box]="#7e84a0"
+
+# Net up/down box outline color
+theme[net_box]="#7e84a0"
+
+# Processes box outline color
+theme[proc_box]="#7e84a0"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7e84a0"
+
+# Temperature graph colors
+theme[temp_start]="#62d196"
+theme[temp_mid]="#91ddff"
+theme[temp_end]="#ff5458"
+
+# CPU graph colors
+theme[cpu_start]="#62d196"
+theme[cpu_mid]="#91ddff"
+theme[cpu_end]="#ff5458"
+
+# Mem/Disk free meter
+theme[free_start]="#62d196"
+theme[free_mid]="#91ddff"
+theme[free_end]="#ff5458"
+
+# Mem/Disk cached meter
+theme[cached_start]="#62d196"
+theme[cached_mid]="#91ddff"
+theme[cached_end]="#ff5458"
+
+# Mem/Disk available meter
+theme[available_start]="#62d196"
+theme[available_mid]="#91ddff"
+theme[available_end]="#ff5458"
+
+# Mem/Disk used meter
+theme[used_start]="#62d196"
+theme[used_mid]="#91ddff"
+theme[used_end]="#ff5458"
+
+# Download graph colors
+theme[download_start]="#62d196"
+theme[download_mid]="#91ddff"
+theme[download_end]="#ff5458"
+
+# Upload graph colors
+theme[upload_start]="#62d196"
+theme[upload_mid]="#91ddff"
+theme[upload_end]="#ff5458"

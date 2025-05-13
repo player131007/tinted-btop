@@ -1,0 +1,85 @@
+# name: One Light
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: one-light
+# slug-underscored: one_light
+# system: base24
+# variant: light
+
+# Main bg
+theme[main_bg]="#e7e7e9"
+
+# Main text color
+theme[main_fg]="#383a42"
+
+# Title color for boxes
+theme[title]="#383a42"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4078f2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#dfdfe1"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#383a42"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#696c77"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4078f2"
+
+# Cpu box outline color
+theme[cpu_box]="#696c77"
+
+# Memory/disks box outline color
+theme[mem_box]="#696c77"
+
+# Net up/down box outline color
+theme[net_box]="#696c77"
+
+# Processes box outline color
+theme[proc_box]="#696c77"
+
+# Box divider line and small boxes line color
+theme[div_line]="#696c77"
+
+# Temperature graph colors
+theme[temp_start]="#50a14f"
+theme[temp_mid]="#febb2a"
+theme[temp_end]="#ca1243"
+
+# CPU graph colors
+theme[cpu_start]="#50a14f"
+theme[cpu_mid]="#febb2a"
+theme[cpu_end]="#ca1243"
+
+# Mem/Disk free meter
+theme[free_start]="#50a14f"
+theme[free_mid]="#febb2a"
+theme[free_end]="#ca1243"
+
+# Mem/Disk cached meter
+theme[cached_start]="#50a14f"
+theme[cached_mid]="#febb2a"
+theme[cached_end]="#ca1243"
+
+# Mem/Disk available meter
+theme[available_start]="#50a14f"
+theme[available_mid]="#febb2a"
+theme[available_end]="#ca1243"
+
+# Mem/Disk used meter
+theme[used_start]="#50a14f"
+theme[used_mid]="#febb2a"
+theme[used_end]="#ca1243"
+
+# Download graph colors
+theme[download_start]="#50a14f"
+theme[download_mid]="#febb2a"
+theme[download_end]="#ca1243"
+
+# Upload graph colors
+theme[upload_start]="#50a14f"
+theme[upload_mid]="#febb2a"
+theme[upload_end]="#ca1243"

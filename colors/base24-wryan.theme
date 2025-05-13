@@ -1,0 +1,85 @@
+# name: Wryan
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: wryan
+# slug-underscored: wryan
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#101010"
+
+# Main text color
+theme[main_fg]="#768488"
+
+# Title color for boxes
+theme[title]="#768488"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#395573"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#333333"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#768488"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#636c6f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#395573"
+
+# Cpu box outline color
+theme[cpu_box]="#636c6f"
+
+# Memory/disks box outline color
+theme[mem_box]="#636c6f"
+
+# Net up/down box outline color
+theme[net_box]="#636c6f"
+
+# Processes box outline color
+theme[proc_box]="#636c6f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#636c6f"
+
+# Temperature graph colors
+theme[temp_start]="#287373"
+theme[temp_mid]="#477ab3"
+theme[temp_end]="#8c4665"
+
+# CPU graph colors
+theme[cpu_start]="#287373"
+theme[cpu_mid]="#477ab3"
+theme[cpu_end]="#8c4665"
+
+# Mem/Disk free meter
+theme[free_start]="#287373"
+theme[free_mid]="#477ab3"
+theme[free_end]="#8c4665"
+
+# Mem/Disk cached meter
+theme[cached_start]="#287373"
+theme[cached_mid]="#477ab3"
+theme[cached_end]="#8c4665"
+
+# Mem/Disk available meter
+theme[available_start]="#287373"
+theme[available_mid]="#477ab3"
+theme[available_end]="#8c4665"
+
+# Mem/Disk used meter
+theme[used_start]="#287373"
+theme[used_mid]="#477ab3"
+theme[used_end]="#8c4665"
+
+# Download graph colors
+theme[download_start]="#287373"
+theme[download_mid]="#477ab3"
+theme[download_end]="#8c4665"
+
+# Upload graph colors
+theme[upload_start]="#287373"
+theme[upload_mid]="#477ab3"
+theme[upload_end]="#8c4665"

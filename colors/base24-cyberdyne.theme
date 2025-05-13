@@ -1,0 +1,85 @@
+# name: Cyberdyne
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: cyberdyne
+# slug-underscored: cyberdyne
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#151144"
+
+# Main text color
+theme[main_fg]="#c0c0c0"
+
+# Title color for boxes
+theme[title]="#c0c0c0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0071cf"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#080808"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c0c0c0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8f8f8f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0071cf"
+
+# Cpu box outline color
+theme[cpu_box]="#8f8f8f"
+
+# Memory/disks box outline color
+theme[mem_box]="#8f8f8f"
+
+# Net up/down box outline color
+theme[net_box]="#8f8f8f"
+
+# Processes box outline color
+theme[proc_box]="#8f8f8f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8f8f8f"
+
+# Temperature graph colors
+theme[temp_start]="#00c172"
+theme[temp_mid]="#c1e3fe"
+theme[temp_end]="#ff8272"
+
+# CPU graph colors
+theme[cpu_start]="#00c172"
+theme[cpu_mid]="#c1e3fe"
+theme[cpu_end]="#ff8272"
+
+# Mem/Disk free meter
+theme[free_start]="#00c172"
+theme[free_mid]="#c1e3fe"
+theme[free_end]="#ff8272"
+
+# Mem/Disk cached meter
+theme[cached_start]="#00c172"
+theme[cached_mid]="#c1e3fe"
+theme[cached_end]="#ff8272"
+
+# Mem/Disk available meter
+theme[available_start]="#00c172"
+theme[available_mid]="#c1e3fe"
+theme[available_end]="#ff8272"
+
+# Mem/Disk used meter
+theme[used_start]="#00c172"
+theme[used_mid]="#c1e3fe"
+theme[used_end]="#ff8272"
+
+# Download graph colors
+theme[download_start]="#00c172"
+theme[download_mid]="#c1e3fe"
+theme[download_end]="#ff8272"
+
+# Upload graph colors
+theme[upload_start]="#00c172"
+theme[upload_mid]="#c1e3fe"
+theme[upload_end]="#ff8272"

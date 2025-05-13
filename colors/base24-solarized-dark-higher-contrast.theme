@@ -1,0 +1,85 @@
+# name: Solarized Dark Higher Contrast
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: solarized-dark-higher-contrast
+# slug-underscored: solarized_dark_higher_contrast
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#001e26"
+
+# Main text color
+theme[main_fg]="#aec2ba"
+
+# Title color for boxes
+theme[title]="#aec2ba"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2075c7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#002731"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#aec2ba"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#74a2a9"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2075c7"
+
+# Cpu box outline color
+theme[cpu_box]="#74a2a9"
+
+# Memory/disks box outline color
+theme[mem_box]="#74a2a9"
+
+# Net up/down box outline color
+theme[net_box]="#74a2a9"
+
+# Processes box outline color
+theme[proc_box]="#74a2a9"
+
+# Box divider line and small boxes line color
+theme[div_line]="#74a2a9"
+
+# Temperature graph colors
+theme[temp_start]="#6bbe6c"
+theme[temp_mid]="#178dc7"
+theme[temp_end]="#d01b24"
+
+# CPU graph colors
+theme[cpu_start]="#6bbe6c"
+theme[cpu_mid]="#178dc7"
+theme[cpu_end]="#d01b24"
+
+# Mem/Disk free meter
+theme[free_start]="#6bbe6c"
+theme[free_mid]="#178dc7"
+theme[free_end]="#d01b24"
+
+# Mem/Disk cached meter
+theme[cached_start]="#6bbe6c"
+theme[cached_mid]="#178dc7"
+theme[cached_end]="#d01b24"
+
+# Mem/Disk available meter
+theme[available_start]="#6bbe6c"
+theme[available_mid]="#178dc7"
+theme[available_end]="#d01b24"
+
+# Mem/Disk used meter
+theme[used_start]="#6bbe6c"
+theme[used_mid]="#178dc7"
+theme[used_end]="#d01b24"
+
+# Download graph colors
+theme[download_start]="#6bbe6c"
+theme[download_mid]="#178dc7"
+theme[download_end]="#d01b24"
+
+# Upload graph colors
+theme[upload_start]="#6bbe6c"
+theme[upload_mid]="#178dc7"
+theme[upload_end]="#d01b24"

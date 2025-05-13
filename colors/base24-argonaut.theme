@@ -1,0 +1,85 @@
+# name: Argonaut
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: argonaut
+# slug-underscored: argonaut
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0d0f18"
+
+# Main text color
+theme[main_fg]="#d0d0d0"
+
+# Title color for boxes
+theme[title]="#d0d0d0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#008df8"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#222222"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d0d0d0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a1a1a1"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#008df8"
+
+# Cpu box outline color
+theme[cpu_box]="#a1a1a1"
+
+# Memory/disks box outline color
+theme[mem_box]="#a1a1a1"
+
+# Net up/down box outline color
+theme[net_box]="#a1a1a1"
+
+# Processes box outline color
+theme[proc_box]="#a1a1a1"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a1a1a1"
+
+# Temperature graph colors
+theme[temp_start]="#8ce00a"
+theme[temp_mid]="#0092ff"
+theme[temp_end]="#ff000f"
+
+# CPU graph colors
+theme[cpu_start]="#8ce00a"
+theme[cpu_mid]="#0092ff"
+theme[cpu_end]="#ff000f"
+
+# Mem/Disk free meter
+theme[free_start]="#8ce00a"
+theme[free_mid]="#0092ff"
+theme[free_end]="#ff000f"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8ce00a"
+theme[cached_mid]="#0092ff"
+theme[cached_end]="#ff000f"
+
+# Mem/Disk available meter
+theme[available_start]="#8ce00a"
+theme[available_mid]="#0092ff"
+theme[available_end]="#ff000f"
+
+# Mem/Disk used meter
+theme[used_start]="#8ce00a"
+theme[used_mid]="#0092ff"
+theme[used_end]="#ff000f"
+
+# Download graph colors
+theme[download_start]="#8ce00a"
+theme[download_mid]="#0092ff"
+theme[download_end]="#ff000f"
+
+# Upload graph colors
+theme[upload_start]="#8ce00a"
+theme[upload_mid]="#0092ff"
+theme[upload_end]="#ff000f"

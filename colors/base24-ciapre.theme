@@ -1,0 +1,85 @@
+# name: Ciapre
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: ciapre
+# slug-underscored: ciapre
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#181c27"
+
+# Main text color
+theme[main_fg]="#978f73"
+
+# Title color for boxes
+theme[title]="#978f73"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#566d8c"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#181818"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#978f73"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#817c69"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#566d8c"
+
+# Cpu box outline color
+theme[cpu_box]="#817c69"
+
+# Memory/disks box outline color
+theme[mem_box]="#817c69"
+
+# Net up/down box outline color
+theme[net_box]="#817c69"
+
+# Processes box outline color
+theme[proc_box]="#817c69"
+
+# Box divider line and small boxes line color
+theme[div_line]="#817c69"
+
+# Temperature graph colors
+theme[temp_start]="#48513b"
+theme[temp_mid]="#2f97c6"
+theme[temp_end]="#800009"
+
+# CPU graph colors
+theme[cpu_start]="#48513b"
+theme[cpu_mid]="#2f97c6"
+theme[cpu_end]="#800009"
+
+# Mem/Disk free meter
+theme[free_start]="#48513b"
+theme[free_mid]="#2f97c6"
+theme[free_end]="#800009"
+
+# Mem/Disk cached meter
+theme[cached_start]="#48513b"
+theme[cached_mid]="#2f97c6"
+theme[cached_end]="#800009"
+
+# Mem/Disk available meter
+theme[available_start]="#48513b"
+theme[available_mid]="#2f97c6"
+theme[available_end]="#800009"
+
+# Mem/Disk used meter
+theme[used_start]="#48513b"
+theme[used_mid]="#2f97c6"
+theme[used_end]="#800009"
+
+# Download graph colors
+theme[download_start]="#48513b"
+theme[download_mid]="#2f97c6"
+theme[download_end]="#800009"
+
+# Upload graph colors
+theme[upload_start]="#48513b"
+theme[upload_mid]="#2f97c6"
+theme[upload_end]="#800009"

@@ -1,0 +1,85 @@
+# name: Unikitty
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: unikitty
+# slug-underscored: unikitty
+# system: base24
+# variant: light
+
+# Main bg
+theme[main_bg]="#ff8cd9"
+
+# Main text color
+theme[main_fg]="#b9b1b8"
+
+# Title color for boxes
+theme[title]="#b9b1b8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#145fcd"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#0c0c0c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b9b1b8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#918c91"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#145fcd"
+
+# Cpu box outline color
+theme[cpu_box]="#918c91"
+
+# Memory/disks box outline color
+theme[mem_box]="#918c91"
+
+# Net up/down box outline color
+theme[net_box]="#918c91"
+
+# Processes box outline color
+theme[proc_box]="#918c91"
+
+# Box divider line and small boxes line color
+theme[div_line]="#918c91"
+
+# Temperature graph colors
+theme[temp_start]="#bafc8b"
+theme[temp_mid]="#0074ea"
+theme[temp_end]="#a80f20"
+
+# CPU graph colors
+theme[cpu_start]="#bafc8b"
+theme[cpu_mid]="#0074ea"
+theme[cpu_end]="#a80f20"
+
+# Mem/Disk free meter
+theme[free_start]="#bafc8b"
+theme[free_mid]="#0074ea"
+theme[free_end]="#a80f20"
+
+# Mem/Disk cached meter
+theme[cached_start]="#bafc8b"
+theme[cached_mid]="#0074ea"
+theme[cached_end]="#a80f20"
+
+# Mem/Disk available meter
+theme[available_start]="#bafc8b"
+theme[available_mid]="#0074ea"
+theme[available_end]="#a80f20"
+
+# Mem/Disk used meter
+theme[used_start]="#bafc8b"
+theme[used_mid]="#0074ea"
+theme[used_end]="#a80f20"
+
+# Download graph colors
+theme[download_start]="#bafc8b"
+theme[download_mid]="#0074ea"
+theme[download_end]="#a80f20"
+
+# Upload graph colors
+theme[upload_start]="#bafc8b"
+theme[upload_mid]="#0074ea"
+theme[upload_end]="#a80f20"

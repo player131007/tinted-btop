@@ -1,0 +1,85 @@
+# name: Material Dark
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: material-dark
+# slug-underscored: material_dark
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#222221"
+
+# Main text color
+theme[main_fg]="#c3c3c3"
+
+# Title color for boxes
+theme[title]="#c3c3c3"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#134eb2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#212121"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c3c3c3"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#989898"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#134eb2"
+
+# Cpu box outline color
+theme[cpu_box]="#989898"
+
+# Memory/disks box outline color
+theme[mem_box]="#989898"
+
+# Net up/down box outline color
+theme[net_box]="#989898"
+
+# Processes box outline color
+theme[proc_box]="#989898"
+
+# Box divider line and small boxes line color
+theme[div_line]="#989898"
+
+# Temperature graph colors
+theme[temp_start]="#457b23"
+theme[temp_mid]="#53a4f3"
+theme[temp_end]="#b7141e"
+
+# CPU graph colors
+theme[cpu_start]="#457b23"
+theme[cpu_mid]="#53a4f3"
+theme[cpu_end]="#b7141e"
+
+# Mem/Disk free meter
+theme[free_start]="#457b23"
+theme[free_mid]="#53a4f3"
+theme[free_end]="#b7141e"
+
+# Mem/Disk cached meter
+theme[cached_start]="#457b23"
+theme[cached_mid]="#53a4f3"
+theme[cached_end]="#b7141e"
+
+# Mem/Disk available meter
+theme[available_start]="#457b23"
+theme[available_mid]="#53a4f3"
+theme[available_end]="#b7141e"
+
+# Mem/Disk used meter
+theme[used_start]="#457b23"
+theme[used_mid]="#53a4f3"
+theme[used_end]="#b7141e"
+
+# Download graph colors
+theme[download_start]="#457b23"
+theme[download_mid]="#53a4f3"
+theme[download_end]="#b7141e"
+
+# Upload graph colors
+theme[upload_start]="#457b23"
+theme[upload_mid]="#53a4f3"
+theme[upload_end]="#b7141e"

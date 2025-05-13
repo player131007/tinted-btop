@@ -1,0 +1,85 @@
+# name: Toy Chest
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: toy-chest
+# slug-underscored: toy_chest
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#23364a"
+
+# Main text color
+theme[main_fg]="#27b684"
+
+# Title color for boxes
+theme[title]="#27b684"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#325d96"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2c3f57"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#27b684"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#2b9c86"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#325d96"
+
+# Cpu box outline color
+theme[cpu_box]="#2b9c86"
+
+# Memory/disks box outline color
+theme[mem_box]="#2b9c86"
+
+# Net up/down box outline color
+theme[net_box]="#2b9c86"
+
+# Processes box outline color
+theme[proc_box]="#2b9c86"
+
+# Box divider line and small boxes line color
+theme[div_line]="#2b9c86"
+
+# Temperature graph colors
+theme[temp_start]="#199171"
+theme[temp_mid]="#33a5d9"
+theme[temp_end]="#be2d26"
+
+# CPU graph colors
+theme[cpu_start]="#199171"
+theme[cpu_mid]="#33a5d9"
+theme[cpu_end]="#be2d26"
+
+# Mem/Disk free meter
+theme[free_start]="#199171"
+theme[free_mid]="#33a5d9"
+theme[free_end]="#be2d26"
+
+# Mem/Disk cached meter
+theme[cached_start]="#199171"
+theme[cached_mid]="#33a5d9"
+theme[cached_end]="#be2d26"
+
+# Mem/Disk available meter
+theme[available_start]="#199171"
+theme[available_mid]="#33a5d9"
+theme[available_end]="#be2d26"
+
+# Mem/Disk used meter
+theme[used_start]="#199171"
+theme[used_mid]="#33a5d9"
+theme[used_end]="#be2d26"
+
+# Download graph colors
+theme[download_start]="#199171"
+theme[download_mid]="#33a5d9"
+theme[download_end]="#be2d26"
+
+# Upload graph colors
+theme[upload_start]="#199171"
+theme[upload_mid]="#33a5d9"
+theme[upload_end]="#be2d26"

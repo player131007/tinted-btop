@@ -1,0 +1,85 @@
+# name: Jackie Brown
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: jackie-brown
+# slug-underscored: jackie_brown
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#2c1c15"
+
+# Main text color
+theme[main_fg]="#a8a8a8"
+
+# Title color for boxes
+theme[title]="#a8a8a8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#246db2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2c1d16"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a8a8a8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#929292"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#246db2"
+
+# Cpu box outline color
+theme[cpu_box]="#929292"
+
+# Memory/disks box outline color
+theme[mem_box]="#929292"
+
+# Net up/down box outline color
+theme[net_box]="#929292"
+
+# Processes box outline color
+theme[proc_box]="#929292"
+
+# Box divider line and small boxes line color
+theme[div_line]="#929292"
+
+# Temperature graph colors
+theme[temp_start]="#2baf2b"
+theme[temp_mid]="#0000ff"
+theme[temp_end]="#ef5734"
+
+# CPU graph colors
+theme[cpu_start]="#2baf2b"
+theme[cpu_mid]="#0000ff"
+theme[cpu_end]="#ef5734"
+
+# Mem/Disk free meter
+theme[free_start]="#2baf2b"
+theme[free_mid]="#0000ff"
+theme[free_end]="#ef5734"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2baf2b"
+theme[cached_mid]="#0000ff"
+theme[cached_end]="#ef5734"
+
+# Mem/Disk available meter
+theme[available_start]="#2baf2b"
+theme[available_mid]="#0000ff"
+theme[available_end]="#ef5734"
+
+# Mem/Disk used meter
+theme[used_start]="#2baf2b"
+theme[used_mid]="#0000ff"
+theme[used_end]="#ef5734"
+
+# Download graph colors
+theme[download_start]="#2baf2b"
+theme[download_mid]="#0000ff"
+theme[download_end]="#ef5734"
+
+# Upload graph colors
+theme[upload_start]="#2baf2b"
+theme[upload_mid]="#0000ff"
+theme[upload_end]="#ef5734"

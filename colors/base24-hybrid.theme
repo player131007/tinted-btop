@@ -1,0 +1,85 @@
+# name: Hybrid
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: hybrid
+# slug-underscored: hybrid
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#161718"
+
+# Main text color
+theme[main_fg]="#8f9190"
+
+# Title color for boxes
+theme[title]="#8f9190"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6d90b0"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2a2e33"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#8f9190"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#696b6b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6d90b0"
+
+# Cpu box outline color
+theme[cpu_box]="#696b6b"
+
+# Memory/disks box outline color
+theme[mem_box]="#696b6b"
+
+# Net up/down box outline color
+theme[net_box]="#696b6b"
+
+# Processes box outline color
+theme[proc_box]="#696b6b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#696b6b"
+
+# Temperature graph colors
+theme[temp_start]="#b3be5a"
+theme[temp_mid]="#4b6b88"
+theme[temp_end]="#b74d50"
+
+# CPU graph colors
+theme[cpu_start]="#b3be5a"
+theme[cpu_mid]="#4b6b88"
+theme[cpu_end]="#b74d50"
+
+# Mem/Disk free meter
+theme[free_start]="#b3be5a"
+theme[free_mid]="#4b6b88"
+theme[free_end]="#b74d50"
+
+# Mem/Disk cached meter
+theme[cached_start]="#b3be5a"
+theme[cached_mid]="#4b6b88"
+theme[cached_end]="#b74d50"
+
+# Mem/Disk available meter
+theme[available_start]="#b3be5a"
+theme[available_mid]="#4b6b88"
+theme[available_end]="#b74d50"
+
+# Mem/Disk used meter
+theme[used_start]="#b3be5a"
+theme[used_mid]="#4b6b88"
+theme[used_end]="#b74d50"
+
+# Download graph colors
+theme[download_start]="#b3be5a"
+theme[download_mid]="#4b6b88"
+theme[download_end]="#b74d50"
+
+# Upload graph colors
+theme[upload_start]="#b3be5a"
+theme[upload_mid]="#4b6b88"
+theme[upload_end]="#b74d50"

@@ -1,0 +1,85 @@
+# name: Red Alert
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: red-alert
+# slug-underscored: red_alert
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#762423"
+
+# Main text color
+theme[main_fg]="#aaaaaa"
+
+# Title color for boxes
+theme[title]="#aaaaaa"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#479bed"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#aaaaaa"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7e7e7e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#479bed"
+
+# Cpu box outline color
+theme[cpu_box]="#7e7e7e"
+
+# Memory/disks box outline color
+theme[mem_box]="#7e7e7e"
+
+# Net up/down box outline color
+theme[net_box]="#7e7e7e"
+
+# Processes box outline color
+theme[proc_box]="#7e7e7e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7e7e7e"
+
+# Temperature graph colors
+theme[temp_start]="#71be6b"
+theme[temp_mid]="#65a9f0"
+theme[temp_end]="#d52e4d"
+
+# CPU graph colors
+theme[cpu_start]="#71be6b"
+theme[cpu_mid]="#65a9f0"
+theme[cpu_end]="#d52e4d"
+
+# Mem/Disk free meter
+theme[free_start]="#71be6b"
+theme[free_mid]="#65a9f0"
+theme[free_end]="#d52e4d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#71be6b"
+theme[cached_mid]="#65a9f0"
+theme[cached_end]="#d52e4d"
+
+# Mem/Disk available meter
+theme[available_start]="#71be6b"
+theme[available_mid]="#65a9f0"
+theme[available_end]="#d52e4d"
+
+# Mem/Disk used meter
+theme[used_start]="#71be6b"
+theme[used_mid]="#65a9f0"
+theme[used_end]="#d52e4d"
+
+# Download graph colors
+theme[download_start]="#71be6b"
+theme[download_mid]="#65a9f0"
+theme[download_end]="#d52e4d"
+
+# Upload graph colors
+theme[upload_start]="#71be6b"
+theme[upload_mid]="#65a9f0"
+theme[upload_end]="#d52e4d"

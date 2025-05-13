@@ -1,0 +1,85 @@
+# name: Thayler Bright
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: thayler-bright
+# slug-underscored: thayler_bright
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1b1d1e"
+
+# Main text color
+theme[main_fg]="#adada9"
+
+# Title color for boxes
+theme[title]="#adada9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2656d6"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1b1d1e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#adada9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8e8f8d"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2656d6"
+
+# Cpu box outline color
+theme[cpu_box]="#8e8f8d"
+
+# Memory/disks box outline color
+theme[mem_box]="#8e8f8d"
+
+# Net up/down box outline color
+theme[net_box]="#8e8f8d"
+
+# Processes box outline color
+theme[proc_box]="#8e8f8d"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8e8f8d"
+
+# Temperature graph colors
+theme[temp_start]="#4df740"
+theme[temp_mid]="#3f78ff"
+theme[temp_end]="#f92672"
+
+# CPU graph colors
+theme[cpu_start]="#4df740"
+theme[cpu_mid]="#3f78ff"
+theme[cpu_end]="#f92672"
+
+# Mem/Disk free meter
+theme[free_start]="#4df740"
+theme[free_mid]="#3f78ff"
+theme[free_end]="#f92672"
+
+# Mem/Disk cached meter
+theme[cached_start]="#4df740"
+theme[cached_mid]="#3f78ff"
+theme[cached_end]="#f92672"
+
+# Mem/Disk available meter
+theme[available_start]="#4df740"
+theme[available_mid]="#3f78ff"
+theme[available_end]="#f92672"
+
+# Mem/Disk used meter
+theme[used_start]="#4df740"
+theme[used_mid]="#3f78ff"
+theme[used_end]="#f92672"
+
+# Download graph colors
+theme[download_start]="#4df740"
+theme[download_mid]="#3f78ff"
+theme[download_end]="#f92672"
+
+# Upload graph colors
+theme[upload_start]="#4df740"
+theme[upload_mid]="#3f78ff"
+theme[upload_end]="#f92672"

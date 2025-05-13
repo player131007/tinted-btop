@@ -1,0 +1,85 @@
+# name: Fideloper
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: fideloper
+# slug-underscored: fideloper
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#282f32"
+
+# Main text color
+theme[main_fg]="#b1b1a3"
+
+# Title color for boxes
+theme[title]="#b1b1a3"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2e78c1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#282f32"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b1b1a3"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#79817a"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2e78c1"
+
+# Cpu box outline color
+theme[cpu_box]="#79817a"
+
+# Memory/disks box outline color
+theme[mem_box]="#79817a"
+
+# Net up/down box outline color
+theme[net_box]="#79817a"
+
+# Processes box outline color
+theme[proc_box]="#79817a"
+
+# Box divider line and small boxes line color
+theme[div_line]="#79817a"
+
+# Temperature graph colors
+theme[temp_start]="#edb7ab"
+theme[temp_mid]="#7c84c4"
+theme[temp_end]="#ca1d2c"
+
+# CPU graph colors
+theme[cpu_start]="#edb7ab"
+theme[cpu_mid]="#7c84c4"
+theme[cpu_end]="#ca1d2c"
+
+# Mem/Disk free meter
+theme[free_start]="#edb7ab"
+theme[free_mid]="#7c84c4"
+theme[free_end]="#ca1d2c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#edb7ab"
+theme[cached_mid]="#7c84c4"
+theme[cached_end]="#ca1d2c"
+
+# Mem/Disk available meter
+theme[available_start]="#edb7ab"
+theme[available_mid]="#7c84c4"
+theme[available_end]="#ca1d2c"
+
+# Mem/Disk used meter
+theme[used_start]="#edb7ab"
+theme[used_mid]="#7c84c4"
+theme[used_end]="#ca1d2c"
+
+# Download graph colors
+theme[download_start]="#edb7ab"
+theme[download_mid]="#7c84c4"
+theme[download_end]="#ca1d2c"
+
+# Upload graph colors
+theme[upload_start]="#edb7ab"
+theme[upload_mid]="#7c84c4"
+theme[upload_end]="#ca1d2c"

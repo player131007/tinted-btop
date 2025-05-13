@@ -1,0 +1,85 @@
+# name: Dimmed Monokai
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: dimmed-monokai
+# slug-underscored: dimmed_monokai
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1e1e1e"
+
+# Main text color
+theme[main_fg]="#acafac"
+
+# Title color for boxes
+theme[title]="#acafac"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4e76a1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3a3c43"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#acafac"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a0a2a0"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4e76a1"
+
+# Cpu box outline color
+theme[cpu_box]="#a0a2a0"
+
+# Memory/disks box outline color
+theme[mem_box]="#a0a2a0"
+
+# Net up/down box outline color
+theme[net_box]="#a0a2a0"
+
+# Processes box outline color
+theme[proc_box]="#a0a2a0"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a0a2a0"
+
+# Temperature graph colors
+theme[temp_start]="#869a3a"
+theme[temp_mid]="#176ce3"
+theme[temp_end]="#be3e48"
+
+# CPU graph colors
+theme[cpu_start]="#869a3a"
+theme[cpu_mid]="#176ce3"
+theme[cpu_end]="#be3e48"
+
+# Mem/Disk free meter
+theme[free_start]="#869a3a"
+theme[free_mid]="#176ce3"
+theme[free_end]="#be3e48"
+
+# Mem/Disk cached meter
+theme[cached_start]="#869a3a"
+theme[cached_mid]="#176ce3"
+theme[cached_end]="#be3e48"
+
+# Mem/Disk available meter
+theme[available_start]="#869a3a"
+theme[available_mid]="#176ce3"
+theme[available_end]="#be3e48"
+
+# Mem/Disk used meter
+theme[used_start]="#869a3a"
+theme[used_mid]="#176ce3"
+theme[used_end]="#be3e48"
+
+# Download graph colors
+theme[download_start]="#869a3a"
+theme[download_mid]="#176ce3"
+theme[download_end]="#be3e48"
+
+# Upload graph colors
+theme[upload_start]="#869a3a"
+theme[upload_mid]="#176ce3"
+theme[upload_end]="#be3e48"

@@ -1,0 +1,85 @@
+# name: Builtin Tango Light
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: builtin-tango-light
+# slug-underscored: builtin_tango_light
+# system: base24
+# variant: light
+
+# Main bg
+theme[main_bg]="#ffffff"
+
+# Main text color
+theme[main_fg]="#b3b7b0"
+
+# Title color for boxes
+theme[title]="#b3b7b0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3464a4"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b3b7b0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#939791"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3464a4"
+
+# Cpu box outline color
+theme[cpu_box]="#939791"
+
+# Memory/disks box outline color
+theme[mem_box]="#939791"
+
+# Net up/down box outline color
+theme[net_box]="#939791"
+
+# Processes box outline color
+theme[proc_box]="#939791"
+
+# Box divider line and small boxes line color
+theme[div_line]="#939791"
+
+# Temperature graph colors
+theme[temp_start]="#4e9a05"
+theme[temp_mid]="#719ecf"
+theme[temp_end]="#cc0000"
+
+# CPU graph colors
+theme[cpu_start]="#4e9a05"
+theme[cpu_mid]="#719ecf"
+theme[cpu_end]="#cc0000"
+
+# Mem/Disk free meter
+theme[free_start]="#4e9a05"
+theme[free_mid]="#719ecf"
+theme[free_end]="#cc0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#4e9a05"
+theme[cached_mid]="#719ecf"
+theme[cached_end]="#cc0000"
+
+# Mem/Disk available meter
+theme[available_start]="#4e9a05"
+theme[available_mid]="#719ecf"
+theme[available_end]="#cc0000"
+
+# Mem/Disk used meter
+theme[used_start]="#4e9a05"
+theme[used_mid]="#719ecf"
+theme[used_end]="#cc0000"
+
+# Download graph colors
+theme[download_start]="#4e9a05"
+theme[download_mid]="#719ecf"
+theme[download_end]="#cc0000"
+
+# Upload graph colors
+theme[upload_start]="#4e9a05"
+theme[upload_mid]="#719ecf"
+theme[upload_end]="#cc0000"

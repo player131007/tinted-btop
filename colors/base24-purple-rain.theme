@@ -1,0 +1,85 @@
+# name: Purple Rain
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: purple-rain
+# slug-underscored: purple_rain
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#20084a"
+
+# Main text color
+theme[main_fg]="#d3d4d4"
+
+# Title color for boxes
+theme[title]="#d3d4d4"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#00a1f9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d3d4d4"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a9aaaa"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#00a1f9"
+
+# Cpu box outline color
+theme[cpu_box]="#a9aaaa"
+
+# Memory/disks box outline color
+theme[mem_box]="#a9aaaa"
+
+# Net up/down box outline color
+theme[net_box]="#a9aaaa"
+
+# Processes box outline color
+theme[proc_box]="#a9aaaa"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a9aaaa"
+
+# Temperature graph colors
+theme[temp_start]="#9ae204"
+theme[temp_mid]="#00a5ff"
+theme[temp_end]="#ff260d"
+
+# CPU graph colors
+theme[cpu_start]="#9ae204"
+theme[cpu_mid]="#00a5ff"
+theme[cpu_end]="#ff260d"
+
+# Mem/Disk free meter
+theme[free_start]="#9ae204"
+theme[free_mid]="#00a5ff"
+theme[free_end]="#ff260d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#9ae204"
+theme[cached_mid]="#00a5ff"
+theme[cached_end]="#ff260d"
+
+# Mem/Disk available meter
+theme[available_start]="#9ae204"
+theme[available_mid]="#00a5ff"
+theme[available_end]="#ff260d"
+
+# Mem/Disk used meter
+theme[used_start]="#9ae204"
+theme[used_mid]="#00a5ff"
+theme[used_end]="#ff260d"
+
+# Download graph colors
+theme[download_start]="#9ae204"
+theme[download_mid]="#00a5ff"
+theme[download_end]="#ff260d"
+
+# Upload graph colors
+theme[upload_start]="#9ae204"
+theme[upload_mid]="#00a5ff"
+theme[upload_end]="#ff260d"

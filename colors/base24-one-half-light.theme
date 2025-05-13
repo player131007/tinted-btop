@@ -1,0 +1,85 @@
+# name: One Half Light
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: one-half-light
+# slug-underscored: one_half_light
+# system: base24
+# variant: light
+
+# Main bg
+theme[main_bg]="#fafafa"
+
+# Main text color
+theme[main_fg]="#cfd0d2"
+
+# Title color for boxes
+theme[title]="#cfd0d2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0084bc"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#373942"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cfd0d2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a4a6ab"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0084bc"
+
+# Cpu box outline color
+theme[cpu_box]="#a4a6ab"
+
+# Memory/disks box outline color
+theme[mem_box]="#a4a6ab"
+
+# Net up/down box outline color
+theme[net_box]="#a4a6ab"
+
+# Processes box outline color
+theme[proc_box]="#a4a6ab"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a4a6ab"
+
+# Temperature graph colors
+theme[temp_start]="#4fa14f"
+theme[temp_mid]="#61afef"
+theme[temp_end]="#e45649"
+
+# CPU graph colors
+theme[cpu_start]="#4fa14f"
+theme[cpu_mid]="#61afef"
+theme[cpu_end]="#e45649"
+
+# Mem/Disk free meter
+theme[free_start]="#4fa14f"
+theme[free_mid]="#61afef"
+theme[free_end]="#e45649"
+
+# Mem/Disk cached meter
+theme[cached_start]="#4fa14f"
+theme[cached_mid]="#61afef"
+theme[cached_end]="#e45649"
+
+# Mem/Disk available meter
+theme[available_start]="#4fa14f"
+theme[available_mid]="#61afef"
+theme[available_end]="#e45649"
+
+# Mem/Disk used meter
+theme[used_start]="#4fa14f"
+theme[used_mid]="#61afef"
+theme[used_end]="#e45649"
+
+# Download graph colors
+theme[download_start]="#4fa14f"
+theme[download_mid]="#61afef"
+theme[download_end]="#e45649"
+
+# Upload graph colors
+theme[upload_start]="#4fa14f"
+theme[upload_mid]="#61afef"
+theme[upload_end]="#e45649"

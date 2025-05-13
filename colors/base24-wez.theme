@@ -1,0 +1,85 @@
+# name: Wez
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: wez
+# slug-underscored: wez
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#aeaeae"
+
+# Title color for boxes
+theme[title]="#aeaeae"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5455cb"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#aeaeae"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#909090"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5455cb"
+
+# Cpu box outline color
+theme[cpu_box]="#909090"
+
+# Memory/disks box outline color
+theme[mem_box]="#909090"
+
+# Net up/down box outline color
+theme[net_box]="#909090"
+
+# Processes box outline color
+theme[proc_box]="#909090"
+
+# Box divider line and small boxes line color
+theme[div_line]="#909090"
+
+# Temperature graph colors
+theme[temp_start]="#55cc55"
+theme[temp_mid]="#5555ff"
+theme[temp_end]="#cc5555"
+
+# CPU graph colors
+theme[cpu_start]="#55cc55"
+theme[cpu_mid]="#5555ff"
+theme[cpu_end]="#cc5555"
+
+# Mem/Disk free meter
+theme[free_start]="#55cc55"
+theme[free_mid]="#5555ff"
+theme[free_end]="#cc5555"
+
+# Mem/Disk cached meter
+theme[cached_start]="#55cc55"
+theme[cached_mid]="#5555ff"
+theme[cached_end]="#cc5555"
+
+# Mem/Disk available meter
+theme[available_start]="#55cc55"
+theme[available_mid]="#5555ff"
+theme[available_end]="#cc5555"
+
+# Mem/Disk used meter
+theme[used_start]="#55cc55"
+theme[used_mid]="#5555ff"
+theme[used_end]="#cc5555"
+
+# Download graph colors
+theme[download_start]="#55cc55"
+theme[download_mid]="#5555ff"
+theme[download_end]="#cc5555"
+
+# Upload graph colors
+theme[upload_start]="#55cc55"
+theme[upload_mid]="#5555ff"
+theme[upload_end]="#cc5555"

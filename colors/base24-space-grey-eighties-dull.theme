@@ -1,0 +1,85 @@
+# name: Space Grey Eighties Dull
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: space-grey-eighties-dull
+# slug-underscored: space_grey_eighties_dull
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#212121"
+
+# Main text color
+theme[main_fg]="#9a9fa6"
+
+# Title color for boxes
+theme[title]="#9a9fa6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7b8fa4"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#15171c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#9a9fa6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#83868b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7b8fa4"
+
+# Cpu box outline color
+theme[cpu_box]="#83868b"
+
+# Memory/disks box outline color
+theme[mem_box]="#83868b"
+
+# Net up/down box outline color
+theme[net_box]="#83868b"
+
+# Processes box outline color
+theme[proc_box]="#83868b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#83868b"
+
+# Temperature graph colors
+theme[temp_start]="#91b377"
+theme[temp_mid]="#5485c0"
+theme[temp_end]="#b14956"
+
+# CPU graph colors
+theme[cpu_start]="#91b377"
+theme[cpu_mid]="#5485c0"
+theme[cpu_end]="#b14956"
+
+# Mem/Disk free meter
+theme[free_start]="#91b377"
+theme[free_mid]="#5485c0"
+theme[free_end]="#b14956"
+
+# Mem/Disk cached meter
+theme[cached_start]="#91b377"
+theme[cached_mid]="#5485c0"
+theme[cached_end]="#b14956"
+
+# Mem/Disk available meter
+theme[available_start]="#91b377"
+theme[available_mid]="#5485c0"
+theme[available_end]="#b14956"
+
+# Mem/Disk used meter
+theme[used_start]="#91b377"
+theme[used_mid]="#5485c0"
+theme[used_end]="#b14956"
+
+# Download graph colors
+theme[download_start]="#91b377"
+theme[download_mid]="#5485c0"
+theme[download_end]="#b14956"
+
+# Upload graph colors
+theme[upload_start]="#91b377"
+theme[upload_mid]="#5485c0"
+theme[upload_end]="#b14956"

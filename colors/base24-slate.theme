@@ -1,0 +1,85 @@
+# name: Slate
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: slate
+# slug-underscored: slate
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#212121"
+
+# Main text color
+theme[main_fg]="#42d3e8"
+
+# Title color for boxes
+theme[title]="#42d3e8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#254a49"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#212121"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#42d3e8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#81e2f0"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#254a49"
+
+# Cpu box outline color
+theme[cpu_box]="#81e2f0"
+
+# Memory/disks box outline color
+theme[mem_box]="#81e2f0"
+
+# Net up/down box outline color
+theme[net_box]="#81e2f0"
+
+# Processes box outline color
+theme[proc_box]="#81e2f0"
+
+# Box divider line and small boxes line color
+theme[div_line]="#81e2f0"
+
+# Temperature graph colors
+theme[temp_start]="#80d778"
+theme[temp_mid]="#79afd2"
+theme[temp_end]="#e1a7bf"
+
+# CPU graph colors
+theme[cpu_start]="#80d778"
+theme[cpu_mid]="#79afd2"
+theme[cpu_end]="#e1a7bf"
+
+# Mem/Disk free meter
+theme[free_start]="#80d778"
+theme[free_mid]="#79afd2"
+theme[free_end]="#e1a7bf"
+
+# Mem/Disk cached meter
+theme[cached_start]="#80d778"
+theme[cached_mid]="#79afd2"
+theme[cached_end]="#e1a7bf"
+
+# Mem/Disk available meter
+theme[available_start]="#80d778"
+theme[available_mid]="#79afd2"
+theme[available_end]="#e1a7bf"
+
+# Mem/Disk used meter
+theme[used_start]="#80d778"
+theme[used_mid]="#79afd2"
+theme[used_end]="#e1a7bf"
+
+# Download graph colors
+theme[download_start]="#80d778"
+theme[download_mid]="#79afd2"
+theme[download_end]="#e1a7bf"
+
+# Upload graph colors
+theme[upload_start]="#80d778"
+theme[upload_mid]="#79afd2"
+theme[upload_end]="#e1a7bf"

@@ -1,0 +1,85 @@
+# name: Seafoam Pastel
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: seafoam-pastel
+# slug-underscored: seafoam_pastel
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#243434"
+
+# Main text color
+theme[main_fg]="#cacaca"
+
+# Title color for boxes
+theme[title]="#cacaca"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4d7b82"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#757575"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cacaca"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#b5b5b5"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4d7b82"
+
+# Cpu box outline color
+theme[cpu_box]="#b5b5b5"
+
+# Memory/disks box outline color
+theme[mem_box]="#b5b5b5"
+
+# Net up/down box outline color
+theme[net_box]="#b5b5b5"
+
+# Processes box outline color
+theme[proc_box]="#b5b5b5"
+
+# Box divider line and small boxes line color
+theme[div_line]="#b5b5b5"
+
+# Temperature graph colors
+theme[temp_start]="#718c61"
+theme[temp_mid]="#79c3cf"
+theme[temp_end]="#825d4d"
+
+# CPU graph colors
+theme[cpu_start]="#718c61"
+theme[cpu_mid]="#79c3cf"
+theme[cpu_end]="#825d4d"
+
+# Mem/Disk free meter
+theme[free_start]="#718c61"
+theme[free_mid]="#79c3cf"
+theme[free_end]="#825d4d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#718c61"
+theme[cached_mid]="#79c3cf"
+theme[cached_end]="#825d4d"
+
+# Mem/Disk available meter
+theme[available_start]="#718c61"
+theme[available_mid]="#79c3cf"
+theme[available_end]="#825d4d"
+
+# Mem/Disk used meter
+theme[used_start]="#718c61"
+theme[used_mid]="#79c3cf"
+theme[used_end]="#825d4d"
+
+# Download graph colors
+theme[download_start]="#718c61"
+theme[download_mid]="#79c3cf"
+theme[download_end]="#825d4d"
+
+# Upload graph colors
+theme[upload_start]="#718c61"
+theme[upload_mid]="#79c3cf"
+theme[upload_end]="#825d4d"

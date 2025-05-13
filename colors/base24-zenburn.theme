@@ -1,0 +1,85 @@
+# name: Zenburn
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: zenburn
+# slug-underscored: zenburn
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#3f3f3f"
+
+# Main text color
+theme[main_fg]="#c1c9b9"
+
+# Title color for boxes
+theme[title]="#c1c9b9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#506070"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4d4d4d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c1c9b9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a6b6a6"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#506070"
+
+# Cpu box outline color
+theme[cpu_box]="#a6b6a6"
+
+# Memory/disks box outline color
+theme[mem_box]="#a6b6a6"
+
+# Net up/down box outline color
+theme[net_box]="#a6b6a6"
+
+# Processes box outline color
+theme[proc_box]="#a6b6a6"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a6b6a6"
+
+# Temperature graph colors
+theme[temp_start]="#60b48a"
+theme[temp_mid]="#94bff3"
+theme[temp_end]="#705050"
+
+# CPU graph colors
+theme[cpu_start]="#60b48a"
+theme[cpu_mid]="#94bff3"
+theme[cpu_end]="#705050"
+
+# Mem/Disk free meter
+theme[free_start]="#60b48a"
+theme[free_mid]="#94bff3"
+theme[free_end]="#705050"
+
+# Mem/Disk cached meter
+theme[cached_start]="#60b48a"
+theme[cached_mid]="#94bff3"
+theme[cached_end]="#705050"
+
+# Mem/Disk available meter
+theme[available_start]="#60b48a"
+theme[available_mid]="#94bff3"
+theme[available_end]="#705050"
+
+# Mem/Disk used meter
+theme[used_start]="#60b48a"
+theme[used_mid]="#94bff3"
+theme[used_end]="#705050"
+
+# Download graph colors
+theme[download_start]="#60b48a"
+theme[download_mid]="#94bff3"
+theme[download_end]="#705050"
+
+# Upload graph colors
+theme[upload_start]="#60b48a"
+theme[upload_mid]="#94bff3"
+theme[upload_end]="#705050"

@@ -1,0 +1,85 @@
+# name: Idle Toes
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: idle-toes
+# slug-underscored: idle_toes
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#323232"
+
+# Main text color
+theme[main_fg]="#c7c7c5"
+
+# Title color for boxes
+theme[title]="#c7c7c5"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4098ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#323232"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c7c7c5"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a0a09f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4098ff"
+
+# Cpu box outline color
+theme[cpu_box]="#a0a09f"
+
+# Memory/disks box outline color
+theme[mem_box]="#a0a09f"
+
+# Net up/down box outline color
+theme[net_box]="#a0a09f"
+
+# Processes box outline color
+theme[proc_box]="#a0a09f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a0a09f"
+
+# Temperature graph colors
+theme[temp_start]="#7fe173"
+theme[temp_mid]="#5eb7f7"
+theme[temp_end]="#d25252"
+
+# CPU graph colors
+theme[cpu_start]="#7fe173"
+theme[cpu_mid]="#5eb7f7"
+theme[cpu_end]="#d25252"
+
+# Mem/Disk free meter
+theme[free_start]="#7fe173"
+theme[free_mid]="#5eb7f7"
+theme[free_end]="#d25252"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7fe173"
+theme[cached_mid]="#5eb7f7"
+theme[cached_end]="#d25252"
+
+# Mem/Disk available meter
+theme[available_start]="#7fe173"
+theme[available_mid]="#5eb7f7"
+theme[available_end]="#d25252"
+
+# Mem/Disk used meter
+theme[used_start]="#7fe173"
+theme[used_mid]="#5eb7f7"
+theme[used_end]="#d25252"
+
+# Download graph colors
+theme[download_start]="#7fe173"
+theme[download_mid]="#5eb7f7"
+theme[download_end]="#d25252"
+
+# Upload graph colors
+theme[upload_start]="#7fe173"
+theme[upload_mid]="#5eb7f7"
+theme[upload_end]="#d25252"

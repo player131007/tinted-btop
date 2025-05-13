@@ -1,0 +1,85 @@
+# name: IC-Green-PPL
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: ic-green-ppl
+# slug-underscored: ic_green_ppl
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#2c2c2c"
+
+# Main text color
+theme[main_fg]="#add5b6"
+
+# Title color for boxes
+theme[title]="#add5b6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2ec3b9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#014401"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#add5b6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#74ad7a"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2ec3b9"
+
+# Cpu box outline color
+theme[cpu_box]="#74ad7a"
+
+# Memory/disks box outline color
+theme[mem_box]="#74ad7a"
+
+# Net up/down box outline color
+theme[net_box]="#74ad7a"
+
+# Processes box outline color
+theme[proc_box]="#74ad7a"
+
+# Box divider line and small boxes line color
+theme[div_line]="#74ad7a"
+
+# Temperature graph colors
+theme[temp_start]="#41a638"
+theme[temp_mid]="#2efaeb"
+theme[temp_end]="#fe2635"
+
+# CPU graph colors
+theme[cpu_start]="#41a638"
+theme[cpu_mid]="#2efaeb"
+theme[cpu_end]="#fe2635"
+
+# Mem/Disk free meter
+theme[free_start]="#41a638"
+theme[free_mid]="#2efaeb"
+theme[free_end]="#fe2635"
+
+# Mem/Disk cached meter
+theme[cached_start]="#41a638"
+theme[cached_mid]="#2efaeb"
+theme[cached_end]="#fe2635"
+
+# Mem/Disk available meter
+theme[available_start]="#41a638"
+theme[available_mid]="#2efaeb"
+theme[available_end]="#fe2635"
+
+# Mem/Disk used meter
+theme[used_start]="#41a638"
+theme[used_mid]="#2efaeb"
+theme[used_end]="#fe2635"
+
+# Download graph colors
+theme[download_start]="#41a638"
+theme[download_mid]="#2efaeb"
+theme[download_end]="#fe2635"
+
+# Upload graph colors
+theme[upload_start]="#41a638"
+theme[upload_mid]="#2efaeb"
+theme[upload_end]="#fe2635"

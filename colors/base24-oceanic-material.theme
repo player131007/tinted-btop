@@ -1,0 +1,85 @@
+# name: Oceanic Material
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: oceanic-material
+# slug-underscored: oceanic_material
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1c262b"
+
+# Main text color
+theme[main_fg]="#989898"
+
+# Title color for boxes
+theme[title]="#989898"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#1d80ef"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#989898"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8d8d8d"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#1d80ef"
+
+# Cpu box outline color
+theme[cpu_box]="#8d8d8d"
+
+# Memory/disks box outline color
+theme[mem_box]="#8d8d8d"
+
+# Net up/down box outline color
+theme[net_box]="#8d8d8d"
+
+# Processes box outline color
+theme[proc_box]="#8d8d8d"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8d8d8d"
+
+# Temperature graph colors
+theme[temp_start]="#3fa33f"
+theme[temp_mid]="#53a4f3"
+theme[temp_end]="#ee2a29"
+
+# CPU graph colors
+theme[cpu_start]="#3fa33f"
+theme[cpu_mid]="#53a4f3"
+theme[cpu_end]="#ee2a29"
+
+# Mem/Disk free meter
+theme[free_start]="#3fa33f"
+theme[free_mid]="#53a4f3"
+theme[free_end]="#ee2a29"
+
+# Mem/Disk cached meter
+theme[cached_start]="#3fa33f"
+theme[cached_mid]="#53a4f3"
+theme[cached_end]="#ee2a29"
+
+# Mem/Disk available meter
+theme[available_start]="#3fa33f"
+theme[available_mid]="#53a4f3"
+theme[available_end]="#ee2a29"
+
+# Mem/Disk used meter
+theme[used_start]="#3fa33f"
+theme[used_mid]="#53a4f3"
+theme[used_end]="#ee2a29"
+
+# Download graph colors
+theme[download_start]="#3fa33f"
+theme[download_mid]="#53a4f3"
+theme[download_end]="#ee2a29"
+
+# Upload graph colors
+theme[upload_start]="#3fa33f"
+theme[upload_mid]="#53a4f3"
+theme[upload_end]="#ee2a29"

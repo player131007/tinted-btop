@@ -1,0 +1,85 @@
+# name: Gruvbox Dark
+# author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
+# slug: gruvbox-dark
+# slug-underscored: gruvbox_dark
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#282828"
+
+# Main text color
+theme[main_fg]="#ebdbb2"
+
+# Title color for boxes
+theme[title]="#ebdbb2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#458588"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3c3836"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ebdbb2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#928374"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#458588"
+
+# Cpu box outline color
+theme[cpu_box]="#928374"
+
+# Memory/disks box outline color
+theme[mem_box]="#928374"
+
+# Net up/down box outline color
+theme[net_box]="#928374"
+
+# Processes box outline color
+theme[proc_box]="#928374"
+
+# Box divider line and small boxes line color
+theme[div_line]="#928374"
+
+# Temperature graph colors
+theme[temp_start]="#98971a"
+theme[temp_mid]="#d79921"
+theme[temp_end]="#cc241d"
+
+# CPU graph colors
+theme[cpu_start]="#98971a"
+theme[cpu_mid]="#d79921"
+theme[cpu_end]="#cc241d"
+
+# Mem/Disk free meter
+theme[free_start]="#98971a"
+theme[free_mid]="#d79921"
+theme[free_end]="#cc241d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#98971a"
+theme[cached_mid]="#d79921"
+theme[cached_end]="#cc241d"
+
+# Mem/Disk available meter
+theme[available_start]="#98971a"
+theme[available_mid]="#d79921"
+theme[available_end]="#cc241d"
+
+# Mem/Disk used meter
+theme[used_start]="#98971a"
+theme[used_mid]="#d79921"
+theme[used_end]="#cc241d"
+
+# Download graph colors
+theme[download_start]="#98971a"
+theme[download_mid]="#d79921"
+theme[download_end]="#cc241d"
+
+# Upload graph colors
+theme[upload_start]="#98971a"
+theme[upload_mid]="#d79921"
+theme[upload_end]="#cc241d"

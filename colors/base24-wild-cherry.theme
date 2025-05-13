@@ -1,0 +1,85 @@
+# name: Wild Cherry
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: wild-cherry
+# slug-underscored: wild_cherry
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1f1626"
+
+# Main text color
+theme[main_fg]="#bfe1d8"
+
+# Title color for boxes
+theme[title]="#bfe1d8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#883cdc"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000506"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#bfe1d8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7fcad3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#883cdc"
+
+# Cpu box outline color
+theme[cpu_box]="#7fcad3"
+
+# Memory/disks box outline color
+theme[mem_box]="#7fcad3"
+
+# Net up/down box outline color
+theme[net_box]="#7fcad3"
+
+# Processes box outline color
+theme[proc_box]="#7fcad3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7fcad3"
+
+# Temperature graph colors
+theme[temp_start]="#2ab250"
+theme[temp_mid]="#2f8bb9"
+theme[temp_end]="#d94085"
+
+# CPU graph colors
+theme[cpu_start]="#2ab250"
+theme[cpu_mid]="#2f8bb9"
+theme[cpu_end]="#d94085"
+
+# Mem/Disk free meter
+theme[free_start]="#2ab250"
+theme[free_mid]="#2f8bb9"
+theme[free_end]="#d94085"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2ab250"
+theme[cached_mid]="#2f8bb9"
+theme[cached_end]="#d94085"
+
+# Mem/Disk available meter
+theme[available_start]="#2ab250"
+theme[available_mid]="#2f8bb9"
+theme[available_end]="#d94085"
+
+# Mem/Disk used meter
+theme[used_start]="#2ab250"
+theme[used_mid]="#2f8bb9"
+theme[used_end]="#d94085"
+
+# Download graph colors
+theme[download_start]="#2ab250"
+theme[download_mid]="#2f8bb9"
+theme[download_end]="#d94085"
+
+# Upload graph colors
+theme[upload_start]="#2ab250"
+theme[upload_mid]="#2f8bb9"
+theme[upload_end]="#d94085"

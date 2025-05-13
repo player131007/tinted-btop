@@ -1,0 +1,85 @@
+# name: Vibrant Ink
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: vibrant-ink
+# slug-underscored: vibrant_ink
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#cdcdcd"
+
+# Title color for boxes
+theme[title]="#cdcdcd"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#44b3cc"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#878787"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cdcdcd"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a5a5a5"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#44b3cc"
+
+# Cpu box outline color
+theme[cpu_box]="#a5a5a5"
+
+# Memory/disks box outline color
+theme[mem_box]="#a5a5a5"
+
+# Net up/down box outline color
+theme[net_box]="#a5a5a5"
+
+# Processes box outline color
+theme[proc_box]="#a5a5a5"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a5a5a5"
+
+# Temperature graph colors
+theme[temp_start]="#ccff04"
+theme[temp_mid]="#0000ff"
+theme[temp_end]="#ff6600"
+
+# CPU graph colors
+theme[cpu_start]="#ccff04"
+theme[cpu_mid]="#0000ff"
+theme[cpu_end]="#ff6600"
+
+# Mem/Disk free meter
+theme[free_start]="#ccff04"
+theme[free_mid]="#0000ff"
+theme[free_end]="#ff6600"
+
+# Mem/Disk cached meter
+theme[cached_start]="#ccff04"
+theme[cached_mid]="#0000ff"
+theme[cached_end]="#ff6600"
+
+# Mem/Disk available meter
+theme[available_start]="#ccff04"
+theme[available_mid]="#0000ff"
+theme[available_end]="#ff6600"
+
+# Mem/Disk used meter
+theme[used_start]="#ccff04"
+theme[used_mid]="#0000ff"
+theme[used_end]="#ff6600"
+
+# Download graph colors
+theme[download_start]="#ccff04"
+theme[download_mid]="#0000ff"
+theme[download_end]="#ff6600"
+
+# Upload graph colors
+theme[upload_start]="#ccff04"
+theme[upload_mid]="#0000ff"
+theme[upload_end]="#ff6600"

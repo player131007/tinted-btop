@@ -1,0 +1,85 @@
+# name: Sparky
+# author: Leila Sother (https://github.com/mixcoac)
+# slug: sparky
+# slug-underscored: sparky
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#072b31"
+
+# Main text color
+theme[main_fg]="#f4f5f0"
+
+# Title color for boxes
+theme[title]="#f4f5f0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4698cb"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#00313c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f4f5f0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#00778b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4698cb"
+
+# Cpu box outline color
+theme[cpu_box]="#00778b"
+
+# Memory/disks box outline color
+theme[mem_box]="#00778b"
+
+# Net up/down box outline color
+theme[net_box]="#00778b"
+
+# Processes box outline color
+theme[proc_box]="#00778b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#00778b"
+
+# Temperature graph colors
+theme[temp_start]="#78d64b"
+theme[temp_mid]="#fbdd40"
+theme[temp_end]="#ff585d"
+
+# CPU graph colors
+theme[cpu_start]="#78d64b"
+theme[cpu_mid]="#fbdd40"
+theme[cpu_end]="#ff585d"
+
+# Mem/Disk free meter
+theme[free_start]="#78d64b"
+theme[free_mid]="#fbdd40"
+theme[free_end]="#ff585d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#78d64b"
+theme[cached_mid]="#fbdd40"
+theme[cached_end]="#ff585d"
+
+# Mem/Disk available meter
+theme[available_start]="#78d64b"
+theme[available_mid]="#fbdd40"
+theme[available_end]="#ff585d"
+
+# Mem/Disk used meter
+theme[used_start]="#78d64b"
+theme[used_mid]="#fbdd40"
+theme[used_end]="#ff585d"
+
+# Download graph colors
+theme[download_start]="#78d64b"
+theme[download_mid]="#fbdd40"
+theme[download_end]="#ff585d"
+
+# Upload graph colors
+theme[upload_start]="#78d64b"
+theme[upload_mid]="#fbdd40"
+theme[upload_end]="#ff585d"

@@ -1,0 +1,85 @@
+# name: Front End Delight
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: front-end-delight
+# slug-underscored: front_end_delight
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1b1b1d"
+
+# Main text color
+theme[main_fg]="#98ac9c"
+
+# Title color for boxes
+theme[title]="#98ac9c"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2c70b7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#242426"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#98ac9c"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#85ac8c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2c70b7"
+
+# Cpu box outline color
+theme[cpu_box]="#85ac8c"
+
+# Memory/disks box outline color
+theme[mem_box]="#85ac8c"
+
+# Net up/down box outline color
+theme[net_box]="#85ac8c"
+
+# Processes box outline color
+theme[proc_box]="#85ac8c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#85ac8c"
+
+# Temperature graph colors
+theme[temp_start]="#565746"
+theme[temp_mid]="#3393c9"
+theme[temp_end]="#f8501a"
+
+# CPU graph colors
+theme[cpu_start]="#565746"
+theme[cpu_mid]="#3393c9"
+theme[cpu_end]="#f8501a"
+
+# Mem/Disk free meter
+theme[free_start]="#565746"
+theme[free_mid]="#3393c9"
+theme[free_end]="#f8501a"
+
+# Mem/Disk cached meter
+theme[cached_start]="#565746"
+theme[cached_mid]="#3393c9"
+theme[cached_end]="#f8501a"
+
+# Mem/Disk available meter
+theme[available_start]="#565746"
+theme[available_mid]="#3393c9"
+theme[available_end]="#f8501a"
+
+# Mem/Disk used meter
+theme[used_start]="#565746"
+theme[used_mid]="#3393c9"
+theme[used_end]="#f8501a"
+
+# Download graph colors
+theme[download_start]="#565746"
+theme[download_mid]="#3393c9"
+theme[download_end]="#f8501a"
+
+# Upload graph colors
+theme[upload_start]="#565746"
+theme[upload_mid]="#3393c9"
+theme[upload_end]="#f8501a"

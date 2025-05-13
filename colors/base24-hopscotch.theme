@@ -1,0 +1,85 @@
+# name: Hopscotch
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: hopscotch
+# slug-underscored: hopscotch
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#322931"
+
+# Main text color
+theme[main_fg]="#a9a4a8"
+
+# Title color for boxes
+theme[title]="#a9a4a8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#1290bf"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#322931"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a9a4a8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#999498"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#1290bf"
+
+# Cpu box outline color
+theme[cpu_box]="#999498"
+
+# Memory/disks box outline color
+theme[mem_box]="#999498"
+
+# Net up/down box outline color
+theme[net_box]="#999498"
+
+# Processes box outline color
+theme[proc_box]="#999498"
+
+# Box divider line and small boxes line color
+theme[div_line]="#999498"
+
+# Temperature graph colors
+theme[temp_start]="#8fc13e"
+theme[temp_mid]="#989498"
+theme[temp_end]="#dd464c"
+
+# CPU graph colors
+theme[cpu_start]="#8fc13e"
+theme[cpu_mid]="#989498"
+theme[cpu_end]="#dd464c"
+
+# Mem/Disk free meter
+theme[free_start]="#8fc13e"
+theme[free_mid]="#989498"
+theme[free_end]="#dd464c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8fc13e"
+theme[cached_mid]="#989498"
+theme[cached_end]="#dd464c"
+
+# Mem/Disk available meter
+theme[available_start]="#8fc13e"
+theme[available_mid]="#989498"
+theme[available_end]="#dd464c"
+
+# Mem/Disk used meter
+theme[used_start]="#8fc13e"
+theme[used_mid]="#989498"
+theme[used_end]="#dd464c"
+
+# Download graph colors
+theme[download_start]="#8fc13e"
+theme[download_mid]="#989498"
+theme[download_end]="#dd464c"
+
+# Upload graph colors
+theme[upload_start]="#8fc13e"
+theme[upload_mid]="#989498"
+theme[upload_end]="#dd464c"

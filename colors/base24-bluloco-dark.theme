@@ -1,0 +1,85 @@
+# name: Bluloco Dark
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: bluloco-dark
+# slug-underscored: bluloco_dark
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1e2027"
+
+# Main text color
+theme[main_fg]="#b1bac9"
+
+# Title color for boxes
+theme[title]="#b1bac9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#285afe"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#494f5c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b1bac9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#969faf"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#285afe"
+
+# Cpu box outline color
+theme[cpu_box]="#969faf"
+
+# Memory/disks box outline color
+theme[mem_box]="#969faf"
+
+# Net up/down box outline color
+theme[net_box]="#969faf"
+
+# Processes box outline color
+theme[proc_box]="#969faf"
+
+# Box divider line and small boxes line color
+theme[div_line]="#969faf"
+
+# Temperature graph colors
+theme[temp_start]="#23974a"
+theme[temp_mid]="#189ffd"
+theme[temp_end]="#f71041"
+
+# CPU graph colors
+theme[cpu_start]="#23974a"
+theme[cpu_mid]="#189ffd"
+theme[cpu_end]="#f71041"
+
+# Mem/Disk free meter
+theme[free_start]="#23974a"
+theme[free_mid]="#189ffd"
+theme[free_end]="#f71041"
+
+# Mem/Disk cached meter
+theme[cached_start]="#23974a"
+theme[cached_mid]="#189ffd"
+theme[cached_end]="#f71041"
+
+# Mem/Disk available meter
+theme[available_start]="#23974a"
+theme[available_mid]="#189ffd"
+theme[available_end]="#f71041"
+
+# Mem/Disk used meter
+theme[used_start]="#23974a"
+theme[used_mid]="#189ffd"
+theme[used_end]="#f71041"
+
+# Download graph colors
+theme[download_start]="#23974a"
+theme[download_mid]="#189ffd"
+theme[download_end]="#f71041"
+
+# Upload graph colors
+theme[upload_start]="#23974a"
+theme[upload_mid]="#189ffd"
+theme[upload_end]="#f71041"

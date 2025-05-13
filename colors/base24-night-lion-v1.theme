@@ -1,0 +1,85 @@
+# name: Night Lion V1
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: night-lion-v1
+# slug-underscored: night_lion_v1
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#a1a1a1"
+
+# Title color for boxes
+theme[title]="#a1a1a1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#266ad7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4c4c4c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a1a1a1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#888888"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#266ad7"
+
+# Cpu box outline color
+theme[cpu_box]="#888888"
+
+# Memory/disks box outline color
+theme[mem_box]="#888888"
+
+# Net up/down box outline color
+theme[net_box]="#888888"
+
+# Processes box outline color
+theme[proc_box]="#888888"
+
+# Box divider line and small boxes line color
+theme[div_line]="#888888"
+
+# Temperature graph colors
+theme[temp_start]="#5ede8f"
+theme[temp_mid]="#5555ff"
+theme[temp_end]="#bb0000"
+
+# CPU graph colors
+theme[cpu_start]="#5ede8f"
+theme[cpu_mid]="#5555ff"
+theme[cpu_end]="#bb0000"
+
+# Mem/Disk free meter
+theme[free_start]="#5ede8f"
+theme[free_mid]="#5555ff"
+theme[free_end]="#bb0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#5ede8f"
+theme[cached_mid]="#5555ff"
+theme[cached_end]="#bb0000"
+
+# Mem/Disk available meter
+theme[available_start]="#5ede8f"
+theme[available_mid]="#5555ff"
+theme[available_end]="#bb0000"
+
+# Mem/Disk used meter
+theme[used_start]="#5ede8f"
+theme[used_mid]="#5555ff"
+theme[used_end]="#bb0000"
+
+# Download graph colors
+theme[download_start]="#5ede8f"
+theme[download_mid]="#5555ff"
+theme[download_end]="#bb0000"
+
+# Upload graph colors
+theme[upload_start]="#5ede8f"
+theme[upload_mid]="#5555ff"
+theme[upload_end]="#bb0000"

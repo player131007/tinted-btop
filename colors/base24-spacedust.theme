@@ -1,0 +1,85 @@
+# name: Spacedust
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: spacedust
+# slug-underscored: spacedust
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0a1e24"
+
+# Main text color
+theme[main_fg]="#cdc7a6"
+
+# Title color for boxes
+theme[title]="#cdc7a6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0e548b"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#6e5246"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cdc7a6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#ab9e7f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0e548b"
+
+# Cpu box outline color
+theme[cpu_box]="#ab9e7f"
+
+# Memory/disks box outline color
+theme[mem_box]="#ab9e7f"
+
+# Net up/down box outline color
+theme[net_box]="#ab9e7f"
+
+# Processes box outline color
+theme[proc_box]="#ab9e7f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#ab9e7f"
+
+# Temperature graph colors
+theme[temp_start]="#5cab96"
+theme[temp_mid]="#67a0cd"
+theme[temp_end]="#e35a00"
+
+# CPU graph colors
+theme[cpu_start]="#5cab96"
+theme[cpu_mid]="#67a0cd"
+theme[cpu_end]="#e35a00"
+
+# Mem/Disk free meter
+theme[free_start]="#5cab96"
+theme[free_mid]="#67a0cd"
+theme[free_end]="#e35a00"
+
+# Mem/Disk cached meter
+theme[cached_start]="#5cab96"
+theme[cached_mid]="#67a0cd"
+theme[cached_end]="#e35a00"
+
+# Mem/Disk available meter
+theme[available_start]="#5cab96"
+theme[available_mid]="#67a0cd"
+theme[available_end]="#e35a00"
+
+# Mem/Disk used meter
+theme[used_start]="#5cab96"
+theme[used_mid]="#67a0cd"
+theme[used_end]="#e35a00"
+
+# Download graph colors
+theme[download_start]="#5cab96"
+theme[download_mid]="#67a0cd"
+theme[download_end]="#e35a00"
+
+# Upload graph colors
+theme[upload_start]="#5cab96"
+theme[upload_mid]="#67a0cd"
+theme[upload_end]="#e35a00"

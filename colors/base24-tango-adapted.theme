@@ -1,0 +1,85 @@
+# name: Tango Adapted
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: tango-adapted
+# slug-underscored: tango_adapted
+# system: base24
+# variant: light
+
+# Main bg
+theme[main_bg]="#fffefe"
+
+# Main text color
+theme[main_fg]="#d0d4cb"
+
+# Title color for boxes
+theme[title]="#d0d4cb"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#00a1ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d0d4cb"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#babeb5"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#00a1ff"
+
+# Cpu box outline color
+theme[cpu_box]="#babeb5"
+
+# Memory/disks box outline color
+theme[mem_box]="#babeb5"
+
+# Net up/down box outline color
+theme[net_box]="#babeb5"
+
+# Processes box outline color
+theme[proc_box]="#babeb5"
+
+# Box divider line and small boxes line color
+theme[div_line]="#babeb5"
+
+# Temperature graph colors
+theme[temp_start]="#59d500"
+theme[temp_mid]="#88c9ff"
+theme[temp_end]="#ff0000"
+
+# CPU graph colors
+theme[cpu_start]="#59d500"
+theme[cpu_mid]="#88c9ff"
+theme[cpu_end]="#ff0000"
+
+# Mem/Disk free meter
+theme[free_start]="#59d500"
+theme[free_mid]="#88c9ff"
+theme[free_end]="#ff0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#59d500"
+theme[cached_mid]="#88c9ff"
+theme[cached_end]="#ff0000"
+
+# Mem/Disk available meter
+theme[available_start]="#59d500"
+theme[available_mid]="#88c9ff"
+theme[available_end]="#ff0000"
+
+# Mem/Disk used meter
+theme[used_start]="#59d500"
+theme[used_mid]="#88c9ff"
+theme[used_end]="#ff0000"
+
+# Download graph colors
+theme[download_start]="#59d500"
+theme[download_mid]="#88c9ff"
+theme[download_end]="#ff0000"
+
+# Upload graph colors
+theme[upload_start]="#59d500"
+theme[upload_mid]="#88c9ff"
+theme[upload_end]="#ff0000"

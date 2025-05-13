@@ -1,0 +1,85 @@
+# name: Royal
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: royal
+# slug-underscored: royal
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#100814"
+
+# Main text color
+theme[main_fg]="#49425a"
+
+# Title color for boxes
+theme[title]="#49425a"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6480af"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#241f2a"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#49425a"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#413b50"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6480af"
+
+# Cpu box outline color
+theme[cpu_box]="#413b50"
+
+# Memory/disks box outline color
+theme[mem_box]="#413b50"
+
+# Net up/down box outline color
+theme[net_box]="#413b50"
+
+# Processes box outline color
+theme[proc_box]="#413b50"
+
+# Box divider line and small boxes line color
+theme[div_line]="#413b50"
+
+# Temperature graph colors
+theme[temp_start]="#23801c"
+theme[temp_mid]="#8fb9f9"
+theme[temp_end]="#90274b"
+
+# CPU graph colors
+theme[cpu_start]="#23801c"
+theme[cpu_mid]="#8fb9f9"
+theme[cpu_end]="#90274b"
+
+# Mem/Disk free meter
+theme[free_start]="#23801c"
+theme[free_mid]="#8fb9f9"
+theme[free_end]="#90274b"
+
+# Mem/Disk cached meter
+theme[cached_start]="#23801c"
+theme[cached_mid]="#8fb9f9"
+theme[cached_end]="#90274b"
+
+# Mem/Disk available meter
+theme[available_start]="#23801c"
+theme[available_mid]="#8fb9f9"
+theme[available_end]="#90274b"
+
+# Mem/Disk used meter
+theme[used_start]="#23801c"
+theme[used_mid]="#8fb9f9"
+theme[used_end]="#90274b"
+
+# Download graph colors
+theme[download_start]="#23801c"
+theme[download_mid]="#8fb9f9"
+theme[download_end]="#90274b"
+
+# Upload graph colors
+theme[upload_start]="#23801c"
+theme[upload_mid]="#8fb9f9"
+theme[upload_end]="#90274b"

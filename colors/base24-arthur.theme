@@ -1,0 +1,85 @@
+# name: Arthur
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: arthur
+# slug-underscored: arthur
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1c1c1c"
+
+# Main text color
+theme[main_fg]="#a19083"
+
+# Title color for boxes
+theme[title]="#a19083"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6495ed"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3d352a"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a19083"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#88776e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6495ed"
+
+# Cpu box outline color
+theme[cpu_box]="#88776e"
+
+# Memory/disks box outline color
+theme[mem_box]="#88776e"
+
+# Net up/down box outline color
+theme[net_box]="#88776e"
+
+# Processes box outline color
+theme[proc_box]="#88776e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#88776e"
+
+# Temperature graph colors
+theme[temp_start]="#86af80"
+theme[temp_mid]="#87ceeb"
+theme[temp_end]="#cd5c5c"
+
+# CPU graph colors
+theme[cpu_start]="#86af80"
+theme[cpu_mid]="#87ceeb"
+theme[cpu_end]="#cd5c5c"
+
+# Mem/Disk free meter
+theme[free_start]="#86af80"
+theme[free_mid]="#87ceeb"
+theme[free_end]="#cd5c5c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#86af80"
+theme[cached_mid]="#87ceeb"
+theme[cached_end]="#cd5c5c"
+
+# Mem/Disk available meter
+theme[available_start]="#86af80"
+theme[available_mid]="#87ceeb"
+theme[available_end]="#cd5c5c"
+
+# Mem/Disk used meter
+theme[used_start]="#86af80"
+theme[used_mid]="#87ceeb"
+theme[used_end]="#cd5c5c"
+
+# Download graph colors
+theme[download_start]="#86af80"
+theme[download_mid]="#87ceeb"
+theme[download_end]="#cd5c5c"
+
+# Upload graph colors
+theme[upload_start]="#86af80"
+theme[upload_mid]="#87ceeb"
+theme[upload_end]="#cd5c5c"

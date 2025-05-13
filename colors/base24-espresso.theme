@@ -1,0 +1,85 @@
+# name: Espresso
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: espresso
+# slug-underscored: espresso
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#262626"
+
+# Main text color
+theme[main_fg]="#c7c7c5"
+
+# Title color for boxes
+theme[title]="#c7c7c5"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6c99bb"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#343434"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c7c7c5"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a0a09f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6c99bb"
+
+# Cpu box outline color
+theme[cpu_box]="#a0a09f"
+
+# Memory/disks box outline color
+theme[mem_box]="#a0a09f"
+
+# Net up/down box outline color
+theme[net_box]="#a0a09f"
+
+# Processes box outline color
+theme[proc_box]="#a0a09f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a0a09f"
+
+# Temperature graph colors
+theme[temp_start]="#a5c261"
+theme[temp_mid]="#8ab7d9"
+theme[temp_end]="#d25151"
+
+# CPU graph colors
+theme[cpu_start]="#a5c261"
+theme[cpu_mid]="#8ab7d9"
+theme[cpu_end]="#d25151"
+
+# Mem/Disk free meter
+theme[free_start]="#a5c261"
+theme[free_mid]="#8ab7d9"
+theme[free_end]="#d25151"
+
+# Mem/Disk cached meter
+theme[cached_start]="#a5c261"
+theme[cached_mid]="#8ab7d9"
+theme[cached_end]="#d25151"
+
+# Mem/Disk available meter
+theme[available_start]="#a5c261"
+theme[available_mid]="#8ab7d9"
+theme[available_end]="#d25151"
+
+# Mem/Disk used meter
+theme[used_start]="#a5c261"
+theme[used_mid]="#8ab7d9"
+theme[used_end]="#d25151"
+
+# Download graph colors
+theme[download_start]="#a5c261"
+theme[download_mid]="#8ab7d9"
+theme[download_end]="#d25151"
+
+# Upload graph colors
+theme[upload_start]="#a5c261"
+theme[upload_mid]="#8ab7d9"
+theme[upload_end]="#d25151"

@@ -1,0 +1,85 @@
+# name: Shaman
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: shaman
+# slug-underscored: shaman
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#001014"
+
+# Main text color
+theme[main_fg]="#3d5053"
+
+# Title color for boxes
+theme[title]="#3d5053"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#449985"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#012026"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#3d5053"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#3b4c52"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#449985"
+
+# Cpu box outline color
+theme[cpu_box]="#3b4c52"
+
+# Memory/disks box outline color
+theme[mem_box]="#3b4c52"
+
+# Net up/down box outline color
+theme[net_box]="#3b4c52"
+
+# Processes box outline color
+theme[proc_box]="#3b4c52"
+
+# Box divider line and small boxes line color
+theme[div_line]="#3b4c52"
+
+# Temperature graph colors
+theme[temp_start]="#00a940"
+theme[temp_mid]="#61d4b9"
+theme[temp_end]="#b12f2c"
+
+# CPU graph colors
+theme[cpu_start]="#00a940"
+theme[cpu_mid]="#61d4b9"
+theme[cpu_end]="#b12f2c"
+
+# Mem/Disk free meter
+theme[free_start]="#00a940"
+theme[free_mid]="#61d4b9"
+theme[free_end]="#b12f2c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#00a940"
+theme[cached_mid]="#61d4b9"
+theme[cached_end]="#b12f2c"
+
+# Mem/Disk available meter
+theme[available_start]="#00a940"
+theme[available_mid]="#61d4b9"
+theme[available_end]="#b12f2c"
+
+# Mem/Disk used meter
+theme[used_start]="#00a940"
+theme[used_mid]="#61d4b9"
+theme[used_end]="#b12f2c"
+
+# Download graph colors
+theme[download_start]="#00a940"
+theme[download_mid]="#61d4b9"
+theme[download_end]="#b12f2c"
+
+# Upload graph colors
+theme[upload_start]="#00a940"
+theme[upload_mid]="#61d4b9"
+theme[upload_end]="#b12f2c"

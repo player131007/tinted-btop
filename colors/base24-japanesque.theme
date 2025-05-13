@@ -1,0 +1,85 @@
+# name: Japanesque
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: japanesque
+# slug-underscored: japanesque
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1d1d1d"
+
+# Main text color
+theme[main_fg]="#d0d2ce"
+
+# Title color for boxes
+theme[title]="#d0d2ce"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4c99d3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#343835"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d0d2ce"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a8aaa7"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4c99d3"
+
+# Cpu box outline color
+theme[cpu_box]="#a8aaa7"
+
+# Memory/disks box outline color
+theme[mem_box]="#a8aaa7"
+
+# Net up/down box outline color
+theme[net_box]="#a8aaa7"
+
+# Processes box outline color
+theme[proc_box]="#a8aaa7"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a8aaa7"
+
+# Temperature graph colors
+theme[temp_start]="#7bb75b"
+theme[temp_mid]="#135879"
+theme[temp_end]="#ce3e60"
+
+# CPU graph colors
+theme[cpu_start]="#7bb75b"
+theme[cpu_mid]="#135879"
+theme[cpu_end]="#ce3e60"
+
+# Mem/Disk free meter
+theme[free_start]="#7bb75b"
+theme[free_mid]="#135879"
+theme[free_end]="#ce3e60"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7bb75b"
+theme[cached_mid]="#135879"
+theme[cached_end]="#ce3e60"
+
+# Mem/Disk available meter
+theme[available_start]="#7bb75b"
+theme[available_mid]="#135879"
+theme[available_end]="#ce3e60"
+
+# Mem/Disk used meter
+theme[used_start]="#7bb75b"
+theme[used_mid]="#135879"
+theme[used_end]="#ce3e60"
+
+# Download graph colors
+theme[download_start]="#7bb75b"
+theme[download_mid]="#135879"
+theme[download_end]="#ce3e60"
+
+# Upload graph colors
+theme[upload_start]="#7bb75b"
+theme[upload_mid]="#135879"
+theme[upload_end]="#ce3e60"

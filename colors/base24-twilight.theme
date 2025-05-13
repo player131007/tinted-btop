@@ -1,0 +1,85 @@
+# name: Twilight
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: twilight
+# slug-underscored: twilight
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#141414"
+
+# Main text color
+theme[main_fg]="#c8c8a7"
+
+# Title color for boxes
+theme[title]="#c8c8a7"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#444649"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#141414"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c8c8a7"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#92927c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#444649"
+
+# Cpu box outline color
+theme[cpu_box]="#92927c"
+
+# Memory/disks box outline color
+theme[mem_box]="#92927c"
+
+# Net up/down box outline color
+theme[net_box]="#92927c"
+
+# Processes box outline color
+theme[proc_box]="#92927c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#92927c"
+
+# Temperature graph colors
+theme[temp_start]="#afb979"
+theme[temp_mid]="#5a5d61"
+theme[temp_end]="#c06c43"
+
+# CPU graph colors
+theme[cpu_start]="#afb979"
+theme[cpu_mid]="#5a5d61"
+theme[cpu_end]="#c06c43"
+
+# Mem/Disk free meter
+theme[free_start]="#afb979"
+theme[free_mid]="#5a5d61"
+theme[free_end]="#c06c43"
+
+# Mem/Disk cached meter
+theme[cached_start]="#afb979"
+theme[cached_mid]="#5a5d61"
+theme[cached_end]="#c06c43"
+
+# Mem/Disk available meter
+theme[available_start]="#afb979"
+theme[available_mid]="#5a5d61"
+theme[available_end]="#c06c43"
+
+# Mem/Disk used meter
+theme[used_start]="#afb979"
+theme[used_mid]="#5a5d61"
+theme[used_end]="#c06c43"
+
+# Download graph colors
+theme[download_start]="#afb979"
+theme[download_mid]="#5a5d61"
+theme[download_end]="#c06c43"
+
+# Upload graph colors
+theme[upload_start]="#afb979"
+theme[upload_mid]="#5a5d61"
+theme[upload_end]="#c06c43"

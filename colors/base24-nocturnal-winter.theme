@@ -1,0 +1,85 @@
+# name: Nocturnal Winter
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: nocturnal-winter
+# slug-underscored: nocturnal_winter
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0d0d17"
+
+# Main text color
+theme[main_fg]="#dcdcdc"
+
+# Title color for boxes
+theme[title]="#dcdcdc"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3081df"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4c4c4c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#dcdcdc"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#bdbdbd"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3081df"
+
+# Cpu box outline color
+theme[cpu_box]="#bdbdbd"
+
+# Memory/disks box outline color
+theme[mem_box]="#bdbdbd"
+
+# Net up/down box outline color
+theme[net_box]="#bdbdbd"
+
+# Processes box outline color
+theme[proc_box]="#bdbdbd"
+
+# Box divider line and small boxes line color
+theme[div_line]="#bdbdbd"
+
+# Temperature graph colors
+theme[temp_start]="#08cd7d"
+theme[temp_mid]="#6095fe"
+theme[temp_end]="#f12d52"
+
+# CPU graph colors
+theme[cpu_start]="#08cd7d"
+theme[cpu_mid]="#6095fe"
+theme[cpu_end]="#f12d52"
+
+# Mem/Disk free meter
+theme[free_start]="#08cd7d"
+theme[free_mid]="#6095fe"
+theme[free_end]="#f12d52"
+
+# Mem/Disk cached meter
+theme[cached_start]="#08cd7d"
+theme[cached_mid]="#6095fe"
+theme[cached_end]="#f12d52"
+
+# Mem/Disk available meter
+theme[available_start]="#08cd7d"
+theme[available_mid]="#6095fe"
+theme[available_end]="#f12d52"
+
+# Mem/Disk used meter
+theme[used_start]="#08cd7d"
+theme[used_mid]="#6095fe"
+theme[used_end]="#f12d52"
+
+# Download graph colors
+theme[download_start]="#08cd7d"
+theme[download_mid]="#6095fe"
+theme[download_end]="#f12d52"
+
+# Upload graph colors
+theme[upload_start]="#08cd7d"
+theme[upload_mid]="#6095fe"
+theme[upload_end]="#f12d52"

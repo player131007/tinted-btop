@@ -1,0 +1,85 @@
+# name: Lovelace
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: lovelace
+# slug-underscored: lovelace
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1d1f28"
+
+# Main text color
+theme[main_fg]="#ceced3"
+
+# Title color for boxes
+theme[title]="#ceced3"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8897f4"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#282a36"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ceced3"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9fa0aa"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#8897f4"
+
+# Cpu box outline color
+theme[cpu_box]="#9fa0aa"
+
+# Memory/disks box outline color
+theme[mem_box]="#9fa0aa"
+
+# Net up/down box outline color
+theme[net_box]="#9fa0aa"
+
+# Processes box outline color
+theme[proc_box]="#9fa0aa"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9fa0aa"
+
+# Temperature graph colors
+theme[temp_start]="#5adecd"
+theme[temp_mid]="#556fff"
+theme[temp_end]="#f37f97"
+
+# CPU graph colors
+theme[cpu_start]="#5adecd"
+theme[cpu_mid]="#556fff"
+theme[cpu_end]="#f37f97"
+
+# Mem/Disk free meter
+theme[free_start]="#5adecd"
+theme[free_mid]="#556fff"
+theme[free_end]="#f37f97"
+
+# Mem/Disk cached meter
+theme[cached_start]="#5adecd"
+theme[cached_mid]="#556fff"
+theme[cached_end]="#f37f97"
+
+# Mem/Disk available meter
+theme[available_start]="#5adecd"
+theme[available_mid]="#556fff"
+theme[available_end]="#f37f97"
+
+# Mem/Disk used meter
+theme[used_start]="#5adecd"
+theme[used_mid]="#556fff"
+theme[used_end]="#f37f97"
+
+# Download graph colors
+theme[download_start]="#5adecd"
+theme[download_mid]="#556fff"
+theme[download_end]="#f37f97"
+
+# Upload graph colors
+theme[upload_start]="#5adecd"
+theme[upload_mid]="#556fff"
+theme[upload_end]="#f37f97"

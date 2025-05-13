@@ -1,0 +1,85 @@
+# name: Soft Server
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: soft-server
+# slug-underscored: soft_server
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#242626"
+
+# Main text color
+theme[main_fg]="#8c9594"
+
+# Title color for boxes
+theme[title]="#8c9594"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#6a8fa3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#8c9594"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7f8786"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#6a8fa3"
+
+# Cpu box outline color
+theme[cpu_box]="#7f8786"
+
+# Memory/disks box outline color
+theme[mem_box]="#7f8786"
+
+# Net up/down box outline color
+theme[net_box]="#7f8786"
+
+# Processes box outline color
+theme[proc_box]="#7f8786"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7f8786"
+
+# Temperature graph colors
+theme[temp_start]="#99a569"
+theme[temp_mid]="#62b1df"
+theme[temp_end]="#a16869"
+
+# CPU graph colors
+theme[cpu_start]="#99a569"
+theme[cpu_mid]="#62b1df"
+theme[cpu_end]="#a16869"
+
+# Mem/Disk free meter
+theme[free_start]="#99a569"
+theme[free_mid]="#62b1df"
+theme[free_end]="#a16869"
+
+# Mem/Disk cached meter
+theme[cached_start]="#99a569"
+theme[cached_mid]="#62b1df"
+theme[cached_end]="#a16869"
+
+# Mem/Disk available meter
+theme[available_start]="#99a569"
+theme[available_mid]="#62b1df"
+theme[available_end]="#a16869"
+
+# Mem/Disk used meter
+theme[used_start]="#99a569"
+theme[used_mid]="#62b1df"
+theme[used_end]="#a16869"
+
+# Download graph colors
+theme[download_start]="#99a569"
+theme[download_mid]="#62b1df"
+theme[download_end]="#a16869"
+
+# Upload graph colors
+theme[upload_start]="#99a569"
+theme[upload_mid]="#62b1df"
+theme[upload_end]="#a16869"

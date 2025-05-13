@@ -1,0 +1,85 @@
+# name: Rebecca
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: rebecca
+# slug-underscored: rebecca
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#292a44"
+
+# Main text color
+theme[main_fg]="#c3c3d4"
+
+# Title color for boxes
+theme[title]="#c3c3d4"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7aa5ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#12131d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c3c3d4"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a4a4c0"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7aa5ff"
+
+# Cpu box outline color
+theme[cpu_box]="#a4a4c0"
+
+# Memory/disks box outline color
+theme[mem_box]="#a4a4c0"
+
+# Net up/down box outline color
+theme[net_box]="#a4a4c0"
+
+# Processes box outline color
+theme[proc_box]="#a4a4c0"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a4a4c0"
+
+# Temperature graph colors
+theme[temp_start]="#04dbb4"
+theme[temp_mid]="#69bffa"
+theme[temp_end]="#dd7655"
+
+# CPU graph colors
+theme[cpu_start]="#04dbb4"
+theme[cpu_mid]="#69bffa"
+theme[cpu_end]="#dd7655"
+
+# Mem/Disk free meter
+theme[free_start]="#04dbb4"
+theme[free_mid]="#69bffa"
+theme[free_end]="#dd7655"
+
+# Mem/Disk cached meter
+theme[cached_start]="#04dbb4"
+theme[cached_mid]="#69bffa"
+theme[cached_end]="#dd7655"
+
+# Mem/Disk available meter
+theme[available_start]="#04dbb4"
+theme[available_mid]="#69bffa"
+theme[available_end]="#dd7655"
+
+# Mem/Disk used meter
+theme[used_start]="#04dbb4"
+theme[used_mid]="#69bffa"
+theme[used_end]="#dd7655"
+
+# Download graph colors
+theme[download_start]="#04dbb4"
+theme[download_mid]="#69bffa"
+theme[download_end]="#dd7655"
+
+# Upload graph colors
+theme[upload_start]="#04dbb4"
+theme[upload_mid]="#69bffa"
+theme[upload_end]="#dd7655"

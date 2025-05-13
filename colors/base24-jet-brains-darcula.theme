@@ -1,0 +1,85 @@
+# name: Jet Brains Darcula
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: jet-brains-darcula
+# slug-underscored: jet_brains_darcula
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#202020"
+
+# Main text color
+theme[main_fg]="#979797"
+
+# Title color for boxes
+theme[title]="#979797"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4581eb"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#979797"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#818181"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4581eb"
+
+# Cpu box outline color
+theme[cpu_box]="#818181"
+
+# Memory/disks box outline color
+theme[mem_box]="#818181"
+
+# Net up/down box outline color
+theme[net_box]="#818181"
+
+# Processes box outline color
+theme[proc_box]="#818181"
+
+# Box divider line and small boxes line color
+theme[div_line]="#818181"
+
+# Temperature graph colors
+theme[temp_start]="#126e00"
+theme[temp_mid]="#6d9df1"
+theme[temp_end]="#fa5355"
+
+# CPU graph colors
+theme[cpu_start]="#126e00"
+theme[cpu_mid]="#6d9df1"
+theme[cpu_end]="#fa5355"
+
+# Mem/Disk free meter
+theme[free_start]="#126e00"
+theme[free_mid]="#6d9df1"
+theme[free_end]="#fa5355"
+
+# Mem/Disk cached meter
+theme[cached_start]="#126e00"
+theme[cached_mid]="#6d9df1"
+theme[cached_end]="#fa5355"
+
+# Mem/Disk available meter
+theme[available_start]="#126e00"
+theme[available_mid]="#6d9df1"
+theme[available_end]="#fa5355"
+
+# Mem/Disk used meter
+theme[used_start]="#126e00"
+theme[used_mid]="#6d9df1"
+theme[used_end]="#fa5355"
+
+# Download graph colors
+theme[download_start]="#126e00"
+theme[download_mid]="#6d9df1"
+theme[download_end]="#fa5355"
+
+# Upload graph colors
+theme[upload_start]="#126e00"
+theme[upload_mid]="#6d9df1"
+theme[upload_end]="#fa5355"

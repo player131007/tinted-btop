@@ -1,0 +1,85 @@
+# name: Fun Forrest
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: fun-forrest
+# slug-underscored: fun_forrest
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#241200"
+
+# Main text color
+theme[main_fg]="#c5ab60"
+
+# Title color for boxes
+theme[title]="#c5ab60"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4698a2"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c5ab60"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#ad955c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4698a2"
+
+# Cpu box outline color
+theme[cpu_box]="#ad955c"
+
+# Memory/disks box outline color
+theme[mem_box]="#ad955c"
+
+# Net up/down box outline color
+theme[net_box]="#ad955c"
+
+# Processes box outline color
+theme[proc_box]="#ad955c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#ad955c"
+
+# Temperature graph colors
+theme[temp_start]="#909b00"
+theme[temp_mid]="#7cc9ce"
+theme[temp_end]="#d5252b"
+
+# CPU graph colors
+theme[cpu_start]="#909b00"
+theme[cpu_mid]="#7cc9ce"
+theme[cpu_end]="#d5252b"
+
+# Mem/Disk free meter
+theme[free_start]="#909b00"
+theme[free_mid]="#7cc9ce"
+theme[free_end]="#d5252b"
+
+# Mem/Disk cached meter
+theme[cached_start]="#909b00"
+theme[cached_mid]="#7cc9ce"
+theme[cached_end]="#d5252b"
+
+# Mem/Disk available meter
+theme[available_start]="#909b00"
+theme[available_mid]="#7cc9ce"
+theme[available_end]="#d5252b"
+
+# Mem/Disk used meter
+theme[used_start]="#909b00"
+theme[used_mid]="#7cc9ce"
+theme[used_end]="#d5252b"
+
+# Download graph colors
+theme[download_start]="#909b00"
+theme[download_mid]="#7cc9ce"
+theme[download_end]="#d5252b"
+
+# Upload graph colors
+theme[upload_start]="#909b00"
+theme[upload_mid]="#7cc9ce"
+theme[upload_end]="#d5252b"

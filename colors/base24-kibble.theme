@@ -1,0 +1,85 @@
+# name: Kibble
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: kibble
+# slug-underscored: kibble
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0e100a"
+
+# Main text color
+theme[main_fg]="#c0b3c0"
+
+# Title color for boxes
+theme[title]="#c0b3c0"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3449d1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4d4d4d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c0b3c0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#9e959e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3449d1"
+
+# Cpu box outline color
+theme[cpu_box]="#9e959e"
+
+# Memory/disks box outline color
+theme[mem_box]="#9e959e"
+
+# Net up/down box outline color
+theme[net_box]="#9e959e"
+
+# Processes box outline color
+theme[proc_box]="#9e959e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#9e959e"
+
+# Temperature graph colors
+theme[temp_start]="#29cf13"
+theme[temp_mid]="#97a4f7"
+theme[temp_end]="#c70031"
+
+# CPU graph colors
+theme[cpu_start]="#29cf13"
+theme[cpu_mid]="#97a4f7"
+theme[cpu_end]="#c70031"
+
+# Mem/Disk free meter
+theme[free_start]="#29cf13"
+theme[free_mid]="#97a4f7"
+theme[free_end]="#c70031"
+
+# Mem/Disk cached meter
+theme[cached_start]="#29cf13"
+theme[cached_mid]="#97a4f7"
+theme[cached_end]="#c70031"
+
+# Mem/Disk available meter
+theme[available_start]="#29cf13"
+theme[available_mid]="#97a4f7"
+theme[available_end]="#c70031"
+
+# Mem/Disk used meter
+theme[used_start]="#29cf13"
+theme[used_mid]="#97a4f7"
+theme[used_end]="#c70031"
+
+# Download graph colors
+theme[download_start]="#29cf13"
+theme[download_mid]="#97a4f7"
+theme[download_end]="#c70031"
+
+# Upload graph colors
+theme[upload_start]="#29cf13"
+theme[upload_mid]="#97a4f7"
+theme[upload_end]="#c70031"

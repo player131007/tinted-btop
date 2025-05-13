@@ -1,0 +1,85 @@
+# name: Night Owlish Light
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: night-owlish-light
+# slug-underscored: night_owlish_light
+# system: base24
+# variant: light
+
+# Main bg
+theme[main_bg]="#ffffff"
+
+# Main text color
+theme[main_fg]="#7a8181"
+
+# Title color for boxes
+theme[title]="#7a8181"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#4876d6"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#011627"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#7a8181"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7a8181"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#4876d6"
+
+# Cpu box outline color
+theme[cpu_box]="#7a8181"
+
+# Memory/disks box outline color
+theme[mem_box]="#7a8181"
+
+# Net up/down box outline color
+theme[net_box]="#7a8181"
+
+# Processes box outline color
+theme[proc_box]="#7a8181"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7a8181"
+
+# Temperature graph colors
+theme[temp_start]="#2aa298"
+theme[temp_mid]="#5ca7e4"
+theme[temp_end]="#d3423e"
+
+# CPU graph colors
+theme[cpu_start]="#2aa298"
+theme[cpu_mid]="#5ca7e4"
+theme[cpu_end]="#d3423e"
+
+# Mem/Disk free meter
+theme[free_start]="#2aa298"
+theme[free_mid]="#5ca7e4"
+theme[free_end]="#d3423e"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2aa298"
+theme[cached_mid]="#5ca7e4"
+theme[cached_end]="#d3423e"
+
+# Mem/Disk available meter
+theme[available_start]="#2aa298"
+theme[available_mid]="#5ca7e4"
+theme[available_end]="#d3423e"
+
+# Mem/Disk used meter
+theme[used_start]="#2aa298"
+theme[used_mid]="#5ca7e4"
+theme[used_end]="#d3423e"
+
+# Download graph colors
+theme[download_start]="#2aa298"
+theme[download_mid]="#5ca7e4"
+theme[download_end]="#d3423e"
+
+# Upload graph colors
+theme[upload_start]="#2aa298"
+theme[upload_mid]="#5ca7e4"
+theme[upload_end]="#d3423e"

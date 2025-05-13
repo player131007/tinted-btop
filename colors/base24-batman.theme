@@ -1,0 +1,85 @@
+# name: Batman
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: batman
+# slug-underscored: batman
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1b1d1e"
+
+# Main text color
+theme[main_fg]="#a7a8a3"
+
+# Title color for boxes
+theme[title]="#a7a8a3"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#737074"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1b1d1e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a7a8a3"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8a8c89"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#737074"
+
+# Cpu box outline color
+theme[cpu_box]="#8a8c89"
+
+# Memory/disks box outline color
+theme[mem_box]="#8a8c89"
+
+# Net up/down box outline color
+theme[net_box]="#8a8c89"
+
+# Processes box outline color
+theme[proc_box]="#8a8c89"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8a8c89"
+
+# Temperature graph colors
+theme[temp_start]="#c8be46"
+theme[temp_mid]="#909495"
+theme[temp_end]="#e6db43"
+
+# CPU graph colors
+theme[cpu_start]="#c8be46"
+theme[cpu_mid]="#909495"
+theme[cpu_end]="#e6db43"
+
+# Mem/Disk free meter
+theme[free_start]="#c8be46"
+theme[free_mid]="#909495"
+theme[free_end]="#e6db43"
+
+# Mem/Disk cached meter
+theme[cached_start]="#c8be46"
+theme[cached_mid]="#909495"
+theme[cached_end]="#e6db43"
+
+# Mem/Disk available meter
+theme[available_start]="#c8be46"
+theme[available_mid]="#909495"
+theme[available_end]="#e6db43"
+
+# Mem/Disk used meter
+theme[used_start]="#c8be46"
+theme[used_mid]="#909495"
+theme[used_end]="#e6db43"
+
+# Download graph colors
+theme[download_start]="#c8be46"
+theme[download_mid]="#909495"
+theme[download_end]="#e6db43"
+
+# Upload graph colors
+theme[upload_start]="#c8be46"
+theme[upload_mid]="#909495"
+theme[upload_end]="#e6db43"

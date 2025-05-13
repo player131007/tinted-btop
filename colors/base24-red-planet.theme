@@ -1,0 +1,85 @@
+# name: Red Planet
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: red-planet
+# slug-underscored: red_planet
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#222222"
+
+# Main text color
+theme[main_fg]="#a4998c"
+
+# Title color for boxes
+theme[title]="#a4998c"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#69809e"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#201f1f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a4998c"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#908880"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#69809e"
+
+# Cpu box outline color
+theme[cpu_box]="#908880"
+
+# Memory/disks box outline color
+theme[mem_box]="#908880"
+
+# Net up/down box outline color
+theme[net_box]="#908880"
+
+# Processes box outline color
+theme[proc_box]="#908880"
+
+# Box divider line and small boxes line color
+theme[div_line]="#908880"
+
+# Temperature graph colors
+theme[temp_start]="#728271"
+theme[temp_mid]="#60827e"
+theme[temp_end]="#8c3432"
+
+# CPU graph colors
+theme[cpu_start]="#728271"
+theme[cpu_mid]="#60827e"
+theme[cpu_end]="#8c3432"
+
+# Mem/Disk free meter
+theme[free_start]="#728271"
+theme[free_mid]="#60827e"
+theme[free_end]="#8c3432"
+
+# Mem/Disk cached meter
+theme[cached_start]="#728271"
+theme[cached_mid]="#60827e"
+theme[cached_end]="#8c3432"
+
+# Mem/Disk available meter
+theme[available_start]="#728271"
+theme[available_mid]="#60827e"
+theme[available_end]="#8c3432"
+
+# Mem/Disk used meter
+theme[used_start]="#728271"
+theme[used_mid]="#60827e"
+theme[used_end]="#8c3432"
+
+# Download graph colors
+theme[download_start]="#728271"
+theme[download_mid]="#60827e"
+theme[download_end]="#8c3432"
+
+# Upload graph colors
+theme[upload_start]="#728271"
+theme[upload_mid]="#60827e"
+theme[upload_end]="#8c3432"

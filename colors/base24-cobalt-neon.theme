@@ -1,0 +1,85 @@
+# name: Cobalt Neon
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: cobalt-neon
+# slug-underscored: cobalt_neon
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#142838"
+
+# Main text color
+theme[main_fg]="#cc72a6"
+
+# Title color for boxes
+theme[title]="#cc72a6"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8ff586"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#142630"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cc72a6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#dd9e9c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#8ff586"
+
+# Cpu box outline color
+theme[cpu_box]="#dd9e9c"
+
+# Memory/disks box outline color
+theme[mem_box]="#dd9e9c"
+
+# Net up/down box outline color
+theme[net_box]="#dd9e9c"
+
+# Processes box outline color
+theme[proc_box]="#dd9e9c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#dd9e9c"
+
+# Temperature graph colors
+theme[temp_start]="#3aa5ff"
+theme[temp_mid]="#3c7dd2"
+theme[temp_end]="#ff2320"
+
+# CPU graph colors
+theme[cpu_start]="#3aa5ff"
+theme[cpu_mid]="#3c7dd2"
+theme[cpu_end]="#ff2320"
+
+# Mem/Disk free meter
+theme[free_start]="#3aa5ff"
+theme[free_mid]="#3c7dd2"
+theme[free_end]="#ff2320"
+
+# Mem/Disk cached meter
+theme[cached_start]="#3aa5ff"
+theme[cached_mid]="#3c7dd2"
+theme[cached_end]="#ff2320"
+
+# Mem/Disk available meter
+theme[available_start]="#3aa5ff"
+theme[available_mid]="#3c7dd2"
+theme[available_end]="#ff2320"
+
+# Mem/Disk used meter
+theme[used_start]="#3aa5ff"
+theme[used_mid]="#3c7dd2"
+theme[used_end]="#ff2320"
+
+# Download graph colors
+theme[download_start]="#3aa5ff"
+theme[download_mid]="#3c7dd2"
+theme[download_end]="#ff2320"
+
+# Upload graph colors
+theme[upload_start]="#3aa5ff"
+theme[upload_mid]="#3c7dd2"
+theme[upload_end]="#ff2320"

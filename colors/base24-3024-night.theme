@@ -1,0 +1,85 @@
+# name: 3024 Night
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: 3024-night
+# slug-underscored: 3024_night
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#090300"
+
+# Main text color
+theme[main_fg]="#928f8e"
+
+# Title color for boxes
+theme[title]="#928f8e"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#01a0e4"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#090300"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#928f8e"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#807d7b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#01a0e4"
+
+# Cpu box outline color
+theme[cpu_box]="#807d7b"
+
+# Memory/disks box outline color
+theme[mem_box]="#807d7b"
+
+# Net up/down box outline color
+theme[net_box]="#807d7b"
+
+# Processes box outline color
+theme[proc_box]="#807d7b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#807d7b"
+
+# Temperature graph colors
+theme[temp_start]="#01a252"
+theme[temp_mid]="#807d7c"
+theme[temp_end]="#db2d20"
+
+# CPU graph colors
+theme[cpu_start]="#01a252"
+theme[cpu_mid]="#807d7c"
+theme[cpu_end]="#db2d20"
+
+# Mem/Disk free meter
+theme[free_start]="#01a252"
+theme[free_mid]="#807d7c"
+theme[free_end]="#db2d20"
+
+# Mem/Disk cached meter
+theme[cached_start]="#01a252"
+theme[cached_mid]="#807d7c"
+theme[cached_end]="#db2d20"
+
+# Mem/Disk available meter
+theme[available_start]="#01a252"
+theme[available_mid]="#807d7c"
+theme[available_end]="#db2d20"
+
+# Mem/Disk used meter
+theme[used_start]="#01a252"
+theme[used_mid]="#807d7c"
+theme[used_end]="#db2d20"
+
+# Download graph colors
+theme[download_start]="#01a252"
+theme[download_mid]="#807d7c"
+theme[download_end]="#db2d20"
+
+# Upload graph colors
+theme[upload_start]="#01a252"
+theme[upload_mid]="#807d7c"
+theme[upload_end]="#db2d20"

@@ -1,0 +1,85 @@
+# name: ENCOM
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: encom
+# slug-underscored: encom
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#a1a1a1"
+
+# Title color for boxes
+theme[title]="#a1a1a1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0081ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a1a1a1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#888888"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#0081ff"
+
+# Cpu box outline color
+theme[cpu_box]="#888888"
+
+# Memory/disks box outline color
+theme[mem_box]="#888888"
+
+# Net up/down box outline color
+theme[net_box]="#888888"
+
+# Processes box outline color
+theme[proc_box]="#888888"
+
+# Box divider line and small boxes line color
+theme[div_line]="#888888"
+
+# Temperature graph colors
+theme[temp_start]="#008b00"
+theme[temp_mid]="#0000ff"
+theme[temp_end]="#9f0000"
+
+# CPU graph colors
+theme[cpu_start]="#008b00"
+theme[cpu_mid]="#0000ff"
+theme[cpu_end]="#9f0000"
+
+# Mem/Disk free meter
+theme[free_start]="#008b00"
+theme[free_mid]="#0000ff"
+theme[free_end]="#9f0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#008b00"
+theme[cached_mid]="#0000ff"
+theme[cached_end]="#9f0000"
+
+# Mem/Disk available meter
+theme[available_start]="#008b00"
+theme[available_mid]="#0000ff"
+theme[available_end]="#9f0000"
+
+# Mem/Disk used meter
+theme[used_start]="#008b00"
+theme[used_mid]="#0000ff"
+theme[used_end]="#9f0000"
+
+# Download graph colors
+theme[download_start]="#008b00"
+theme[download_mid]="#0000ff"
+theme[download_end]="#9f0000"
+
+# Upload graph colors
+theme[upload_start]="#008b00"
+theme[upload_mid]="#0000ff"
+theme[upload_end]="#9f0000"

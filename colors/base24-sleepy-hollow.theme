@@ -1,0 +1,85 @@
+# name: Sleepy Hollow
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: sleepy-hollow
+# slug-underscored: sleepy_hollow
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#121213"
+
+# Main text color
+theme[main_fg]="#968684"
+
+# Title color for boxes
+theme[title]="#968684"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5e62b4"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#572000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#968684"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7e7278"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5e62b4"
+
+# Cpu box outline color
+theme[cpu_box]="#7e7278"
+
+# Memory/disks box outline color
+theme[mem_box]="#7e7278"
+
+# Net up/down box outline color
+theme[net_box]="#7e7278"
+
+# Processes box outline color
+theme[proc_box]="#7e7278"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7e7278"
+
+# Temperature graph colors
+theme[temp_start]="#90773e"
+theme[temp_mid]="#8085ef"
+theme[temp_end]="#b93934"
+
+# CPU graph colors
+theme[cpu_start]="#90773e"
+theme[cpu_mid]="#8085ef"
+theme[cpu_end]="#b93934"
+
+# Mem/Disk free meter
+theme[free_start]="#90773e"
+theme[free_mid]="#8085ef"
+theme[free_end]="#b93934"
+
+# Mem/Disk cached meter
+theme[cached_start]="#90773e"
+theme[cached_mid]="#8085ef"
+theme[cached_end]="#b93934"
+
+# Mem/Disk available meter
+theme[available_start]="#90773e"
+theme[available_mid]="#8085ef"
+theme[available_end]="#b93934"
+
+# Mem/Disk used meter
+theme[used_start]="#90773e"
+theme[used_mid]="#8085ef"
+theme[used_end]="#b93934"
+
+# Download graph colors
+theme[download_start]="#90773e"
+theme[download_mid]="#8085ef"
+theme[download_end]="#b93934"
+
+# Upload graph colors
+theme[upload_start]="#90773e"
+theme[upload_mid]="#8085ef"
+theme[upload_end]="#b93934"

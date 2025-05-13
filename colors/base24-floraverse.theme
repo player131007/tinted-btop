@@ -1,0 +1,85 @@
+# name: Floraverse
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: floraverse
+# slug-underscored: floraverse
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0e0c15"
+
+# Main text color
+theme[main_fg]="#c3af9d"
+
+# Title color for boxes
+theme[title]="#c3af9d"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#1d6da1"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#08002e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c3af9d"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#937f82"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#1d6da1"
+
+# Cpu box outline color
+theme[cpu_box]="#937f82"
+
+# Memory/disks box outline color
+theme[mem_box]="#937f82"
+
+# Net up/down box outline color
+theme[net_box]="#937f82"
+
+# Processes box outline color
+theme[proc_box]="#937f82"
+
+# Box divider line and small boxes line color
+theme[div_line]="#937f82"
+
+# Temperature graph colors
+theme[temp_start]="#5d731a"
+theme[temp_mid]="#40a4cf"
+theme[temp_end]="#64002c"
+
+# CPU graph colors
+theme[cpu_start]="#5d731a"
+theme[cpu_mid]="#40a4cf"
+theme[cpu_end]="#64002c"
+
+# Mem/Disk free meter
+theme[free_start]="#5d731a"
+theme[free_mid]="#40a4cf"
+theme[free_end]="#64002c"
+
+# Mem/Disk cached meter
+theme[cached_start]="#5d731a"
+theme[cached_mid]="#40a4cf"
+theme[cached_end]="#64002c"
+
+# Mem/Disk available meter
+theme[available_start]="#5d731a"
+theme[available_mid]="#40a4cf"
+theme[available_end]="#64002c"
+
+# Mem/Disk used meter
+theme[used_start]="#5d731a"
+theme[used_mid]="#40a4cf"
+theme[used_end]="#64002c"
+
+# Download graph colors
+theme[download_start]="#5d731a"
+theme[download_mid]="#40a4cf"
+theme[download_end]="#64002c"
+
+# Upload graph colors
+theme[upload_start]="#5d731a"
+theme[upload_mid]="#40a4cf"
+theme[upload_end]="#64002c"

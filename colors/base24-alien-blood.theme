@@ -1,0 +1,85 @@
+# name: Alien Blood
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: alien-blood
+# slug-underscored: alien_blood
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0f160f"
+
+# Main text color
+theme[main_fg]="#5a6f5c"
+
+# Title color for boxes
+theme[title]="#5a6f5c"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2f697f"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#112615"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#5a6f5c"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#506243"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2f697f"
+
+# Cpu box outline color
+theme[cpu_box]="#506243"
+
+# Memory/disks box outline color
+theme[mem_box]="#506243"
+
+# Net up/down box outline color
+theme[net_box]="#506243"
+
+# Processes box outline color
+theme[proc_box]="#506243"
+
+# Box divider line and small boxes line color
+theme[div_line]="#506243"
+
+# Temperature graph colors
+theme[temp_start]="#2f7e25"
+theme[temp_mid]="#00a9df"
+theme[temp_end]="#7f2b26"
+
+# CPU graph colors
+theme[cpu_start]="#2f7e25"
+theme[cpu_mid]="#00a9df"
+theme[cpu_end]="#7f2b26"
+
+# Mem/Disk free meter
+theme[free_start]="#2f7e25"
+theme[free_mid]="#00a9df"
+theme[free_end]="#7f2b26"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2f7e25"
+theme[cached_mid]="#00a9df"
+theme[cached_end]="#7f2b26"
+
+# Mem/Disk available meter
+theme[available_start]="#2f7e25"
+theme[available_mid]="#00a9df"
+theme[available_end]="#7f2b26"
+
+# Mem/Disk used meter
+theme[used_start]="#2f7e25"
+theme[used_mid]="#00a9df"
+theme[used_end]="#7f2b26"
+
+# Download graph colors
+theme[download_start]="#2f7e25"
+theme[download_mid]="#00a9df"
+theme[download_end]="#7f2b26"
+
+# Upload graph colors
+theme[upload_start]="#2f7e25"
+theme[upload_mid]="#00a9df"
+theme[upload_end]="#7f2b26"

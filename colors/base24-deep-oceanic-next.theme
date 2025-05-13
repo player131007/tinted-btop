@@ -1,0 +1,85 @@
+# name: Deep Oceanic Next
+# author: spearkkk (https://github.com/spearkkk)
+# slug: deep-oceanic-next
+# slug-underscored: deep_oceanic_next
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#001c1f"
+
+# Main text color
+theme[main_fg]="#d4e1e8"
+
+# Title color for boxes
+theme[title]="#d4e1e8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#568ccf"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#002931"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d4e1e8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#0093a3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#568ccf"
+
+# Cpu box outline color
+theme[cpu_box]="#0093a3"
+
+# Memory/disks box outline color
+theme[mem_box]="#0093a3"
+
+# Net up/down box outline color
+theme[net_box]="#0093a3"
+
+# Processes box outline color
+theme[proc_box]="#0093a3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#0093a3"
+
+# Temperature graph colors
+theme[temp_start]="#63b784"
+theme[temp_mid]="#f3b863"
+theme[temp_end]="#d3464d"
+
+# CPU graph colors
+theme[cpu_start]="#63b784"
+theme[cpu_mid]="#f3b863"
+theme[cpu_end]="#d3464d"
+
+# Mem/Disk free meter
+theme[free_start]="#63b784"
+theme[free_mid]="#f3b863"
+theme[free_end]="#d3464d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#63b784"
+theme[cached_mid]="#f3b863"
+theme[cached_end]="#d3464d"
+
+# Mem/Disk available meter
+theme[available_start]="#63b784"
+theme[available_mid]="#f3b863"
+theme[available_end]="#d3464d"
+
+# Mem/Disk used meter
+theme[used_start]="#63b784"
+theme[used_mid]="#f3b863"
+theme[used_end]="#d3464d"
+
+# Download graph colors
+theme[download_start]="#63b784"
+theme[download_mid]="#f3b863"
+theme[download_end]="#d3464d"
+
+# Upload graph colors
+theme[upload_start]="#63b784"
+theme[upload_mid]="#f3b863"
+theme[upload_end]="#d3464d"

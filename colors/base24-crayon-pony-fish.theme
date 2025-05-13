@@ -1,0 +1,85 @@
+# name: Crayon Pony Fish
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: crayon-pony-fish
+# slug-underscored: crayon_pony_fish
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#140607"
+
+# Main text color
+theme[main_fg]="#5d484e"
+
+# Title color for boxes
+theme[title]="#5d484e"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8b87af"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2a1a1c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#5d484e"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#523e43"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#8b87af"
+
+# Cpu box outline color
+theme[cpu_box]="#523e43"
+
+# Memory/disks box outline color
+theme[mem_box]="#523e43"
+
+# Net up/down box outline color
+theme[net_box]="#523e43"
+
+# Processes box outline color
+theme[proc_box]="#523e43"
+
+# Box divider line and small boxes line color
+theme[div_line]="#523e43"
+
+# Temperature graph colors
+theme[temp_start]="#579523"
+theme[temp_mid]="#cfc9ff"
+theme[temp_end]="#90002a"
+
+# CPU graph colors
+theme[cpu_start]="#579523"
+theme[cpu_mid]="#cfc9ff"
+theme[cpu_end]="#90002a"
+
+# Mem/Disk free meter
+theme[free_start]="#579523"
+theme[free_mid]="#cfc9ff"
+theme[free_end]="#90002a"
+
+# Mem/Disk cached meter
+theme[cached_start]="#579523"
+theme[cached_mid]="#cfc9ff"
+theme[cached_end]="#90002a"
+
+# Mem/Disk available meter
+theme[available_start]="#579523"
+theme[available_mid]="#cfc9ff"
+theme[available_end]="#90002a"
+
+# Mem/Disk used meter
+theme[used_start]="#579523"
+theme[used_mid]="#cfc9ff"
+theme[used_end]="#90002a"
+
+# Download graph colors
+theme[download_start]="#579523"
+theme[download_mid]="#cfc9ff"
+theme[download_end]="#90002a"
+
+# Upload graph colors
+theme[upload_start]="#579523"
+theme[upload_mid]="#cfc9ff"
+theme[upload_end]="#90002a"

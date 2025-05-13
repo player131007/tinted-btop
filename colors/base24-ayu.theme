@@ -1,0 +1,85 @@
+# name: ayu
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: ayu
+# slug-underscored: ayu
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0f1419"
+
+# Main text color
+theme[main_fg]="#cbcbcb"
+
+# Title color for boxes
+theme[title]="#cbcbcb"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#36a3d9"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cbcbcb"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#989898"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#36a3d9"
+
+# Cpu box outline color
+theme[cpu_box]="#989898"
+
+# Memory/disks box outline color
+theme[mem_box]="#989898"
+
+# Net up/down box outline color
+theme[net_box]="#989898"
+
+# Processes box outline color
+theme[proc_box]="#989898"
+
+# Box divider line and small boxes line color
+theme[div_line]="#989898"
+
+# Temperature graph colors
+theme[temp_start]="#b8cc52"
+theme[temp_mid]="#68d5ff"
+theme[temp_end]="#ff3333"
+
+# CPU graph colors
+theme[cpu_start]="#b8cc52"
+theme[cpu_mid]="#68d5ff"
+theme[cpu_end]="#ff3333"
+
+# Mem/Disk free meter
+theme[free_start]="#b8cc52"
+theme[free_mid]="#68d5ff"
+theme[free_end]="#ff3333"
+
+# Mem/Disk cached meter
+theme[cached_start]="#b8cc52"
+theme[cached_mid]="#68d5ff"
+theme[cached_end]="#ff3333"
+
+# Mem/Disk available meter
+theme[available_start]="#b8cc52"
+theme[available_mid]="#68d5ff"
+theme[available_end]="#ff3333"
+
+# Mem/Disk used meter
+theme[used_start]="#b8cc52"
+theme[used_mid]="#68d5ff"
+theme[used_end]="#ff3333"
+
+# Download graph colors
+theme[download_start]="#b8cc52"
+theme[download_mid]="#68d5ff"
+theme[download_end]="#ff3333"
+
+# Upload graph colors
+theme[upload_start]="#b8cc52"
+theme[upload_mid]="#68d5ff"
+theme[upload_end]="#ff3333"

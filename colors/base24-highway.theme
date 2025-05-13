@@ -1,0 +1,85 @@
+# name: Highway
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: highway
+# slug-underscored: highway
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#212224"
+
+# Main text color
+theme[main_fg]="#c8c5c4"
+
+# Title color for boxes
+theme[title]="#c8c5c4"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#006ab3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c8c5c4"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a49e9b"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#006ab3"
+
+# Cpu box outline color
+theme[cpu_box]="#a49e9b"
+
+# Memory/disks box outline color
+theme[mem_box]="#a49e9b"
+
+# Net up/down box outline color
+theme[net_box]="#a49e9b"
+
+# Processes box outline color
+theme[proc_box]="#a49e9b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a49e9b"
+
+# Temperature graph colors
+theme[temp_start]="#128033"
+theme[temp_mid]="#4fc2fd"
+theme[temp_end]="#cf0d17"
+
+# CPU graph colors
+theme[cpu_start]="#128033"
+theme[cpu_mid]="#4fc2fd"
+theme[cpu_end]="#cf0d17"
+
+# Mem/Disk free meter
+theme[free_start]="#128033"
+theme[free_mid]="#4fc2fd"
+theme[free_end]="#cf0d17"
+
+# Mem/Disk cached meter
+theme[cached_start]="#128033"
+theme[cached_mid]="#4fc2fd"
+theme[cached_end]="#cf0d17"
+
+# Mem/Disk available meter
+theme[available_start]="#128033"
+theme[available_mid]="#4fc2fd"
+theme[available_end]="#cf0d17"
+
+# Mem/Disk used meter
+theme[used_start]="#128033"
+theme[used_mid]="#4fc2fd"
+theme[used_end]="#cf0d17"
+
+# Download graph colors
+theme[download_start]="#128033"
+theme[download_mid]="#4fc2fd"
+theme[download_end]="#cf0d17"
+
+# Upload graph colors
+theme[upload_start]="#128033"
+theme[upload_mid]="#4fc2fd"
+theme[upload_end]="#cf0d17"

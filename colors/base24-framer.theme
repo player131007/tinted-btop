@@ -1,0 +1,85 @@
+# name: Framer
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: framer
+# slug-underscored: framer
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#111111"
+
+# Main text color
+theme[main_fg]="#a9a9a9"
+
+# Title color for boxes
+theme[title]="#a9a9a9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#00aaff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#141414"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a9a9a9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#868686"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#00aaff"
+
+# Cpu box outline color
+theme[cpu_box]="#868686"
+
+# Memory/disks box outline color
+theme[mem_box]="#868686"
+
+# Net up/down box outline color
+theme[net_box]="#868686"
+
+# Processes box outline color
+theme[proc_box]="#868686"
+
+# Box divider line and small boxes line color
+theme[div_line]="#868686"
+
+# Temperature graph colors
+theme[temp_start]="#98ec65"
+theme[temp_mid]="#33bbff"
+theme[temp_end]="#ff5555"
+
+# CPU graph colors
+theme[cpu_start]="#98ec65"
+theme[cpu_mid]="#33bbff"
+theme[cpu_end]="#ff5555"
+
+# Mem/Disk free meter
+theme[free_start]="#98ec65"
+theme[free_mid]="#33bbff"
+theme[free_end]="#ff5555"
+
+# Mem/Disk cached meter
+theme[cached_start]="#98ec65"
+theme[cached_mid]="#33bbff"
+theme[cached_end]="#ff5555"
+
+# Mem/Disk available meter
+theme[available_start]="#98ec65"
+theme[available_mid]="#33bbff"
+theme[available_end]="#ff5555"
+
+# Mem/Disk used meter
+theme[used_start]="#98ec65"
+theme[used_mid]="#33bbff"
+theme[used_end]="#ff5555"
+
+# Download graph colors
+theme[download_start]="#98ec65"
+theme[download_mid]="#33bbff"
+theme[download_end]="#ff5555"
+
+# Upload graph colors
+theme[upload_start]="#98ec65"
+theme[upload_mid]="#33bbff"
+theme[upload_end]="#ff5555"

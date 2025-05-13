@@ -1,0 +1,85 @@
+# name: Galaxy
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: galaxy
+# slug-underscored: galaxy
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1c2836"
+
+# Main text color
+theme[main_fg]="#a1a1a1"
+
+# Title color for boxes
+theme[title]="#a1a1a1"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#589cf5"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a1a1a1"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#888888"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#589cf5"
+
+# Cpu box outline color
+theme[cpu_box]="#888888"
+
+# Memory/disks box outline color
+theme[mem_box]="#888888"
+
+# Net up/down box outline color
+theme[net_box]="#888888"
+
+# Processes box outline color
+theme[proc_box]="#888888"
+
+# Box divider line and small boxes line color
+theme[div_line]="#888888"
+
+# Temperature graph colors
+theme[temp_start]="#20af89"
+theme[temp_mid]="#589cf5"
+theme[temp_end]="#f9555f"
+
+# CPU graph colors
+theme[cpu_start]="#20af89"
+theme[cpu_mid]="#589cf5"
+theme[cpu_end]="#f9555f"
+
+# Mem/Disk free meter
+theme[free_start]="#20af89"
+theme[free_mid]="#589cf5"
+theme[free_end]="#f9555f"
+
+# Mem/Disk cached meter
+theme[cached_start]="#20af89"
+theme[cached_mid]="#589cf5"
+theme[cached_end]="#f9555f"
+
+# Mem/Disk available meter
+theme[available_start]="#20af89"
+theme[available_mid]="#589cf5"
+theme[available_end]="#f9555f"
+
+# Mem/Disk used meter
+theme[used_start]="#20af89"
+theme[used_mid]="#589cf5"
+theme[used_end]="#f9555f"
+
+# Download graph colors
+theme[download_start]="#20af89"
+theme[download_mid]="#589cf5"
+theme[download_end]="#f9555f"
+
+# Upload graph colors
+theme[upload_start]="#20af89"
+theme[upload_mid]="#589cf5"
+theme[upload_end]="#f9555f"

@@ -1,0 +1,85 @@
+# name: Blazer
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: blazer
+# slug-underscored: blazer
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#0d1926"
+
+# Main text color
+theme[main_fg]="#acacac"
+
+# Title color for boxes
+theme[title]="#acacac"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#7a7ab8"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#000000"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#acacac"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7f7f7f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7a7ab8"
+
+# Cpu box outline color
+theme[cpu_box]="#7f7f7f"
+
+# Memory/disks box outline color
+theme[mem_box]="#7f7f7f"
+
+# Net up/down box outline color
+theme[net_box]="#7f7f7f"
+
+# Processes box outline color
+theme[proc_box]="#7f7f7f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7f7f7f"
+
+# Temperature graph colors
+theme[temp_start]="#7ab87a"
+theme[temp_mid]="#bdbddb"
+theme[temp_end]="#b87a7a"
+
+# CPU graph colors
+theme[cpu_start]="#7ab87a"
+theme[cpu_mid]="#bdbddb"
+theme[cpu_end]="#b87a7a"
+
+# Mem/Disk free meter
+theme[free_start]="#7ab87a"
+theme[free_mid]="#bdbddb"
+theme[free_end]="#b87a7a"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7ab87a"
+theme[cached_mid]="#bdbddb"
+theme[cached_end]="#b87a7a"
+
+# Mem/Disk available meter
+theme[available_start]="#7ab87a"
+theme[available_mid]="#bdbddb"
+theme[available_end]="#b87a7a"
+
+# Mem/Disk used meter
+theme[used_start]="#7ab87a"
+theme[used_mid]="#bdbddb"
+theme[used_end]="#b87a7a"
+
+# Download graph colors
+theme[download_start]="#7ab87a"
+theme[download_mid]="#bdbddb"
+theme[download_end]="#b87a7a"
+
+# Upload graph colors
+theme[upload_start]="#7ab87a"
+theme[upload_mid]="#bdbddb"
+theme[upload_end]="#b87a7a"

@@ -1,0 +1,85 @@
+# name: Breeze
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: breeze
+# slug-underscored: breeze
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#31363b"
+
+# Main text color
+theme[main_fg]="#d3d7d8"
+
+# Title color for boxes
+theme[title]="#d3d7d8"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#1d99f3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#31363b"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d3d7d8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#b7bebf"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#1d99f3"
+
+# Cpu box outline color
+theme[cpu_box]="#b7bebf"
+
+# Memory/disks box outline color
+theme[mem_box]="#b7bebf"
+
+# Net up/down box outline color
+theme[net_box]="#b7bebf"
+
+# Processes box outline color
+theme[proc_box]="#b7bebf"
+
+# Box divider line and small boxes line color
+theme[div_line]="#b7bebf"
+
+# Temperature graph colors
+theme[temp_start]="#11d116"
+theme[temp_mid]="#3daee9"
+theme[temp_end]="#ed1515"
+
+# CPU graph colors
+theme[cpu_start]="#11d116"
+theme[cpu_mid]="#3daee9"
+theme[cpu_end]="#ed1515"
+
+# Mem/Disk free meter
+theme[free_start]="#11d116"
+theme[free_mid]="#3daee9"
+theme[free_end]="#ed1515"
+
+# Mem/Disk cached meter
+theme[cached_start]="#11d116"
+theme[cached_mid]="#3daee9"
+theme[cached_end]="#ed1515"
+
+# Mem/Disk available meter
+theme[available_start]="#11d116"
+theme[available_mid]="#3daee9"
+theme[available_end]="#ed1515"
+
+# Mem/Disk used meter
+theme[used_start]="#11d116"
+theme[used_mid]="#3daee9"
+theme[used_end]="#ed1515"
+
+# Download graph colors
+theme[download_start]="#11d116"
+theme[download_mid]="#3daee9"
+theme[download_end]="#ed1515"
+
+# Upload graph colors
+theme[upload_start]="#11d116"
+theme[upload_mid]="#3daee9"
+theme[upload_end]="#ed1515"

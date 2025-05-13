@@ -1,0 +1,85 @@
+# name: Spiderman
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: spiderman
+# slug-underscored: spiderman
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#1b1d1e"
+
+# Main text color
+theme[main_fg]="#d3d3cd"
+
+# Title color for boxes
+theme[title]="#d3d3cd"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#2b3fff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1b1d1e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#d3d3cd"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a7a8a5"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#2b3fff"
+
+# Cpu box outline color
+theme[cpu_box]="#a7a8a5"
+
+# Memory/disks box outline color
+theme[mem_box]="#a7a8a5"
+
+# Net up/down box outline color
+theme[net_box]="#a7a8a5"
+
+# Processes box outline color
+theme[proc_box]="#a7a8a5"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a7a8a5"
+
+# Temperature graph colors
+theme[temp_start]="#e22828"
+theme[temp_mid]="#1d4fff"
+theme[temp_end]="#e60712"
+
+# CPU graph colors
+theme[cpu_start]="#e22828"
+theme[cpu_mid]="#1d4fff"
+theme[cpu_end]="#e60712"
+
+# Mem/Disk free meter
+theme[free_start]="#e22828"
+theme[free_mid]="#1d4fff"
+theme[free_end]="#e60712"
+
+# Mem/Disk cached meter
+theme[cached_start]="#e22828"
+theme[cached_mid]="#1d4fff"
+theme[cached_end]="#e60712"
+
+# Mem/Disk available meter
+theme[available_start]="#e22828"
+theme[available_mid]="#1d4fff"
+theme[available_end]="#e60712"
+
+# Mem/Disk used meter
+theme[used_start]="#e22828"
+theme[used_mid]="#1d4fff"
+theme[used_end]="#e60712"
+
+# Download graph colors
+theme[download_start]="#e22828"
+theme[download_mid]="#1d4fff"
+theme[download_end]="#e60712"
+
+# Upload graph colors
+theme[upload_start]="#e22828"
+theme[upload_mid]="#1d4fff"
+theme[upload_end]="#e60712"

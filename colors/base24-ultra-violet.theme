@@ -1,0 +1,85 @@
+# name: Ultra Violet
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: ultra-violet
+# slug-underscored: ultra_violet
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#242728"
+
+# Main text color
+theme[main_fg]="#c1c2c2"
+
+# Title color for boxes
+theme[title]="#c1c2c2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#47dffb"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#232628"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c1c2c2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a1a3a3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#47dffb"
+
+# Cpu box outline color
+theme[cpu_box]="#a1a3a3"
+
+# Memory/disks box outline color
+theme[mem_box]="#a1a3a3"
+
+# Net up/down box outline color
+theme[net_box]="#a1a3a3"
+
+# Processes box outline color
+theme[proc_box]="#a1a3a3"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a1a3a3"
+
+# Temperature graph colors
+theme[temp_start]="#b5ff00"
+theme[temp_mid]="#7febff"
+theme[temp_end]="#ff0090"
+
+# CPU graph colors
+theme[cpu_start]="#b5ff00"
+theme[cpu_mid]="#7febff"
+theme[cpu_end]="#ff0090"
+
+# Mem/Disk free meter
+theme[free_start]="#b5ff00"
+theme[free_mid]="#7febff"
+theme[free_end]="#ff0090"
+
+# Mem/Disk cached meter
+theme[cached_start]="#b5ff00"
+theme[cached_mid]="#7febff"
+theme[cached_end]="#ff0090"
+
+# Mem/Disk available meter
+theme[available_start]="#b5ff00"
+theme[available_mid]="#7febff"
+theme[available_end]="#ff0090"
+
+# Mem/Disk used meter
+theme[used_start]="#b5ff00"
+theme[used_mid]="#7febff"
+theme[used_end]="#ff0090"
+
+# Download graph colors
+theme[download_start]="#b5ff00"
+theme[download_mid]="#7febff"
+theme[download_end]="#ff0090"
+
+# Upload graph colors
+theme[upload_start]="#b5ff00"
+theme[upload_mid]="#7febff"
+theme[upload_end]="#ff0090"

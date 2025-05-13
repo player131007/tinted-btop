@@ -1,0 +1,85 @@
+# name: Sea Shells
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: sea-shells
+# slug-underscored: sea_shells
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#08131a"
+
+# Main text color
+theme[main_fg]="#b79c7e"
+
+# Title color for boxes
+theme[title]="#b79c7e"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#1e4950"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#17384c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b79c7e"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#90816f"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#1e4950"
+
+# Cpu box outline color
+theme[cpu_box]="#90816f"
+
+# Memory/disks box outline color
+theme[mem_box]="#90816f"
+
+# Net up/down box outline color
+theme[net_box]="#90816f"
+
+# Processes box outline color
+theme[proc_box]="#90816f"
+
+# Box divider line and small boxes line color
+theme[div_line]="#90816f"
+
+# Temperature graph colors
+theme[temp_start]="#027c9b"
+theme[temp_mid]="#1bbcdd"
+theme[temp_end]="#d15023"
+
+# CPU graph colors
+theme[cpu_start]="#027c9b"
+theme[cpu_mid]="#1bbcdd"
+theme[cpu_end]="#d15023"
+
+# Mem/Disk free meter
+theme[free_start]="#027c9b"
+theme[free_mid]="#1bbcdd"
+theme[free_end]="#d15023"
+
+# Mem/Disk cached meter
+theme[cached_start]="#027c9b"
+theme[cached_mid]="#1bbcdd"
+theme[cached_end]="#d15023"
+
+# Mem/Disk available meter
+theme[available_start]="#027c9b"
+theme[available_mid]="#1bbcdd"
+theme[available_end]="#d15023"
+
+# Mem/Disk used meter
+theme[used_start]="#027c9b"
+theme[used_mid]="#1bbcdd"
+theme[used_end]="#d15023"
+
+# Download graph colors
+theme[download_start]="#027c9b"
+theme[download_mid]="#1bbcdd"
+theme[download_end]="#d15023"
+
+# Upload graph colors
+theme[upload_start]="#027c9b"
+theme[upload_mid]="#1bbcdd"
+theme[upload_end]="#d15023"

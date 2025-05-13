@@ -1,0 +1,85 @@
+# name: Paul Millr
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: paul-millr
+# slug-underscored: paul_millr
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#a5a5a5"
+
+# Title color for boxes
+theme[title]="#a5a5a5"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#386bd7"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2a2a2a"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#a5a5a5"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#909090"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#386bd7"
+
+# Cpu box outline color
+theme[cpu_box]="#909090"
+
+# Memory/disks box outline color
+theme[mem_box]="#909090"
+
+# Net up/down box outline color
+theme[net_box]="#909090"
+
+# Processes box outline color
+theme[proc_box]="#909090"
+
+# Box divider line and small boxes line color
+theme[div_line]="#909090"
+
+# Temperature graph colors
+theme[temp_start]="#79ff0f"
+theme[temp_mid]="#709aed"
+theme[temp_end]="#ff0000"
+
+# CPU graph colors
+theme[cpu_start]="#79ff0f"
+theme[cpu_mid]="#709aed"
+theme[cpu_end]="#ff0000"
+
+# Mem/Disk free meter
+theme[free_start]="#79ff0f"
+theme[free_mid]="#709aed"
+theme[free_end]="#ff0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#79ff0f"
+theme[cached_mid]="#709aed"
+theme[cached_end]="#ff0000"
+
+# Mem/Disk available meter
+theme[available_start]="#79ff0f"
+theme[available_mid]="#709aed"
+theme[available_end]="#ff0000"
+
+# Mem/Disk used meter
+theme[used_start]="#79ff0f"
+theme[used_mid]="#709aed"
+theme[used_end]="#ff0000"
+
+# Download graph colors
+theme[download_start]="#79ff0f"
+theme[download_mid]="#709aed"
+theme[download_end]="#ff0000"
+
+# Upload graph colors
+theme[upload_start]="#79ff0f"
+theme[upload_mid]="#709aed"
+theme[upload_end]="#ff0000"

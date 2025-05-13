@@ -1,0 +1,85 @@
+# name: Birds Of Paradise
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: birds-of-paradise
+# slug-underscored: birds_of_paradise
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#2a1e1d"
+
+# Main text color
+theme[main_fg]="#cdbe9b"
+
+# Title color for boxes
+theme[title]="#cdbe9b"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5a86ac"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#573d25"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#cdbe9b"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#bca280"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5a86ac"
+
+# Cpu box outline color
+theme[cpu_box]="#bca280"
+
+# Memory/disks box outline color
+theme[mem_box]="#bca280"
+
+# Net up/down box outline color
+theme[net_box]="#bca280"
+
+# Processes box outline color
+theme[proc_box]="#bca280"
+
+# Box divider line and small boxes line color
+theme[div_line]="#bca280"
+
+# Temperature graph colors
+theme[temp_start]="#6ba08a"
+theme[temp_mid]="#b8d3ed"
+theme[temp_end]="#be2d26"
+
+# CPU graph colors
+theme[cpu_start]="#6ba08a"
+theme[cpu_mid]="#b8d3ed"
+theme[cpu_end]="#be2d26"
+
+# Mem/Disk free meter
+theme[free_start]="#6ba08a"
+theme[free_mid]="#b8d3ed"
+theme[free_end]="#be2d26"
+
+# Mem/Disk cached meter
+theme[cached_start]="#6ba08a"
+theme[cached_mid]="#b8d3ed"
+theme[cached_end]="#be2d26"
+
+# Mem/Disk available meter
+theme[available_start]="#6ba08a"
+theme[available_mid]="#b8d3ed"
+theme[available_end]="#be2d26"
+
+# Mem/Disk used meter
+theme[used_start]="#6ba08a"
+theme[used_mid]="#b8d3ed"
+theme[used_end]="#be2d26"
+
+# Download graph colors
+theme[download_start]="#6ba08a"
+theme[download_mid]="#b8d3ed"
+theme[download_end]="#be2d26"
+
+# Upload graph colors
+theme[upload_start]="#6ba08a"
+theme[upload_mid]="#b8d3ed"
+theme[upload_end]="#be2d26"

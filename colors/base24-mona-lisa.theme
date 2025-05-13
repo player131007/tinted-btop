@@ -1,0 +1,85 @@
+# name: Mona Lisa
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: mona-lisa
+# slug-underscored: mona_lisa
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#110b0d"
+
+# Main text color
+theme[main_fg]="#dab14e"
+
+# Title color for boxes
+theme[title]="#dab14e"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#515b5c"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#341a0d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#dab14e"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#be8c41"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#515b5c"
+
+# Cpu box outline color
+theme[cpu_box]="#be8c41"
+
+# Memory/disks box outline color
+theme[mem_box]="#be8c41"
+
+# Net up/down box outline color
+theme[net_box]="#be8c41"
+
+# Processes box outline color
+theme[proc_box]="#be8c41"
+
+# Box divider line and small boxes line color
+theme[div_line]="#be8c41"
+
+# Temperature graph colors
+theme[temp_start]="#626132"
+theme[temp_mid]="#9eb2b3"
+theme[temp_end]="#9b281b"
+
+# CPU graph colors
+theme[cpu_start]="#626132"
+theme[cpu_mid]="#9eb2b3"
+theme[cpu_end]="#9b281b"
+
+# Mem/Disk free meter
+theme[free_start]="#626132"
+theme[free_mid]="#9eb2b3"
+theme[free_end]="#9b281b"
+
+# Mem/Disk cached meter
+theme[cached_start]="#626132"
+theme[cached_mid]="#9eb2b3"
+theme[cached_end]="#9b281b"
+
+# Mem/Disk available meter
+theme[available_start]="#626132"
+theme[available_mid]="#9eb2b3"
+theme[available_end]="#9b281b"
+
+# Mem/Disk used meter
+theme[used_start]="#626132"
+theme[used_mid]="#9eb2b3"
+theme[used_end]="#9b281b"
+
+# Download graph colors
+theme[download_start]="#626132"
+theme[download_mid]="#9eb2b3"
+theme[download_end]="#9b281b"
+
+# Upload graph colors
+theme[upload_start]="#626132"
+theme[upload_mid]="#9eb2b3"
+theme[upload_end]="#9b281b"

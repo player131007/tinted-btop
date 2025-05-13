@@ -1,0 +1,85 @@
+# name: Fish Tank
+# author: FredHappyface (https://github.com/fredHappyface)
+# slug: fish-tank
+# slug-underscored: fish_tank
+# system: base24
+# variant: dark
+
+# Main bg
+theme[main_bg]="#222436"
+
+# Main text color
+theme[main_fg]="#ccc9c9"
+
+# Title color for boxes
+theme[title]="#ccc9c9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#525fb8"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#03063c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ccc9c9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#aca496"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#525fb8"
+
+# Cpu box outline color
+theme[cpu_box]="#aca496"
+
+# Memory/disks box outline color
+theme[mem_box]="#aca496"
+
+# Net up/down box outline color
+theme[net_box]="#aca496"
+
+# Processes box outline color
+theme[proc_box]="#aca496"
+
+# Box divider line and small boxes line color
+theme[div_line]="#aca496"
+
+# Temperature graph colors
+theme[temp_start]="#abf157"
+theme[temp_mid]="#b1bdf9"
+theme[temp_end]="#c60049"
+
+# CPU graph colors
+theme[cpu_start]="#abf157"
+theme[cpu_mid]="#b1bdf9"
+theme[cpu_end]="#c60049"
+
+# Mem/Disk free meter
+theme[free_start]="#abf157"
+theme[free_mid]="#b1bdf9"
+theme[free_end]="#c60049"
+
+# Mem/Disk cached meter
+theme[cached_start]="#abf157"
+theme[cached_mid]="#b1bdf9"
+theme[cached_end]="#c60049"
+
+# Mem/Disk available meter
+theme[available_start]="#abf157"
+theme[available_mid]="#b1bdf9"
+theme[available_end]="#c60049"
+
+# Mem/Disk used meter
+theme[used_start]="#abf157"
+theme[used_mid]="#b1bdf9"
+theme[used_end]="#c60049"
+
+# Download graph colors
+theme[download_start]="#abf157"
+theme[download_mid]="#b1bdf9"
+theme[download_end]="#c60049"
+
+# Upload graph colors
+theme[upload_start]="#abf157"
+theme[upload_mid]="#b1bdf9"
+theme[upload_end]="#c60049"

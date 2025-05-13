@@ -56,23 +56,15 @@ theme[cpu_end]="#a6463d"
 
 # Mem/Disk free meter
 theme[free_start]="#577644"
-theme[free_mid]="#7898f7"
-theme[free_end]="#a6463d"
 
 # Mem/Disk cached meter
-theme[cached_start]="#577644"
-theme[cached_mid]="#7898f7"
-theme[cached_end]="#a6463d"
+theme[cached_start]="#7898f7"
 
 # Mem/Disk available meter
-theme[available_start]="#577644"
-theme[available_mid]="#7898f7"
-theme[available_end]="#a6463d"
+theme[available_start]="#9c5f2a"
 
 # Mem/Disk used meter
-theme[used_start]="#577644"
-theme[used_mid]="#7898f7"
-theme[used_end]="#a6463d"
+theme[used_start]="#a6463d"
 
 # Download graph colors
 theme[download_start]="#577644"

@@ -67,11 +67,11 @@ theme[available_start]="#f76d47"
 theme[used_start]="#ff5370"
 
 # Download graph colors
-theme[download_start]="#91b859"
-theme[download_mid]="#ffb62c"
-theme[download_end]="#ff5370"
+theme[download_start]="#7c4dff"
+theme[download_mid]="#6182b8"
+theme[download_end]="#39adb5"
 
 # Upload graph colors
-theme[upload_start]="#91b859"
-theme[upload_mid]="#ffb62c"
-theme[upload_end]="#ff5370"
+theme[upload_start]="#7c4dff"
+theme[upload_mid]="#6182b8"
+theme[upload_end]="#39adb5"

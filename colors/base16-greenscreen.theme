@@ -68,10 +68,10 @@ theme[used_start]="#007700"
 
 # Download graph colors
 theme[download_start]="#00bb00"
-theme[download_mid]="#007700"
-theme[download_end]="#007700"
+theme[download_mid]="#009900"
+theme[download_end]="#005500"
 
 # Upload graph colors
 theme[upload_start]="#00bb00"
-theme[upload_mid]="#007700"
-theme[upload_end]="#007700"
+theme[upload_mid]="#009900"
+theme[upload_end]="#005500"

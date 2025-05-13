@@ -1,14 +1,9 @@
-#
-#
 # name: Eighties
 # author: Chris Kempson (http://chriskempson.com)
 # slug: eighties
 # slug-underscored: eighties
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#2d2d2d"

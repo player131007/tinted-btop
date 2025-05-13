@@ -1,14 +1,9 @@
-#
-#
 # name: Black Metal
 # author: metalelf0 (https://github.com/metalelf0)
 # slug: black-metal
 # slug-underscored: black_metal
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#000000"

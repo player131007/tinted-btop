@@ -1,14 +1,9 @@
-#
-#
 # name: Twilight
 # author: David Hart (https://github.com/hartbit)
 # slug: twilight
 # slug-underscored: twilight
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1e1e1e"

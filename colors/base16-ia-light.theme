@@ -1,14 +1,9 @@
-#
-#
 # name: iA Light
 # author: iA Inc. (modified by aramisgithub)
 # slug: ia-light
 # slug-underscored: ia_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f6f6f6"

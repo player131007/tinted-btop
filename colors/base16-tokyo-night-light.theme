@@ -1,90 +1,85 @@
-#
-#
 # name: Tokyo Night Light
 # author: Michaël Ball
 # slug: tokyo-night-light
 # slug-underscored: tokyo_night_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#D5D6DB"
+theme[main_bg]="#d5d6db"
 
 # Main text color
-theme[main_fg]="#343B59"
+theme[main_fg]="#343b59"
 
 # Title color for boxes
-theme[title]="#343B59"
+theme[title]="#343b59"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#34548A"
+theme[hi_fg]="#34548a"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#CBCCD1"
+theme[selected_bg]="#cbccd1"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#343B59"
+theme[selected_fg]="#343b59"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#4C505E"
+theme[inactive_fg]="#4c505e"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#34548A"
+theme[proc_misc]="#34548a"
 
 # Cpu box outline color
-theme[cpu_box]="#4C505E"
+theme[cpu_box]="#4c505e"
 
 # Memory/disks box outline color
-theme[mem_box]="#4C505E"
+theme[mem_box]="#4c505e"
 
 # Net up/down box outline color
-theme[net_box]="#4C505E"
+theme[net_box]="#4c505e"
 
 # Processes box outline color
-theme[proc_box]="#4C505E"
+theme[proc_box]="#4c505e"
 
 # Box divider line and small boxes line color
-theme[div_line]="#4C505E"
+theme[div_line]="#4c505e"
 
 # Temperature graph colors
-theme[temp_start]="#485E30"
+theme[temp_start]="#485e30"
 theme[temp_mid]="#166775"
-theme[temp_end]="#343B58"
+theme[temp_end]="#343b58"
 
 # CPU graph colors
-theme[cpu_start]="#485E30"
+theme[cpu_start]="#485e30"
 theme[cpu_mid]="#166775"
-theme[cpu_end]="#343B58"
+theme[cpu_end]="#343b58"
 
 # Mem/Disk free meter
-theme[free_start]="#485E30"
+theme[free_start]="#485e30"
 theme[free_mid]="#166775"
-theme[free_end]="#343B58"
+theme[free_end]="#343b58"
 
 # Mem/Disk cached meter
-theme[cached_start]="#485E30"
+theme[cached_start]="#485e30"
 theme[cached_mid]="#166775"
-theme[cached_end]="#343B58"
+theme[cached_end]="#343b58"
 
 # Mem/Disk available meter
-theme[available_start]="#485E30"
+theme[available_start]="#485e30"
 theme[available_mid]="#166775"
-theme[available_end]="#343B58"
+theme[available_end]="#343b58"
 
 # Mem/Disk used meter
-theme[used_start]="#485E30"
+theme[used_start]="#485e30"
 theme[used_mid]="#166775"
-theme[used_end]="#343B58"
+theme[used_end]="#343b58"
 
 # Download graph colors
-theme[download_start]="#485E30"
+theme[download_start]="#485e30"
 theme[download_mid]="#166775"
-theme[download_end]="#343B58"
+theme[download_end]="#343b58"
 
 # Upload graph colors
-theme[upload_start]="#485E30"
+theme[upload_start]="#485e30"
 theme[upload_mid]="#166775"
-theme[upload_end]="#343B58"
+theme[upload_end]="#343b58"

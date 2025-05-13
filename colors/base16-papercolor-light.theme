@@ -1,14 +1,9 @@
-#
-#
 # name: PaperColor Light
 # author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 # slug: papercolor-light
 # slug-underscored: papercolor_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#eeeeee"

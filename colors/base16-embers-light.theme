@@ -1,14 +1,9 @@
-#
-#
 # name: Embers Light
 # author: Jannik Siebert (https://github.com/janniks)
 # slug: embers-light
 # slug-underscored: embers_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#d1d6db"

@@ -1,14 +1,9 @@
-#
-#
 # name: Shades of Purple
 # author: Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
 # slug: shades-of-purple
 # slug-underscored: shades_of_purple
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1e1e3f"

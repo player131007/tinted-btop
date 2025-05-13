@@ -1,14 +1,9 @@
-#
-#
 # name: Equilibrium Light
 # author: Carlo Abelli
 # slug: equilibrium-light
 # slug-underscored: equilibrium_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f5f0e7"

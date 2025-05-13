@@ -1,14 +1,9 @@
-#
-#
 # name: 3024
 # author: Jan T. Sott (http://github.com/idleberg)
 # slug: 3024
 # slug-underscored: 3024
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#090300"

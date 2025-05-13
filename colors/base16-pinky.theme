@@ -1,14 +1,9 @@
-#
-#
 # name: pinky
 # author: Benjamin (https://github.com/b3nj5m1n)
 # slug: pinky
 # slug-underscored: pinky
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#171517"

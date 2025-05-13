@@ -1,14 +1,9 @@
-#
-#
 # name: Da One Paper
 # author: NNB (https://github.com/NNBnh)
 # slug: da-one-paper
 # slug-underscored: da_one_paper
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#faf0dc"

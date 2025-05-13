@@ -1,14 +1,9 @@
-#
-#
 # name: Equilibrium Gray Light
 # author: Carlo Abelli
 # slug: equilibrium-gray-light
 # slug-underscored: equilibrium_gray_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f1f1f1"

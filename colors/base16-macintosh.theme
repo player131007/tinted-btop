@@ -1,14 +1,9 @@
-#
-#
 # name: Macintosh
 # author: Rebecca Bettencourt (http://www.kreativekorp.com)
 # slug: macintosh
 # slug-underscored: macintosh
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#000000"

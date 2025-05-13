@@ -1,14 +1,9 @@
-#
-#
 # name: dirtysea
 # author: Kahlil (Kal) Hodgson
 # slug: dirtysea
 # slug-underscored: dirtysea
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#e0e0e0"
@@ -51,40 +46,40 @@ theme[div_line]="#202020"
 
 # Temperature graph colors
 theme[temp_start]="#730073"
-theme[temp_mid]="#755B00"
+theme[temp_mid]="#755b00"
 theme[temp_end]="#840000"
 
 # CPU graph colors
 theme[cpu_start]="#730073"
-theme[cpu_mid]="#755B00"
+theme[cpu_mid]="#755b00"
 theme[cpu_end]="#840000"
 
 # Mem/Disk free meter
 theme[free_start]="#730073"
-theme[free_mid]="#755B00"
+theme[free_mid]="#755b00"
 theme[free_end]="#840000"
 
 # Mem/Disk cached meter
 theme[cached_start]="#730073"
-theme[cached_mid]="#755B00"
+theme[cached_mid]="#755b00"
 theme[cached_end]="#840000"
 
 # Mem/Disk available meter
 theme[available_start]="#730073"
-theme[available_mid]="#755B00"
+theme[available_mid]="#755b00"
 theme[available_end]="#840000"
 
 # Mem/Disk used meter
 theme[used_start]="#730073"
-theme[used_mid]="#755B00"
+theme[used_mid]="#755b00"
 theme[used_end]="#840000"
 
 # Download graph colors
 theme[download_start]="#730073"
-theme[download_mid]="#755B00"
+theme[download_mid]="#755b00"
 theme[download_end]="#840000"
 
 # Upload graph colors
 theme[upload_start]="#730073"
-theme[upload_mid]="#755B00"
+theme[upload_mid]="#755b00"
 theme[upload_end]="#840000"

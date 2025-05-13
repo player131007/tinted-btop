@@ -1,14 +1,9 @@
-#
-#
 # name: Everforest
 # author: Sainnhe Park (https://github.com/sainnhe)
 # slug: everforest
 # slug-underscored: everforest
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#2d353b"

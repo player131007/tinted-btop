@@ -1,14 +1,9 @@
-#
-#
 # name: Marrakesh
 # author: Alexandre Gavioli (http://github.com/Alexx2/)
 # slug: marrakesh
 # slug-underscored: marrakesh
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#201602"

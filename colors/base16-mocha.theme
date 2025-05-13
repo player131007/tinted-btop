@@ -1,17 +1,12 @@
-#
-#
 # name: Mocha
 # author: Chris Kempson (http://chriskempson.com)
 # slug: mocha
 # slug-underscored: mocha
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#3B3228"
+theme[main_bg]="#3b3228"
 
 # Main text color
 theme[main_fg]="#d0c8c6"

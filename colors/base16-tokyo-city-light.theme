@@ -1,32 +1,27 @@
-#
-#
 # name: Tokyo City Light
 # author: Michaël Ball
 # slug: tokyo-city-light
 # slug-underscored: tokyo_city_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#FBFBFD"
+theme[main_bg]="#fbfbfd"
 
 # Main text color
-theme[main_fg]="#343B59"
+theme[main_fg]="#343b59"
 
 # Title color for boxes
-theme[title]="#343B59"
+theme[title]="#343b59"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#34548a"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#F6F6F8"
+theme[selected_bg]="#f6f6f8"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#343B59"
+theme[selected_fg]="#343b59"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#4c505e"
@@ -50,41 +45,41 @@ theme[proc_box]="#4c505e"
 theme[div_line]="#4c505e"
 
 # Temperature graph colors
-theme[temp_start]="#485E30"
-theme[temp_mid]="#4C505E"
-theme[temp_end]="#8C4351"
+theme[temp_start]="#485e30"
+theme[temp_mid]="#4c505e"
+theme[temp_end]="#8c4351"
 
 # CPU graph colors
-theme[cpu_start]="#485E30"
-theme[cpu_mid]="#4C505E"
-theme[cpu_end]="#8C4351"
+theme[cpu_start]="#485e30"
+theme[cpu_mid]="#4c505e"
+theme[cpu_end]="#8c4351"
 
 # Mem/Disk free meter
-theme[free_start]="#485E30"
-theme[free_mid]="#4C505E"
-theme[free_end]="#8C4351"
+theme[free_start]="#485e30"
+theme[free_mid]="#4c505e"
+theme[free_end]="#8c4351"
 
 # Mem/Disk cached meter
-theme[cached_start]="#485E30"
-theme[cached_mid]="#4C505E"
-theme[cached_end]="#8C4351"
+theme[cached_start]="#485e30"
+theme[cached_mid]="#4c505e"
+theme[cached_end]="#8c4351"
 
 # Mem/Disk available meter
-theme[available_start]="#485E30"
-theme[available_mid]="#4C505E"
-theme[available_end]="#8C4351"
+theme[available_start]="#485e30"
+theme[available_mid]="#4c505e"
+theme[available_end]="#8c4351"
 
 # Mem/Disk used meter
-theme[used_start]="#485E30"
-theme[used_mid]="#4C505E"
-theme[used_end]="#8C4351"
+theme[used_start]="#485e30"
+theme[used_mid]="#4c505e"
+theme[used_end]="#8c4351"
 
 # Download graph colors
-theme[download_start]="#485E30"
-theme[download_mid]="#4C505E"
-theme[download_end]="#8C4351"
+theme[download_start]="#485e30"
+theme[download_mid]="#4c505e"
+theme[download_end]="#8c4351"
 
 # Upload graph colors
-theme[upload_start]="#485E30"
-theme[upload_mid]="#4C505E"
-theme[upload_end]="#8C4351"
+theme[upload_start]="#485e30"
+theme[upload_mid]="#4c505e"
+theme[upload_end]="#8c4351"

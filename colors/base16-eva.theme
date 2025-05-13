@@ -1,14 +1,9 @@
-#
-#
 # name: Eva
 # author: kjakapat (https://github.com/kjakapat)
 # slug: eva
 # slug-underscored: eva
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#2a3b4d"

@@ -1,14 +1,9 @@
-#
-#
 # name: Cupertino
 # author: Defman21
 # slug: cupertino
 # slug-underscored: cupertino
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

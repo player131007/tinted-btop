@@ -1,14 +1,9 @@
-#
-#
 # name: Harmonic16 Light
 # author: Jannik Siebert (https://github.com/janniks)
 # slug: harmonic16-light
 # slug-underscored: harmonic16_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f7f9fb"

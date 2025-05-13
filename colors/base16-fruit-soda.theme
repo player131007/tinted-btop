@@ -1,14 +1,9 @@
-#
-#
 # name: Fruit Soda
 # author: jozip
 # slug: fruit-soda
 # slug-underscored: fruit_soda
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f1ecf1"

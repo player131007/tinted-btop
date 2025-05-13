@@ -1,14 +1,9 @@
-#
-#
 # name: Grayscale Dark
 # author: Alexandre Gavioli (https://github.com/Alexx2/)
 # slug: grayscale-dark
 # slug-underscored: grayscale_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#101010"

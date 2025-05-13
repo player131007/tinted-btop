@@ -1,14 +1,9 @@
-#
-#
 # name: DanQing Light
 # author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 # slug: danqing-light
 # slug-underscored: danqing_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fcfefd"
@@ -20,7 +15,7 @@ theme[main_fg]="#5a605d"
 theme[title]="#5a605d"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#B0A4E3"
+theme[hi_fg]="#b0a4e3"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#ecf6f2"
@@ -32,7 +27,7 @@ theme[selected_fg]="#5a605d"
 theme[inactive_fg]="#9da8a3"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#B0A4E3"
+theme[proc_misc]="#b0a4e3"
 
 # Cpu box outline color
 theme[cpu_box]="#9da8a3"
@@ -50,41 +45,41 @@ theme[proc_box]="#9da8a3"
 theme[div_line]="#9da8a3"
 
 # Temperature graph colors
-theme[temp_start]="#8AB361"
-theme[temp_mid]="#F0C239"
-theme[temp_end]="#F9906F"
+theme[temp_start]="#8ab361"
+theme[temp_mid]="#f0c239"
+theme[temp_end]="#f9906f"
 
 # CPU graph colors
-theme[cpu_start]="#8AB361"
-theme[cpu_mid]="#F0C239"
-theme[cpu_end]="#F9906F"
+theme[cpu_start]="#8ab361"
+theme[cpu_mid]="#f0c239"
+theme[cpu_end]="#f9906f"
 
 # Mem/Disk free meter
-theme[free_start]="#8AB361"
-theme[free_mid]="#F0C239"
-theme[free_end]="#F9906F"
+theme[free_start]="#8ab361"
+theme[free_mid]="#f0c239"
+theme[free_end]="#f9906f"
 
 # Mem/Disk cached meter
-theme[cached_start]="#8AB361"
-theme[cached_mid]="#F0C239"
-theme[cached_end]="#F9906F"
+theme[cached_start]="#8ab361"
+theme[cached_mid]="#f0c239"
+theme[cached_end]="#f9906f"
 
 # Mem/Disk available meter
-theme[available_start]="#8AB361"
-theme[available_mid]="#F0C239"
-theme[available_end]="#F9906F"
+theme[available_start]="#8ab361"
+theme[available_mid]="#f0c239"
+theme[available_end]="#f9906f"
 
 # Mem/Disk used meter
-theme[used_start]="#8AB361"
-theme[used_mid]="#F0C239"
-theme[used_end]="#F9906F"
+theme[used_start]="#8ab361"
+theme[used_mid]="#f0c239"
+theme[used_end]="#f9906f"
 
 # Download graph colors
-theme[download_start]="#8AB361"
-theme[download_mid]="#F0C239"
-theme[download_end]="#F9906F"
+theme[download_start]="#8ab361"
+theme[download_mid]="#f0c239"
+theme[download_end]="#f9906f"
 
 # Upload graph colors
-theme[upload_start]="#8AB361"
-theme[upload_mid]="#F0C239"
-theme[upload_end]="#F9906F"
+theme[upload_start]="#8ab361"
+theme[upload_mid]="#f0c239"
+theme[upload_end]="#f9906f"

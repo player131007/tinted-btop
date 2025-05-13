@@ -1,14 +1,9 @@
-#
-#
 # name: Zenburn
 # author: elnawe
 # slug: zenburn
 # slug-underscored: zenburn
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#383838"

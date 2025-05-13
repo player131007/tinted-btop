@@ -1,14 +1,9 @@
-#
-#
 # name: Precious Light White
 # author: 4lex4 <4lex49@zoho.com>
 # slug: precious-light-white
 # slug-underscored: precious_light_white
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Forest Light
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-forest-light
 # slug-underscored: atelier_forest_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f1efee"

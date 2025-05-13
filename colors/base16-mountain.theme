@@ -1,14 +1,9 @@
-#
-#
 # name: Mountain
 # author: gnsfujiwara (https://github.com/gnsfujiwara)
 # slug: mountain
 # slug-underscored: mountain
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#0f0f0f"

@@ -1,14 +1,9 @@
-#
-#
 # name: Icy Dark
 # author: icyphox (https://icyphox.ga)
 # slug: icy
 # slug-underscored: icy
 # system: base16
-# variant: light
-# is-light-variant: true
-#
-#
+# variant: dark
 
 # Main bg
 theme[main_bg]="#021012"

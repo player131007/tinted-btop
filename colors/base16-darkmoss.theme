@@ -1,14 +1,9 @@
-#
-#
 # name: darkmoss
 # author: Gabriel Avanzi (https://github.com/avanzzzi)
 # slug: darkmoss
 # slug-underscored: darkmoss
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#171e1f"

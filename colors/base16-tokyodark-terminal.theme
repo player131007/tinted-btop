@@ -1,14 +1,9 @@
-#
-#
 # name: Tokyodark Terminal
 # author: Tiagovla (https://github.com/tiagovla/)
 # slug: tokyodark-terminal
 # slug-underscored: tokyodark_terminal
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#11121d"
@@ -23,7 +18,7 @@ theme[title]="#a0a8cd"
 theme[hi_fg]="#7199ee"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#1A1B2A"
+theme[selected_bg]="#1a1b2a"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#a0a8cd"

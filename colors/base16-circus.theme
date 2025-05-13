@@ -1,14 +1,9 @@
-#
-#
 # name: Circus
 # author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
 # slug: circus
 # slug-underscored: circus
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#191919"

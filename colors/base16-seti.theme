@@ -1,14 +1,9 @@
-#
-#
 # name: Seti UI
 # author: 
 # slug: seti
 # slug-underscored: seti
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#151718"
@@ -52,39 +47,39 @@ theme[div_line]="#43a5d5"
 # Temperature graph colors
 theme[temp_start]="#9fca56"
 theme[temp_mid]="#e6cd69"
-theme[temp_end]="#Cd3f45"
+theme[temp_end]="#cd3f45"
 
 # CPU graph colors
 theme[cpu_start]="#9fca56"
 theme[cpu_mid]="#e6cd69"
-theme[cpu_end]="#Cd3f45"
+theme[cpu_end]="#cd3f45"
 
 # Mem/Disk free meter
 theme[free_start]="#9fca56"
 theme[free_mid]="#e6cd69"
-theme[free_end]="#Cd3f45"
+theme[free_end]="#cd3f45"
 
 # Mem/Disk cached meter
 theme[cached_start]="#9fca56"
 theme[cached_mid]="#e6cd69"
-theme[cached_end]="#Cd3f45"
+theme[cached_end]="#cd3f45"
 
 # Mem/Disk available meter
 theme[available_start]="#9fca56"
 theme[available_mid]="#e6cd69"
-theme[available_end]="#Cd3f45"
+theme[available_end]="#cd3f45"
 
 # Mem/Disk used meter
 theme[used_start]="#9fca56"
 theme[used_mid]="#e6cd69"
-theme[used_end]="#Cd3f45"
+theme[used_end]="#cd3f45"
 
 # Download graph colors
 theme[download_start]="#9fca56"
 theme[download_mid]="#e6cd69"
-theme[download_end]="#Cd3f45"
+theme[download_end]="#cd3f45"
 
 # Upload graph colors
 theme[upload_start]="#9fca56"
 theme[upload_mid]="#e6cd69"
-theme[upload_end]="#Cd3f45"
+theme[upload_end]="#cd3f45"

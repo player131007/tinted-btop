@@ -1,14 +1,9 @@
-#
-#
 # name: Porple
 # author: Niek den Breeje (https://github.com/AuditeMarlow)
 # slug: porple
 # slug-underscored: porple
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#292c36"

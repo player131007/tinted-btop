@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Lakeside Light
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-lakeside-light
 # slug-underscored: atelier_lakeside_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ebf8ff"

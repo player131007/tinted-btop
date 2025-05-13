@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Savanna
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-savanna
 # slug-underscored: atelier_savanna
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#171c19"

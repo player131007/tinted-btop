@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Dune
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-dune
 # slug-underscored: atelier_dune
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#20201d"

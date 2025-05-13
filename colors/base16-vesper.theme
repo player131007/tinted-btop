@@ -1,14 +1,9 @@
-#
-#
 # name: Vesper
 # author: FormalSnake (https://github.com/formalsnake)
 # slug: vesper
 # slug-underscored: vesper
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#101010"

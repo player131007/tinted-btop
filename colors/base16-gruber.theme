@@ -1,14 +1,9 @@
-#
-#
 # name: Gruber
 # author: Patel, Nimai <nimai.m.patel@gmail.com>, colors from www.github.com/rexim/gruber-darker-theme
 # slug: gruber
 # slug-underscored: gruber
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#181818"

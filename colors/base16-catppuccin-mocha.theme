@@ -1,14 +1,9 @@
-#
-#
 # name: Catppuccin Mocha
 # author: https://github.com/catppuccin/catppuccin
 # slug: catppuccin-mocha
 # slug-underscored: catppuccin_mocha
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1e1e2e"

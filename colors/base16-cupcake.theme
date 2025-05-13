@@ -1,14 +1,9 @@
-#
-#
 # name: Cupcake
 # author: Chris Kempson (http://chriskempson.com)
 # slug: cupcake
 # slug-underscored: cupcake
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fbf1f2"
@@ -20,7 +15,7 @@ theme[main_fg]="#8b8198"
 theme[title]="#8b8198"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#7297B9"
+theme[hi_fg]="#7297b9"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#f2f1f4"
@@ -32,7 +27,7 @@ theme[selected_fg]="#8b8198"
 theme[inactive_fg]="#a59daf"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#7297B9"
+theme[proc_misc]="#7297b9"
 
 # Cpu box outline color
 theme[cpu_box]="#a59daf"
@@ -50,41 +45,41 @@ theme[proc_box]="#a59daf"
 theme[div_line]="#a59daf"
 
 # Temperature graph colors
-theme[temp_start]="#A3B367"
-theme[temp_mid]="#DCB16C"
-theme[temp_end]="#D57E85"
+theme[temp_start]="#a3b367"
+theme[temp_mid]="#dcb16c"
+theme[temp_end]="#d57e85"
 
 # CPU graph colors
-theme[cpu_start]="#A3B367"
-theme[cpu_mid]="#DCB16C"
-theme[cpu_end]="#D57E85"
+theme[cpu_start]="#a3b367"
+theme[cpu_mid]="#dcb16c"
+theme[cpu_end]="#d57e85"
 
 # Mem/Disk free meter
-theme[free_start]="#A3B367"
-theme[free_mid]="#DCB16C"
-theme[free_end]="#D57E85"
+theme[free_start]="#a3b367"
+theme[free_mid]="#dcb16c"
+theme[free_end]="#d57e85"
 
 # Mem/Disk cached meter
-theme[cached_start]="#A3B367"
-theme[cached_mid]="#DCB16C"
-theme[cached_end]="#D57E85"
+theme[cached_start]="#a3b367"
+theme[cached_mid]="#dcb16c"
+theme[cached_end]="#d57e85"
 
 # Mem/Disk available meter
-theme[available_start]="#A3B367"
-theme[available_mid]="#DCB16C"
-theme[available_end]="#D57E85"
+theme[available_start]="#a3b367"
+theme[available_mid]="#dcb16c"
+theme[available_end]="#d57e85"
 
 # Mem/Disk used meter
-theme[used_start]="#A3B367"
-theme[used_mid]="#DCB16C"
-theme[used_end]="#D57E85"
+theme[used_start]="#a3b367"
+theme[used_mid]="#dcb16c"
+theme[used_end]="#d57e85"
 
 # Download graph colors
-theme[download_start]="#A3B367"
-theme[download_mid]="#DCB16C"
-theme[download_end]="#D57E85"
+theme[download_start]="#a3b367"
+theme[download_mid]="#dcb16c"
+theme[download_end]="#d57e85"
 
 # Upload graph colors
-theme[upload_start]="#A3B367"
-theme[upload_mid]="#DCB16C"
-theme[upload_end]="#D57E85"
+theme[upload_start]="#a3b367"
+theme[upload_mid]="#dcb16c"
+theme[upload_end]="#d57e85"

@@ -1,14 +1,9 @@
-#
-#
 # name: Windows High Contrast
-# author: Fergus Collins (https://github.com/C-Fergus)
+# author: Fergus Collins (https://github.com/ferguscollins)
 # slug: windows-highcontrast
 # slug-underscored: windows_highcontrast
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#000000"
@@ -23,7 +18,7 @@ theme[title]="#c0c0c0"
 theme[hi_fg]="#5454fc"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#1C1C1C"
+theme[selected_bg]="#1c1c1c"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#c0c0c0"

@@ -1,0 +1,85 @@
+# name: Digital Rain
+# author: Nathan Byrd (https://github.com/cognitivegears)
+# slug: digital-rain
+# slug-underscored: digital_rain
+# system: base16
+# variant: dark
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#00ff00"
+
+# Title color for boxes
+theme[title]="#00ff00"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#5482af"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4a806c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#00ff00"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#919893"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5482af"
+
+# Cpu box outline color
+theme[cpu_box]="#919893"
+
+# Memory/disks box outline color
+theme[mem_box]="#919893"
+
+# Net up/down box outline color
+theme[net_box]="#919893"
+
+# Processes box outline color
+theme[proc_box]="#919893"
+
+# Box divider line and small boxes line color
+theme[div_line]="#919893"
+
+# Temperature graph colors
+theme[temp_start]="#64c83c"
+theme[temp_mid]="#a67a50"
+theme[temp_end]="#c85a46"
+
+# CPU graph colors
+theme[cpu_start]="#64c83c"
+theme[cpu_mid]="#a67a50"
+theme[cpu_end]="#c85a46"
+
+# Mem/Disk free meter
+theme[free_start]="#64c83c"
+theme[free_mid]="#a67a50"
+theme[free_end]="#c85a46"
+
+# Mem/Disk cached meter
+theme[cached_start]="#64c83c"
+theme[cached_mid]="#a67a50"
+theme[cached_end]="#c85a46"
+
+# Mem/Disk available meter
+theme[available_start]="#64c83c"
+theme[available_mid]="#a67a50"
+theme[available_end]="#c85a46"
+
+# Mem/Disk used meter
+theme[used_start]="#64c83c"
+theme[used_mid]="#a67a50"
+theme[used_end]="#c85a46"
+
+# Download graph colors
+theme[download_start]="#64c83c"
+theme[download_mid]="#a67a50"
+theme[download_end]="#c85a46"
+
+# Upload graph colors
+theme[upload_start]="#64c83c"
+theme[upload_mid]="#a67a50"
+theme[upload_end]="#c85a46"

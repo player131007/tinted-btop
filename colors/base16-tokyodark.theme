@@ -1,14 +1,9 @@
-#
-#
 # name: Tokyodark
 # author: Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 # slug: tokyodark
 # slug-underscored: tokyodark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#11121d"

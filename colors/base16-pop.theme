@@ -1,14 +1,9 @@
-#
-#
 # name: Pop
 # author: Chris Kempson (http://chriskempson.com)
 # slug: pop
 # slug-underscored: pop
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#000000"

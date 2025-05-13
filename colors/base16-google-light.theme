@@ -1,14 +1,9 @@
-#
-#
 # name: Google Light
 # author: Seth Wright (http://sethawright.com)
 # slug: google-light
 # slug-underscored: google_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"
@@ -20,7 +15,7 @@ theme[main_fg]="#373b41"
 theme[title]="#373b41"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#3971ED"
+theme[hi_fg]="#3971ed"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#e0e0e0"
@@ -32,7 +27,7 @@ theme[selected_fg]="#373b41"
 theme[inactive_fg]="#969896"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#3971ED"
+theme[proc_misc]="#3971ed"
 
 # Cpu box outline color
 theme[cpu_box]="#969896"
@@ -51,40 +46,40 @@ theme[div_line]="#969896"
 
 # Temperature graph colors
 theme[temp_start]="#198844"
-theme[temp_mid]="#FBA922"
-theme[temp_end]="#CC342B"
+theme[temp_mid]="#fba922"
+theme[temp_end]="#cc342b"
 
 # CPU graph colors
 theme[cpu_start]="#198844"
-theme[cpu_mid]="#FBA922"
-theme[cpu_end]="#CC342B"
+theme[cpu_mid]="#fba922"
+theme[cpu_end]="#cc342b"
 
 # Mem/Disk free meter
 theme[free_start]="#198844"
-theme[free_mid]="#FBA922"
-theme[free_end]="#CC342B"
+theme[free_mid]="#fba922"
+theme[free_end]="#cc342b"
 
 # Mem/Disk cached meter
 theme[cached_start]="#198844"
-theme[cached_mid]="#FBA922"
-theme[cached_end]="#CC342B"
+theme[cached_mid]="#fba922"
+theme[cached_end]="#cc342b"
 
 # Mem/Disk available meter
 theme[available_start]="#198844"
-theme[available_mid]="#FBA922"
-theme[available_end]="#CC342B"
+theme[available_mid]="#fba922"
+theme[available_end]="#cc342b"
 
 # Mem/Disk used meter
 theme[used_start]="#198844"
-theme[used_mid]="#FBA922"
-theme[used_end]="#CC342B"
+theme[used_mid]="#fba922"
+theme[used_end]="#cc342b"
 
 # Download graph colors
 theme[download_start]="#198844"
-theme[download_mid]="#FBA922"
-theme[download_end]="#CC342B"
+theme[download_mid]="#fba922"
+theme[download_end]="#cc342b"
 
 # Upload graph colors
 theme[upload_start]="#198844"
-theme[upload_mid]="#FBA922"
-theme[upload_end]="#CC342B"
+theme[upload_mid]="#fba922"
+theme[upload_end]="#cc342b"

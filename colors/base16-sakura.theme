@@ -1,14 +1,9 @@
-#
-#
 # name: Sakura
 # author: Misterio77 (http://github.com/Misterio77)
 # slug: sakura
 # slug-underscored: sakura
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#feedf3"

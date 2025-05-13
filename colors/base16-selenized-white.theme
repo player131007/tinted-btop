@@ -1,14 +1,9 @@
-#
-#
 # name: selenized-white
 # author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 # slug: selenized-white
 # slug-underscored: selenized_white
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

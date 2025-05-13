@@ -1,14 +1,9 @@
-#
-#
 # name: Brogrammer
 # author: Vik Ramanujam (http://github.com/piggyslasher)
 # slug: brogrammer
 # slug-underscored: brogrammer
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1f1f1f"

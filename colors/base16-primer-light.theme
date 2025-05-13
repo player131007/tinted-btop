@@ -1,14 +1,9 @@
-#
-#
 # name: Primer Light
 # author: Jimmy Lin
 # slug: primer-light
 # slug-underscored: primer_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fafbfc"

@@ -1,38 +1,33 @@
-#
-#
 # name: Tokyo City Terminal Light
 # author: Michaël Ball
 # slug: tokyo-city-terminal-light
 # slug-underscored: tokyo_city_terminal_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#FBFBFD"
+theme[main_bg]="#fbfbfd"
 
 # Main text color
-theme[main_fg]="#28323A"
+theme[main_fg]="#28323a"
 
 # Title color for boxes
-theme[title]="#28323A"
+theme[title]="#28323a"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#34548A"
+theme[hi_fg]="#34548a"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#F6F6F8"
+theme[selected_bg]="#f6f6f8"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#28323A"
+theme[selected_fg]="#28323a"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#526270"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#34548A"
+theme[proc_misc]="#34548a"
 
 # Cpu box outline color
 theme[cpu_box]="#526270"
@@ -50,41 +45,41 @@ theme[proc_box]="#526270"
 theme[div_line]="#526270"
 
 # Temperature graph colors
-theme[temp_start]="#33635C"
-theme[temp_mid]="#8f5E15"
-theme[temp_end]="#8C4351"
+theme[temp_start]="#33635c"
+theme[temp_mid]="#8f5e15"
+theme[temp_end]="#8c4351"
 
 # CPU graph colors
-theme[cpu_start]="#33635C"
-theme[cpu_mid]="#8f5E15"
-theme[cpu_end]="#8C4351"
+theme[cpu_start]="#33635c"
+theme[cpu_mid]="#8f5e15"
+theme[cpu_end]="#8c4351"
 
 # Mem/Disk free meter
-theme[free_start]="#33635C"
-theme[free_mid]="#8f5E15"
-theme[free_end]="#8C4351"
+theme[free_start]="#33635c"
+theme[free_mid]="#8f5e15"
+theme[free_end]="#8c4351"
 
 # Mem/Disk cached meter
-theme[cached_start]="#33635C"
-theme[cached_mid]="#8f5E15"
-theme[cached_end]="#8C4351"
+theme[cached_start]="#33635c"
+theme[cached_mid]="#8f5e15"
+theme[cached_end]="#8c4351"
 
 # Mem/Disk available meter
-theme[available_start]="#33635C"
-theme[available_mid]="#8f5E15"
-theme[available_end]="#8C4351"
+theme[available_start]="#33635c"
+theme[available_mid]="#8f5e15"
+theme[available_end]="#8c4351"
 
 # Mem/Disk used meter
-theme[used_start]="#33635C"
-theme[used_mid]="#8f5E15"
-theme[used_end]="#8C4351"
+theme[used_start]="#33635c"
+theme[used_mid]="#8f5e15"
+theme[used_end]="#8c4351"
 
 # Download graph colors
-theme[download_start]="#33635C"
-theme[download_mid]="#8f5E15"
-theme[download_end]="#8C4351"
+theme[download_start]="#33635c"
+theme[download_mid]="#8f5e15"
+theme[download_end]="#8c4351"
 
 # Upload graph colors
-theme[upload_start]="#33635C"
-theme[upload_mid]="#8f5E15"
-theme[upload_end]="#8C4351"
+theme[upload_start]="#33635c"
+theme[upload_mid]="#8f5e15"
+theme[upload_end]="#8c4351"

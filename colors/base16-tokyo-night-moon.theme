@@ -1,14 +1,9 @@
-#
-#
 # name: Tokyo Night Moon
 # author: Ólafur Bjarki Bogason
 # slug: tokyo-night-moon
 # slug-underscored: tokyo_night_moon
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#222436"

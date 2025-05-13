@@ -1,14 +1,9 @@
-#
-#
 # name: Synth Midnight Terminal Light
 # author: Michaël Ball (http://github.com/michael-ball/)
 # slug: synth-midnight-light
 # slug-underscored: synth_midnight_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#dddfe0"

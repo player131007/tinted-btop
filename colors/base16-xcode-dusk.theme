@@ -1,17 +1,12 @@
-#
-#
 # name: XCode Dusk
 # author: Elsa Gonsiorowski (https://github.com/gonsie)
 # slug: xcode-dusk
 # slug-underscored: xcode_dusk
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#282B35"
+theme[main_bg]="#282b35"
 
 # Main text color
 theme[main_fg]="#939599"
@@ -20,71 +15,71 @@ theme[main_fg]="#939599"
 theme[title]="#939599"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#790EAD"
+theme[hi_fg]="#790ead"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#3D4048"
+theme[selected_bg]="#3d4048"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#939599"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#7E8086"
+theme[inactive_fg]="#7e8086"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#790EAD"
+theme[proc_misc]="#790ead"
 
 # Cpu box outline color
-theme[cpu_box]="#7E8086"
+theme[cpu_box]="#7e8086"
 
 # Memory/disks box outline color
-theme[mem_box]="#7E8086"
+theme[mem_box]="#7e8086"
 
 # Net up/down box outline color
-theme[net_box]="#7E8086"
+theme[net_box]="#7e8086"
 
 # Processes box outline color
-theme[proc_box]="#7E8086"
+theme[proc_box]="#7e8086"
 
 # Box divider line and small boxes line color
-theme[div_line]="#7E8086"
+theme[div_line]="#7e8086"
 
 # Temperature graph colors
-theme[temp_start]="#DF0002"
+theme[temp_start]="#df0002"
 theme[temp_mid]="#438288"
-theme[temp_end]="#B21889"
+theme[temp_end]="#b21889"
 
 # CPU graph colors
-theme[cpu_start]="#DF0002"
+theme[cpu_start]="#df0002"
 theme[cpu_mid]="#438288"
-theme[cpu_end]="#B21889"
+theme[cpu_end]="#b21889"
 
 # Mem/Disk free meter
-theme[free_start]="#DF0002"
+theme[free_start]="#df0002"
 theme[free_mid]="#438288"
-theme[free_end]="#B21889"
+theme[free_end]="#b21889"
 
 # Mem/Disk cached meter
-theme[cached_start]="#DF0002"
+theme[cached_start]="#df0002"
 theme[cached_mid]="#438288"
-theme[cached_end]="#B21889"
+theme[cached_end]="#b21889"
 
 # Mem/Disk available meter
-theme[available_start]="#DF0002"
+theme[available_start]="#df0002"
 theme[available_mid]="#438288"
-theme[available_end]="#B21889"
+theme[available_end]="#b21889"
 
 # Mem/Disk used meter
-theme[used_start]="#DF0002"
+theme[used_start]="#df0002"
 theme[used_mid]="#438288"
-theme[used_end]="#B21889"
+theme[used_end]="#b21889"
 
 # Download graph colors
-theme[download_start]="#DF0002"
+theme[download_start]="#df0002"
 theme[download_mid]="#438288"
-theme[download_end]="#B21889"
+theme[download_end]="#b21889"
 
 # Upload graph colors
-theme[upload_start]="#DF0002"
+theme[upload_start]="#df0002"
 theme[upload_mid]="#438288"
-theme[upload_end]="#B21889"
+theme[upload_end]="#b21889"

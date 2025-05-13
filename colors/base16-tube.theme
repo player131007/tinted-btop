@@ -1,14 +1,9 @@
-#
-#
 # name: London Tube
 # author: Jan T. Sott
 # slug: tube
 # slug-underscored: tube
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#231f20"

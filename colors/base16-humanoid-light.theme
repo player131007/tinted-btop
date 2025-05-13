@@ -1,14 +1,9 @@
-#
-#
 # name: Humanoid light
 # author: Thomas (tasmo) Friese
 # slug: humanoid-light
 # slug-underscored: humanoid_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f8f8f2"

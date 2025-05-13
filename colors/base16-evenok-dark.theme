@@ -1,14 +1,9 @@
-#
-#
 # name: Evenok Dark
 # author: Mekeor Melire
 # slug: evenok-dark
 # slug-underscored: evenok_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#000000"

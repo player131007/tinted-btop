@@ -1,14 +1,9 @@
-#
-#
 # name: summercamp
 # author: zoe firi (zoefiri.github.io)
 # slug: summercamp
 # slug-underscored: summercamp
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1c1810"

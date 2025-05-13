@@ -1,14 +1,9 @@
-#
-#
 # name: Paraiso
 # author: Jan T. Sott
 # slug: paraiso
 # slug-underscored: paraiso
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#2f1e2e"

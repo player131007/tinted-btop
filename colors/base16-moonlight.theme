@@ -1,14 +1,9 @@
-#
-#
 # name: Moonlight
 # author: Jeremy Swinarton (https://github.com/jswinarton)
 # slug: moonlight
 # slug-underscored: moonlight
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#212337"

@@ -1,14 +1,9 @@
-#
-#
 # name: pandora
 # author: Cassandra Fox
 # slug: pandora
 # slug-underscored: pandora
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#131213"

@@ -1,14 +1,9 @@
-#
-#
 # name: Dark Violet
 # author: ruler501 (https://github.com/ruler501/base16-darkviolet)
 # slug: darkviolet
 # slug-underscored: darkviolet
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#000000"

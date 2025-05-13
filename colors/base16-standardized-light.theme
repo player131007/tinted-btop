@@ -1,14 +1,9 @@
-#
-#
 # name: standardized-light
 # author: ali (https://github.com/ali-githb/base16-standardized-scheme)
 # slug: standardized-light
 # slug-underscored: standardized_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

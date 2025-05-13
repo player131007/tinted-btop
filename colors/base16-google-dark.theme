@@ -1,14 +1,9 @@
-#
-#
 # name: Google Dark
 # author: Seth Wright (http://sethawright.com)
 # slug: google-dark
 # slug-underscored: google_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1d1f21"
@@ -20,7 +15,7 @@ theme[main_fg]="#c5c8c6"
 theme[title]="#c5c8c6"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#3971ED"
+theme[hi_fg]="#3971ed"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#282a2e"
@@ -32,7 +27,7 @@ theme[selected_fg]="#c5c8c6"
 theme[inactive_fg]="#b4b7b4"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#3971ED"
+theme[proc_misc]="#3971ed"
 
 # Cpu box outline color
 theme[cpu_box]="#b4b7b4"
@@ -51,40 +46,40 @@ theme[div_line]="#b4b7b4"
 
 # Temperature graph colors
 theme[temp_start]="#198844"
-theme[temp_mid]="#FBA922"
-theme[temp_end]="#CC342B"
+theme[temp_mid]="#fba922"
+theme[temp_end]="#cc342b"
 
 # CPU graph colors
 theme[cpu_start]="#198844"
-theme[cpu_mid]="#FBA922"
-theme[cpu_end]="#CC342B"
+theme[cpu_mid]="#fba922"
+theme[cpu_end]="#cc342b"
 
 # Mem/Disk free meter
 theme[free_start]="#198844"
-theme[free_mid]="#FBA922"
-theme[free_end]="#CC342B"
+theme[free_mid]="#fba922"
+theme[free_end]="#cc342b"
 
 # Mem/Disk cached meter
 theme[cached_start]="#198844"
-theme[cached_mid]="#FBA922"
-theme[cached_end]="#CC342B"
+theme[cached_mid]="#fba922"
+theme[cached_end]="#cc342b"
 
 # Mem/Disk available meter
 theme[available_start]="#198844"
-theme[available_mid]="#FBA922"
-theme[available_end]="#CC342B"
+theme[available_mid]="#fba922"
+theme[available_end]="#cc342b"
 
 # Mem/Disk used meter
 theme[used_start]="#198844"
-theme[used_mid]="#FBA922"
-theme[used_end]="#CC342B"
+theme[used_mid]="#fba922"
+theme[used_end]="#cc342b"
 
 # Download graph colors
 theme[download_start]="#198844"
-theme[download_mid]="#FBA922"
-theme[download_end]="#CC342B"
+theme[download_mid]="#fba922"
+theme[download_end]="#cc342b"
 
 # Upload graph colors
 theme[upload_start]="#198844"
-theme[upload_mid]="#FBA922"
-theme[upload_end]="#CC342B"
+theme[upload_mid]="#fba922"
+theme[upload_end]="#cc342b"

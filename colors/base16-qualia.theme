@@ -1,38 +1,33 @@
-#
-#
 # name: Qualia
 # author: isaacwhanson
 # slug: qualia
 # slug-underscored: qualia
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#101010"
 
 # Main text color
-theme[main_fg]="#C0C0C0"
+theme[main_fg]="#c0c0c0"
 
 # Title color for boxes
-theme[title]="#C0C0C0"
+theme[title]="#c0c0c0"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#50CACD"
+theme[hi_fg]="#50cacd"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#454545"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#C0C0C0"
+theme[selected_fg]="#c0c0c0"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#808080"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#50CACD"
+theme[proc_misc]="#50cacd"
 
 # Cpu box outline color
 theme[cpu_box]="#808080"
@@ -50,41 +45,41 @@ theme[proc_box]="#808080"
 theme[div_line]="#808080"
 
 # Temperature graph colors
-theme[temp_start]="#80C990"
-theme[temp_mid]="#E6A3DC"
-theme[temp_end]="#EFA6A2"
+theme[temp_start]="#80c990"
+theme[temp_mid]="#e6a3dc"
+theme[temp_end]="#efa6a2"
 
 # CPU graph colors
-theme[cpu_start]="#80C990"
-theme[cpu_mid]="#E6A3DC"
-theme[cpu_end]="#EFA6A2"
+theme[cpu_start]="#80c990"
+theme[cpu_mid]="#e6a3dc"
+theme[cpu_end]="#efa6a2"
 
 # Mem/Disk free meter
-theme[free_start]="#80C990"
-theme[free_mid]="#E6A3DC"
-theme[free_end]="#EFA6A2"
+theme[free_start]="#80c990"
+theme[free_mid]="#e6a3dc"
+theme[free_end]="#efa6a2"
 
 # Mem/Disk cached meter
-theme[cached_start]="#80C990"
-theme[cached_mid]="#E6A3DC"
-theme[cached_end]="#EFA6A2"
+theme[cached_start]="#80c990"
+theme[cached_mid]="#e6a3dc"
+theme[cached_end]="#efa6a2"
 
 # Mem/Disk available meter
-theme[available_start]="#80C990"
-theme[available_mid]="#E6A3DC"
-theme[available_end]="#EFA6A2"
+theme[available_start]="#80c990"
+theme[available_mid]="#e6a3dc"
+theme[available_end]="#efa6a2"
 
 # Mem/Disk used meter
-theme[used_start]="#80C990"
-theme[used_mid]="#E6A3DC"
-theme[used_end]="#EFA6A2"
+theme[used_start]="#80c990"
+theme[used_mid]="#e6a3dc"
+theme[used_end]="#efa6a2"
 
 # Download graph colors
-theme[download_start]="#80C990"
-theme[download_mid]="#E6A3DC"
-theme[download_end]="#EFA6A2"
+theme[download_start]="#80c990"
+theme[download_mid]="#e6a3dc"
+theme[download_end]="#efa6a2"
 
 # Upload graph colors
-theme[upload_start]="#80C990"
-theme[upload_mid]="#E6A3DC"
-theme[upload_end]="#EFA6A2"
+theme[upload_start]="#80c990"
+theme[upload_mid]="#e6a3dc"
+theme[upload_end]="#efa6a2"

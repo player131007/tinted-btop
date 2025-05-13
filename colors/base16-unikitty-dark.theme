@@ -1,14 +1,9 @@
-#
-#
 # name: Unikitty Dark
 # author: Josh W Lewis (@joshwlewis)
 # slug: unikitty-dark
 # slug-underscored: unikitty_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#2e2a31"

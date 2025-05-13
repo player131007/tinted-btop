@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Estuary
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-estuary
 # slug-underscored: atelier_estuary
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#22221b"

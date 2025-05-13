@@ -1,14 +1,9 @@
-#
-#
 # name: tender
 # author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 # slug: tender
 # slug-underscored: tender
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#282828"

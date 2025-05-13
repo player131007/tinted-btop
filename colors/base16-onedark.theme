@@ -1,14 +1,9 @@
-#
-#
 # name: OneDark
 # author: Lalit Magant (http://github.com/tilal6991)
 # slug: onedark
 # slug-underscored: onedark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#282c34"

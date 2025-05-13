@@ -1,14 +1,9 @@
-#
-#
 # name: Decaf
 # author: Alex Mirrington (https://github.com/alexmirrington)
 # slug: decaf
 # slug-underscored: decaf
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#2d2d2d"

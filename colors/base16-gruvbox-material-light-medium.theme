@@ -1,14 +1,9 @@
-#
-#
 # name: Gruvbox Material Light, Medium
 # author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
 # slug: gruvbox-material-light-medium
 # slug-underscored: gruvbox_material_light_medium
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fbf1c7"

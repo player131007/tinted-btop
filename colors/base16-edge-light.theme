@@ -1,14 +1,9 @@
-#
-#
 # name: Edge Light
 # author: cjayross (https://github.com/cjayross)
 # slug: edge-light
 # slug-underscored: edge_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fafafa"

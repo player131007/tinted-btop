@@ -1,23 +1,18 @@
-#
-#
 # name: Blue Forest
 # author: alonsodomin (https://github.com/alonsodomin)
 # slug: blueforest
 # slug-underscored: blueforest
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#141F2E"
+theme[main_bg]="#141f2e"
 
 # Main text color
-theme[main_fg]="#FFCC33"
+theme[main_fg]="#ffcc33"
 
 # Title color for boxes
-theme[title]="#FFCC33"
+theme[title]="#ffcc33"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#a2cff5"
@@ -26,7 +21,7 @@ theme[hi_fg]="#a2cff5"
 theme[selected_bg]="#1e5c1e"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#FFCC33"
+theme[selected_fg]="#ffcc33"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#1e5c1e"
@@ -51,40 +46,40 @@ theme[div_line]="#1e5c1e"
 
 # Temperature graph colors
 theme[temp_start]="#80ff80"
-theme[temp_mid]="#91CCFF"
+theme[temp_mid]="#91ccff"
 theme[temp_end]="#fffab1"
 
 # CPU graph colors
 theme[cpu_start]="#80ff80"
-theme[cpu_mid]="#91CCFF"
+theme[cpu_mid]="#91ccff"
 theme[cpu_end]="#fffab1"
 
 # Mem/Disk free meter
 theme[free_start]="#80ff80"
-theme[free_mid]="#91CCFF"
+theme[free_mid]="#91ccff"
 theme[free_end]="#fffab1"
 
 # Mem/Disk cached meter
 theme[cached_start]="#80ff80"
-theme[cached_mid]="#91CCFF"
+theme[cached_mid]="#91ccff"
 theme[cached_end]="#fffab1"
 
 # Mem/Disk available meter
 theme[available_start]="#80ff80"
-theme[available_mid]="#91CCFF"
+theme[available_mid]="#91ccff"
 theme[available_end]="#fffab1"
 
 # Mem/Disk used meter
 theme[used_start]="#80ff80"
-theme[used_mid]="#91CCFF"
+theme[used_mid]="#91ccff"
 theme[used_end]="#fffab1"
 
 # Download graph colors
 theme[download_start]="#80ff80"
-theme[download_mid]="#91CCFF"
+theme[download_mid]="#91ccff"
 theme[download_end]="#fffab1"
 
 # Upload graph colors
 theme[upload_start]="#80ff80"
-theme[upload_mid]="#91CCFF"
+theme[upload_mid]="#91ccff"
 theme[upload_end]="#fffab1"

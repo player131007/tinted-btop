@@ -1,53 +1,48 @@
-#
-#
 # name: Silk Dark
 # author: Gabriel Fontes (https://github.com/Misterio77)
 # slug: silk-dark
 # slug-underscored: silk_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#0e3c46"
 
 # Main text color
-theme[main_fg]="#C7DBDD"
+theme[main_fg]="#c7dbdd"
 
 # Title color for boxes
-theme[title]="#C7DBDD"
+theme[title]="#c7dbdd"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#46bddd"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#1D494E"
+theme[selected_bg]="#1d494e"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#C7DBDD"
+theme[selected_fg]="#c7dbdd"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#9DC8CD"
+theme[inactive_fg]="#9dc8cd"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#46bddd"
 
 # Cpu box outline color
-theme[cpu_box]="#9DC8CD"
+theme[cpu_box]="#9dc8cd"
 
 # Memory/disks box outline color
-theme[mem_box]="#9DC8CD"
+theme[mem_box]="#9dc8cd"
 
 # Net up/down box outline color
-theme[net_box]="#9DC8CD"
+theme[net_box]="#9dc8cd"
 
 # Processes box outline color
-theme[proc_box]="#9DC8CD"
+theme[proc_box]="#9dc8cd"
 
 # Box divider line and small boxes line color
-theme[div_line]="#9DC8CD"
+theme[div_line]="#9dc8cd"
 
 # Temperature graph colors
 theme[temp_start]="#73d8ad"

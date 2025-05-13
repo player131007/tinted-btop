@@ -1,14 +1,9 @@
-#
-#
 # name: Woodland
 # author: Jay Cornwall (https://jcornwall.com)
 # slug: woodland
 # slug-underscored: woodland
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#231e18"

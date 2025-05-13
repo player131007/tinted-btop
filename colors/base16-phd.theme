@@ -1,14 +1,9 @@
-#
-#
 # name: PhD
 # author: Hennig Hasemann (http://leetless.de/vim.html)
 # slug: phd
 # slug-underscored: phd
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#061229"

@@ -1,14 +1,9 @@
-#
-#
 # name: Terracotta Dark
 # author: Alexander Rossell Hayes (https://github.com/rossellhayes)
 # slug: terracotta-dark
 # slug-underscored: terracotta_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#241d1a"

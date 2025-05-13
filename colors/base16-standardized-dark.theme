@@ -1,14 +1,9 @@
-#
-#
 # name: standardized-dark
 # author: ali (https://github.com/ali-githb/base16-standardized-scheme)
 # slug: standardized-dark
 # slug-underscored: standardized_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#222222"

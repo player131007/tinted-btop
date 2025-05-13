@@ -1,14 +1,9 @@
-#
-#
 # name: Oxocarbon Light
 # author: shaunsingh/IBM
 # slug: oxocarbon-light
 # slug-underscored: oxocarbon_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f2f4f8"
@@ -51,40 +46,40 @@ theme[div_line]="#262626"
 
 # Temperature graph colors
 theme[temp_start]="#0f62fe"
-theme[temp_mid]="#FF6F00"
+theme[temp_mid]="#ff6f00"
 theme[temp_end]="#ff7eb6"
 
 # CPU graph colors
 theme[cpu_start]="#0f62fe"
-theme[cpu_mid]="#FF6F00"
+theme[cpu_mid]="#ff6f00"
 theme[cpu_end]="#ff7eb6"
 
 # Mem/Disk free meter
 theme[free_start]="#0f62fe"
-theme[free_mid]="#FF6F00"
+theme[free_mid]="#ff6f00"
 theme[free_end]="#ff7eb6"
 
 # Mem/Disk cached meter
 theme[cached_start]="#0f62fe"
-theme[cached_mid]="#FF6F00"
+theme[cached_mid]="#ff6f00"
 theme[cached_end]="#ff7eb6"
 
 # Mem/Disk available meter
 theme[available_start]="#0f62fe"
-theme[available_mid]="#FF6F00"
+theme[available_mid]="#ff6f00"
 theme[available_end]="#ff7eb6"
 
 # Mem/Disk used meter
 theme[used_start]="#0f62fe"
-theme[used_mid]="#FF6F00"
+theme[used_mid]="#ff6f00"
 theme[used_end]="#ff7eb6"
 
 # Download graph colors
 theme[download_start]="#0f62fe"
-theme[download_mid]="#FF6F00"
+theme[download_mid]="#ff6f00"
 theme[download_end]="#ff7eb6"
 
 # Upload graph colors
 theme[upload_start]="#0f62fe"
-theme[upload_mid]="#FF6F00"
+theme[upload_mid]="#ff6f00"
 theme[upload_end]="#ff7eb6"

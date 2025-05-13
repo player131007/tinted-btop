@@ -1,17 +1,12 @@
-#
-#
 # name: vice
 # author: Thomas Leon Highbaugh thighbaugh@zoho.com
 # slug: vice
 # slug-underscored: vice
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#17191E"
+theme[main_bg]="#17191e"
 
 # Main text color
 theme[main_fg]="#8b9cbe"

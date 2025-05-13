@@ -1,14 +1,9 @@
-#
-#
 # name: Gruvbox dark, hard
 # author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 # slug: gruvbox-dark-hard
 # slug-underscored: gruvbox_dark_hard
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1d2021"

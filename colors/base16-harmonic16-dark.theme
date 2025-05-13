@@ -1,14 +1,9 @@
-#
-#
 # name: Harmonic16 Dark
 # author: Jannik Siebert (https://github.com/janniks)
 # slug: harmonic16-dark
 # slug-underscored: harmonic16_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#0b1c2c"

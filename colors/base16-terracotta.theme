@@ -1,14 +1,9 @@
-#
-#
 # name: Terracotta
 # author: Alexander Rossell Hayes (https://github.com/rossellhayes)
 # slug: terracotta
 # slug-underscored: terracotta
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#efeae8"

@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Plateau
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-plateau
 # slug-underscored: atelier_plateau
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1b1818"

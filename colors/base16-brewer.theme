@@ -1,14 +1,9 @@
-#
-#
 # name: Brewer
 # author: Timothée Poisot (http://github.com/tpoisot)
 # slug: brewer
 # slug-underscored: brewer
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#0c0d0e"

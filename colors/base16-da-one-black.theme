@@ -1,14 +1,9 @@
-#
-#
 # name: Da One Black
 # author: NNB (https://github.com/NNBnh)
 # slug: da-one-black
 # slug-underscored: da_one_black
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#000000"

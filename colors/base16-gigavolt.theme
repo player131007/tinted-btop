@@ -1,14 +1,9 @@
-#
-#
 # name: Gigavolt
 # author: Aidan Swope (http://github.com/Whillikers)
 # slug: gigavolt
 # slug-underscored: gigavolt
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#202126"

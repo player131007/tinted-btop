@@ -1,14 +1,9 @@
-#
-#
 # name: Helios
 # author: Alex Meyer (https://github.com/reyemxela)
 # slug: helios
 # slug-underscored: helios
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1d2021"

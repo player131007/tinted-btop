@@ -1,14 +1,9 @@
-#
-#
 # name: Humanoid dark
 # author: Thomas (tasmo) Friese
 # slug: humanoid-dark
 # slug-underscored: humanoid_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#232629"

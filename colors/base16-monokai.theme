@@ -1,14 +1,9 @@
-#
-#
 # name: Monokai
 # author: Wimer Hazenberg (http://www.monokai.nl)
 # slug: monokai
 # slug-underscored: monokai
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#272822"

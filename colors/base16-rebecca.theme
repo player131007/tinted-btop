@@ -1,14 +1,9 @@
-#
-#
 # name: Rebecca
 # author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
 # slug: rebecca
 # slug-underscored: rebecca
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#292a44"

@@ -1,14 +1,9 @@
-#
-#
 # name: Gruvbox Material Dark, Soft
 # author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
 # slug: gruvbox-material-dark-soft
 # slug-underscored: gruvbox_material_dark_soft
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#32302f"

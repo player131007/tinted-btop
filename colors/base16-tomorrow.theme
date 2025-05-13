@@ -1,14 +1,9 @@
-#
-#
 # name: Tomorrow
 # author: Chris Kempson (http://chriskempson.com)
 # slug: tomorrow
 # slug-underscored: tomorrow
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

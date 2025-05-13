@@ -1,14 +1,9 @@
-#
-#
 # name: Mellow Purple
 # author: gidsi
 # slug: mellow-purple
 # slug-underscored: mellow_purple
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1e0528"
@@ -23,7 +18,7 @@ theme[title]="#ffeeff"
 theme[hi_fg]="#550068"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#1A092D"
+theme[selected_bg]="#1a092d"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#ffeeff"

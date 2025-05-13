@@ -1,14 +1,9 @@
-#
-#
 # name: Rosé Pine Moon
 # author: Emilia Dunfelt <edun@dunfelt.se>
 # slug: rose-pine-moon
 # slug-underscored: rose_pine_moon
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#232136"

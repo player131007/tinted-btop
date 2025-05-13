@@ -1,17 +1,12 @@
-#
-#
 # name: Solar Flare Light
 # author: Chuck Harmston (https://chuck.harmston.ch)
 # slug: solarflare-light
 # slug-underscored: solarflare_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#F5F7FA"
+theme[main_bg]="#f5f7fa"
 
 # Main text color
 theme[main_fg]="#586875"
@@ -20,10 +15,10 @@ theme[main_fg]="#586875"
 theme[title]="#586875"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#33B5E1"
+theme[hi_fg]="#33b5e1"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#E8E9ED"
+theme[selected_bg]="#e8e9ed"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#586875"
@@ -32,7 +27,7 @@ theme[selected_fg]="#586875"
 theme[inactive_fg]="#667581"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#33B5E1"
+theme[proc_misc]="#33b5e1"
 
 # Cpu box outline color
 theme[cpu_box]="#667581"
@@ -50,41 +45,41 @@ theme[proc_box]="#667581"
 theme[div_line]="#667581"
 
 # Temperature graph colors
-theme[temp_start]="#7CC844"
-theme[temp_mid]="#E4B51C"
-theme[temp_end]="#EF5253"
+theme[temp_start]="#7cc844"
+theme[temp_mid]="#e4b51c"
+theme[temp_end]="#ef5253"
 
 # CPU graph colors
-theme[cpu_start]="#7CC844"
-theme[cpu_mid]="#E4B51C"
-theme[cpu_end]="#EF5253"
+theme[cpu_start]="#7cc844"
+theme[cpu_mid]="#e4b51c"
+theme[cpu_end]="#ef5253"
 
 # Mem/Disk free meter
-theme[free_start]="#7CC844"
-theme[free_mid]="#E4B51C"
-theme[free_end]="#EF5253"
+theme[free_start]="#7cc844"
+theme[free_mid]="#e4b51c"
+theme[free_end]="#ef5253"
 
 # Mem/Disk cached meter
-theme[cached_start]="#7CC844"
-theme[cached_mid]="#E4B51C"
-theme[cached_end]="#EF5253"
+theme[cached_start]="#7cc844"
+theme[cached_mid]="#e4b51c"
+theme[cached_end]="#ef5253"
 
 # Mem/Disk available meter
-theme[available_start]="#7CC844"
-theme[available_mid]="#E4B51C"
-theme[available_end]="#EF5253"
+theme[available_start]="#7cc844"
+theme[available_mid]="#e4b51c"
+theme[available_end]="#ef5253"
 
 # Mem/Disk used meter
-theme[used_start]="#7CC844"
-theme[used_mid]="#E4B51C"
-theme[used_end]="#EF5253"
+theme[used_start]="#7cc844"
+theme[used_mid]="#e4b51c"
+theme[used_end]="#ef5253"
 
 # Download graph colors
-theme[download_start]="#7CC844"
-theme[download_mid]="#E4B51C"
-theme[download_end]="#EF5253"
+theme[download_start]="#7cc844"
+theme[download_mid]="#e4b51c"
+theme[download_end]="#ef5253"
 
 # Upload graph colors
-theme[upload_start]="#7CC844"
-theme[upload_mid]="#E4B51C"
-theme[upload_end]="#EF5253"
+theme[upload_start]="#7cc844"
+theme[upload_mid]="#e4b51c"
+theme[upload_end]="#ef5253"

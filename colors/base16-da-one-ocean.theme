@@ -1,14 +1,9 @@
-#
-#
 # name: Da One Ocean
 # author: NNB (https://github.com/NNBnh)
 # slug: da-one-ocean
 # slug-underscored: da_one_ocean
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#171726"

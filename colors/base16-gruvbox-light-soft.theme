@@ -1,14 +1,9 @@
-#
-#
 # name: Gruvbox light, soft
 # author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 # slug: gruvbox-light-soft
 # slug-underscored: gruvbox_light_soft
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f2e5bc"

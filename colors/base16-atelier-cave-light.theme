@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Cave Light
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-cave-light
 # slug-underscored: atelier_cave_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#efecf4"

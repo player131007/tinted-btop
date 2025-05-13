@@ -1,0 +1,85 @@
+# name: Github Dark
+# author: Tinted Theming (https://github.com/tinted-theming)
+# slug: github-dark
+# slug-underscored: github_dark
+# system: base16
+# variant: dark
+
+# Main bg
+theme[main_bg]="#161b22"
+
+# Main text color
+theme[main_fg]="#c9d1d9"
+
+# Title color for boxes
+theme[title]="#c9d1d9"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#388bfd"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#30363d"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#c9d1d9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8b949e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#388bfd"
+
+# Cpu box outline color
+theme[cpu_box]="#8b949e"
+
+# Memory/disks box outline color
+theme[mem_box]="#8b949e"
+
+# Net up/down box outline color
+theme[net_box]="#8b949e"
+
+# Processes box outline color
+theme[proc_box]="#8b949e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8b949e"
+
+# Temperature graph colors
+theme[temp_start]="#2ea043"
+theme[temp_mid]="#bb8009"
+theme[temp_end]="#f85149"
+
+# CPU graph colors
+theme[cpu_start]="#2ea043"
+theme[cpu_mid]="#bb8009"
+theme[cpu_end]="#f85149"
+
+# Mem/Disk free meter
+theme[free_start]="#2ea043"
+theme[free_mid]="#bb8009"
+theme[free_end]="#f85149"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2ea043"
+theme[cached_mid]="#bb8009"
+theme[cached_end]="#f85149"
+
+# Mem/Disk available meter
+theme[available_start]="#2ea043"
+theme[available_mid]="#bb8009"
+theme[available_end]="#f85149"
+
+# Mem/Disk used meter
+theme[used_start]="#2ea043"
+theme[used_mid]="#bb8009"
+theme[used_end]="#f85149"
+
+# Download graph colors
+theme[download_start]="#2ea043"
+theme[download_mid]="#bb8009"
+theme[download_end]="#f85149"
+
+# Upload graph colors
+theme[upload_start]="#2ea043"
+theme[upload_mid]="#bb8009"
+theme[upload_end]="#f85149"

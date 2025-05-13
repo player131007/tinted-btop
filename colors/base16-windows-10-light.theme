@@ -1,14 +1,9 @@
-#
-#
 # name: Windows 10 Light
-# author: Fergus Collins (https://github.com/C-Fergus)
+# author: Fergus Collins (https://github.com/ferguscollins)
 # slug: windows-10-light
 # slug-underscored: windows_10_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f2f2f2"

@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Plateau Light
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-plateau-light
 # slug-underscored: atelier_plateau_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#f4ecec"

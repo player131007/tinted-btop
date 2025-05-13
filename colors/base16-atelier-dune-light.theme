@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Dune Light
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-dune-light
 # slug-underscored: atelier_dune_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fefbec"

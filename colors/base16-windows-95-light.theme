@@ -1,14 +1,9 @@
-#
-#
 # name: Windows 95 Light
-# author: Fergus Collins (https://github.com/C-Fergus)
+# author: Fergus Collins (https://github.com/ferguscollins)
 # slug: windows-95-light
 # slug-underscored: windows_95_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fcfcfc"

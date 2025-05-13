@@ -1,14 +1,9 @@
-#
-#
 # name: Unikitty Light
 # author: Josh W Lewis (@joshwlewis)
 # slug: unikitty-light
 # slug-underscored: unikitty_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

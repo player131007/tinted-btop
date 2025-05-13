@@ -1,53 +1,48 @@
-#
-#
 # name: Brush Trees Dark
 # author: Abraham White <abelincoln.white@gmail.com>
 # slug: brushtrees-dark
 # slug-underscored: brushtrees_dark
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#485867"
 
 # Main text color
-theme[main_fg]="#B0C5C8"
+theme[main_fg]="#b0c5c8"
 
 # Title color for boxes
-theme[title]="#B0C5C8"
+theme[title]="#b0c5c8"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#868cb3"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#5A6D7A"
+theme[selected_bg]="#5a6d7a"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#B0C5C8"
+theme[selected_fg]="#b0c5c8"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#98AFB5"
+theme[inactive_fg]="#98afb5"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#868cb3"
 
 # Cpu box outline color
-theme[cpu_box]="#98AFB5"
+theme[cpu_box]="#98afb5"
 
 # Memory/disks box outline color
-theme[mem_box]="#98AFB5"
+theme[mem_box]="#98afb5"
 
 # Net up/down box outline color
-theme[net_box]="#98AFB5"
+theme[net_box]="#98afb5"
 
 # Processes box outline color
-theme[proc_box]="#98AFB5"
+theme[proc_box]="#98afb5"
 
 # Box divider line and small boxes line color
-theme[div_line]="#98AFB5"
+theme[div_line]="#98afb5"
 
 # Temperature graph colors
 theme[temp_start]="#87b386"

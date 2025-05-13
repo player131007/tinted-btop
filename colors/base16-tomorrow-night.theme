@@ -1,14 +1,9 @@
-#
-#
 # name: Tomorrow Night
 # author: Chris Kempson (http://chriskempson.com)
 # slug: tomorrow-night
 # slug-underscored: tomorrow_night
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1d1f21"

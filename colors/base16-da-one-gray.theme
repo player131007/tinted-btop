@@ -1,14 +1,9 @@
-#
-#
 # name: Da One Gray
 # author: NNB (https://github.com/NNBnh)
 # slug: da-one-gray
 # slug-underscored: da_one_gray
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#181818"

@@ -1,14 +1,9 @@
-#
-#
 # name: Da One White
 # author: NNB (https://github.com/NNBnh)
 # slug: da-one-white
 # slug-underscored: da_one_white
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

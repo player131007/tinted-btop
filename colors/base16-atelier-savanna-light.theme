@@ -1,14 +1,9 @@
-#
-#
 # name: Atelier Savanna Light
 # author: Bram de Haan (http://atelierbramdehaan.nl)
 # slug: atelier-savanna-light
 # slug-underscored: atelier_savanna_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ecf4ee"

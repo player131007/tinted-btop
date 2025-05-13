@@ -1,14 +1,9 @@
-#
-#
 # name: selenized-light
 # author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 # slug: selenized-light
 # slug-underscored: selenized_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#fbf3db"

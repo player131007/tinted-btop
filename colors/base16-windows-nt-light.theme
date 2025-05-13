@@ -1,14 +1,9 @@
-#
-#
 # name: Windows NT Light
-# author: Fergus Collins (https://github.com/C-Fergus)
+# author: Fergus Collins (https://github.com/ferguscollins)
 # slug: windows-nt-light
 # slug-underscored: windows_nt_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#ffffff"

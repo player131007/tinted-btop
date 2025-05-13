@@ -1,38 +1,33 @@
-#
-#
 # name: Darktooth
 # author: Jason Milkins (https://github.com/jasonm23)
 # slug: darktooth
 # slug-underscored: darktooth
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
-theme[main_bg]="#1D2021"
+theme[main_bg]="#1d2021"
 
 # Main text color
-theme[main_fg]="#A89984"
+theme[main_fg]="#a89984"
 
 # Title color for boxes
-theme[title]="#A89984"
+theme[title]="#a89984"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#0D6678"
+theme[hi_fg]="#0d6678"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#32302F"
+theme[selected_bg]="#32302f"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#A89984"
+theme[selected_fg]="#a89984"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#928374"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#0D6678"
+theme[proc_misc]="#0d6678"
 
 # Cpu box outline color
 theme[cpu_box]="#928374"
@@ -50,41 +45,41 @@ theme[proc_box]="#928374"
 theme[div_line]="#928374"
 
 # Temperature graph colors
-theme[temp_start]="#95C085"
-theme[temp_mid]="#FAC03B"
-theme[temp_end]="#FB543F"
+theme[temp_start]="#95c085"
+theme[temp_mid]="#fac03b"
+theme[temp_end]="#fb543f"
 
 # CPU graph colors
-theme[cpu_start]="#95C085"
-theme[cpu_mid]="#FAC03B"
-theme[cpu_end]="#FB543F"
+theme[cpu_start]="#95c085"
+theme[cpu_mid]="#fac03b"
+theme[cpu_end]="#fb543f"
 
 # Mem/Disk free meter
-theme[free_start]="#95C085"
-theme[free_mid]="#FAC03B"
-theme[free_end]="#FB543F"
+theme[free_start]="#95c085"
+theme[free_mid]="#fac03b"
+theme[free_end]="#fb543f"
 
 # Mem/Disk cached meter
-theme[cached_start]="#95C085"
-theme[cached_mid]="#FAC03B"
-theme[cached_end]="#FB543F"
+theme[cached_start]="#95c085"
+theme[cached_mid]="#fac03b"
+theme[cached_end]="#fb543f"
 
 # Mem/Disk available meter
-theme[available_start]="#95C085"
-theme[available_mid]="#FAC03B"
-theme[available_end]="#FB543F"
+theme[available_start]="#95c085"
+theme[available_mid]="#fac03b"
+theme[available_end]="#fb543f"
 
 # Mem/Disk used meter
-theme[used_start]="#95C085"
-theme[used_mid]="#FAC03B"
-theme[used_end]="#FB543F"
+theme[used_start]="#95c085"
+theme[used_mid]="#fac03b"
+theme[used_end]="#fb543f"
 
 # Download graph colors
-theme[download_start]="#95C085"
-theme[download_mid]="#FAC03B"
-theme[download_end]="#FB543F"
+theme[download_start]="#95c085"
+theme[download_mid]="#fac03b"
+theme[download_end]="#fb543f"
 
 # Upload graph colors
-theme[upload_start]="#95C085"
-theme[upload_mid]="#FAC03B"
-theme[upload_end]="#FB543F"
+theme[upload_start]="#95c085"
+theme[upload_mid]="#fac03b"
+theme[upload_end]="#fb543f"

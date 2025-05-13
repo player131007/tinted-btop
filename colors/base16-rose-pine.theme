@@ -1,14 +1,9 @@
-#
-#
 # name: Rosé Pine
 # author: Emilia Dunfelt <edun@dunfelt.se>
 # slug: rose-pine
 # slug-underscored: rose_pine
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#191724"

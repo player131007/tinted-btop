@@ -1,14 +1,9 @@
-#
-#
 # name: Gotham
 # author: Andrea Leopardi (arranged by Brett Jones)
 # slug: gotham
 # slug-underscored: gotham
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#0c1014"
@@ -50,41 +45,41 @@ theme[proc_box]="#245361"
 theme[div_line]="#245361"
 
 # Temperature graph colors
-theme[temp_start]="#33859E"
+theme[temp_start]="#33859e"
 theme[temp_mid]="#edb443"
 theme[temp_end]="#c23127"
 
 # CPU graph colors
-theme[cpu_start]="#33859E"
+theme[cpu_start]="#33859e"
 theme[cpu_mid]="#edb443"
 theme[cpu_end]="#c23127"
 
 # Mem/Disk free meter
-theme[free_start]="#33859E"
+theme[free_start]="#33859e"
 theme[free_mid]="#edb443"
 theme[free_end]="#c23127"
 
 # Mem/Disk cached meter
-theme[cached_start]="#33859E"
+theme[cached_start]="#33859e"
 theme[cached_mid]="#edb443"
 theme[cached_end]="#c23127"
 
 # Mem/Disk available meter
-theme[available_start]="#33859E"
+theme[available_start]="#33859e"
 theme[available_mid]="#edb443"
 theme[available_end]="#c23127"
 
 # Mem/Disk used meter
-theme[used_start]="#33859E"
+theme[used_start]="#33859e"
 theme[used_mid]="#edb443"
 theme[used_end]="#c23127"
 
 # Download graph colors
-theme[download_start]="#33859E"
+theme[download_start]="#33859e"
 theme[download_mid]="#edb443"
 theme[download_end]="#c23127"
 
 # Upload graph colors
-theme[upload_start]="#33859E"
+theme[upload_start]="#33859e"
 theme[upload_mid]="#edb443"
 theme[upload_end]="#c23127"

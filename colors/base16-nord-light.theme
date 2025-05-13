@@ -1,14 +1,9 @@
-#
-#
 # name: Nord Light
 # author: threddast, based on fuxialexander's doom-nord-light-theme (Doom Emacs)
 # slug: nord-light
 # slug-underscored: nord_light
 # system: base16
 # variant: light
-# is-light-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#e5e9f0"

@@ -1,14 +1,9 @@
-#
-#
 # name: caroline
 # author: ed (https://codeberg.org/ed)
 # slug: caroline
 # slug-underscored: caroline
 # system: base16
 # variant: dark
-# is-dark-variant: true
-#
-#
 
 # Main bg
 theme[main_bg]="#1c1213"

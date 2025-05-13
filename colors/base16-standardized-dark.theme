@@ -30,16 +30,16 @@ theme[inactive_fg]="#898989"
 theme[proc_misc]="#00a3f2"
 
 # Cpu box outline color
-theme[cpu_box]="#898989"
+theme[cpu_box]="#5db129"
 
 # Memory/disks box outline color
-theme[mem_box]="#898989"
+theme[mem_box]="#fc804e"
 
 # Net up/down box outline color
-theme[net_box]="#898989"
+theme[net_box]="#b46ee0"
 
 # Processes box outline color
-theme[proc_box]="#898989"
+theme[proc_box]="#21c992"
 
 # Box divider line and small boxes line color
 theme[div_line]="#898989"
